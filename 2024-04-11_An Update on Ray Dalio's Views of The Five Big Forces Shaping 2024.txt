@@ -1,0 +1,843 @@
+0:00
+I'm Jim hasell editor of the Bridgewater daily observations earlier this year we published a daily observations by
+0:06
+Bridgewater founder and CIO Mentor Ray Delio where he described his five big forces framework and how these forces
+0:12
+will shape 2024 and the years to come and we'll link to that here considering
+0:19
+all that's happened in just the last 3 months in markets economies and certainly on the geopolitical front I
+0:25
+thought it' be interesting to sit down with Ray to get his latest thinking on these Dynamics we did that last week and today we're
+0:32
+sharing an edited version of that conversation Ray hits each of the five
+0:37
+big forces and elaborates on where we stand with each and he also discusses how these forces connect with each other
+0:43
+so in today's podcast you'll hear Ray discuss the debt money and economic Force including Ray's thoughts on the
+0:50
+potential for fed easing when inflation remains above Target as well as portfolio considerations in today's
+0:56
+environment he also discusses the internal order Force that's the second force with an emphasis on the 2024 US
+1:03
+presidential election he hits on the external World Order Force including Rising geopolitical conflicts and rais
+1:10
+re on what's happening in China he talks about the force of nature notably
+1:15
+climate change and its Economic Consequences and lastly he talks about the force of human inventiveness
+1:21
+including the potential for AI to bring radical change in the coming years we
+1:26
+start off with a question from me Ray on his five big forces overall Ray it is good to see you I
+Chapter 1: Five Big Forces Overview
+1:33
+believe you're in Connecticut is that correct y it's good to know that you're back on us soil because you've been all
+1:39
+over the world and there's a lot going on in the world right now I think everyone knows we're two years into a
+1:44
+global tightening cycle with markets pricing in fed easing right around the corner even though inflation's still
+1:51
+running uh above Target we've got geopolitical Strife seemingly getting
+1:56
+worse not better as as we see conflicts between Russia and Ukraine continuing
+2:01
+between Israel and Gaza there's a simmering conflict on the North uh of Israel and Lebanon that could even be
+2:08
+more explosive we have of course the China and Taiwan situation stocks gold
+2:13
+Bitcoin are all making new highs we have a consequential US presidential election
+2:19
+approaching at a time of as you've noted many times ever increasing polarization
+2:25
+we have radical new technology in the form of AI um which has huge implic ations for productivity and the
+2:32
+profitability of a subset of companies and and of course we're in the midst of a of a climate crisis I thought it'd be
+2:38
+a perfect time to once again sit down with you get your thoughts on how you're seeing these kinds of big Dynamics in
+2:44
+the world and from today's conversation I thought we'd do that by first asking you to briefly describe your five big
+2:51
+forces which can explain a lot of what we're seeing and then we can delve a little bit deeper into each of them and
+2:57
+look at how they're playing out across country so welcome and let's get right into it with uh your overview of of these five big
+3:04
+forces yeah so you know because I learned in my lifetime that many of the
+3:10
+things that surprised me surprised me because they never happened in my lifetime before I learned that I needed
+3:17
+to study history and I saw that many of them repeated through history and
+3:22
+sometimes we lose the big picture because we're squinting at the details and I went back over history over the
+3:30
+last 500 years really to First deal with uh the first three big forces that
+3:36
+hadn't happened in my lifetime and then I saw the other two the first is the amounts of debt
+3:43
+creation and then monetization of the debts when the um um there isn't enough
+3:49
+money in terms of the supply and demand for credit and its impact on the economy
+3:56
+and the value of the dollar so I wanted to study the rise and declines of reserved currencies over that 500 years
+4:04
+uh the second is the degree of conflict internal conflict of
+4:11
+populism on the left and the right creating irreconcilable differences that
+4:18
+um are uh threatening the Democracy threatening the system in many ways the
+4:24
+amount of the wealth gaps and uh values gaps that are behind that and the amount
+4:31
+of uh political polarity not uh go voting across parting lines and the like
+4:38
+the greatest since 1900 and the third of course is the
+4:43
+great power conflict Global geopolitical great conflict between rival power
+4:50
+particularly China vying for power you know last time that happened the last
+4:55
+time all of these happened was the 1930 to 45 Peri and then I learned by studying the last
+5:04
+500 years and uh and before that um acts of nature uh droughts floods and
+5:11
+pandemics had an even bigger impact than all of those other things that I've mentioned um uh they killed more people
+5:20
+and they toppled more orders more demestic orders more International orders than uh the first three so uh
+5:28
+climate is a big deal and it's certainly a big deal now and then uh number five
+5:35
+throughout history um the inventions of new technologies man's learning and
+5:41
+inventing of new technologies um and uh not only their economic implications but their war and
+5:49
+Military implications but um the repeated time through history of
+5:55
+discovering weapons secretly finding the weapons that you show the other side and
+6:01
+the other side submits because they can't beat the weapon that Dynamic has
+6:06
+Al also been in history and these cannot be looked at as individual things
+6:12
+because they're interdependent for example the United States being overextended and you know we're in 80
+6:20
+countries and then uh fighting two Wars you could have a third war on another front has economic implications or
+6:27
+climate has economic implications and to see them transpire in cycles for logical
+6:33
+reasons that the Cycles exist were discoveries and my framework so those
+6:38
+are the things I think almost anything that you mentioned and anything that's
+6:44
+important falls under one of those five categories and they certainly relate to each other yeah and on that front you
+Chapter 2: The Debt/Money/Economic Force
+6:52
+know you wrote at the beginning of the year we asked you to write your thoughts about 2024 and and if you hit on the
+6:59
+first big one that's sort of the debt money markets economy Force you you
+7:04
+noted then that in a in a wire which we'll link to here that that force was
+7:12
+moderately low when looked at in isolation due to the current market pricing being roughly in line with
+7:17
+fundamentals and a lack of sort of big problems associated with that force on the horizon that couldn't be
+7:23
+well-managed but you also said that the risk Rises significantly when you
+7:28
+considering conjunction with the internal order force and you cited the 2024 elections and the external order
+7:35
+force and so I'm wondering if you could update us now as you look at this debt
+7:40
+money economy Force um how you assess it right now in connection to those other
+7:46
+two threats you were talking about well there's certainly not going to be enough money you know you can get the money
+7:53
+from two places you can tax it or you can uh print it so if we look at at the
+8:00
+the situation of the of the central government um and you do the projections
+8:08
+um you can see how the combination of the higher debt service payments um
+8:14
+together with um the needs for greater defense spending um greater climate
+8:21
+spending a and then you take the entitlements and other things you're
+8:26
+seeing a Debt Service crowding out of consumption happening in the budget
+8:33
+deficits and then you're also seeing Supply demand issues of selling those
+8:38
+bonds to the rest of the world because um no longer are they as attractive and
+8:45
+as a percentage of their port for of foreigners portfolios they're an issue so we certainly have something that you
+8:53
+cannot extrapolate into many years before we
+8:59
+have that particular problem I think let's talk about the bond market for a moment and easing that's built into it
+9:06
+um so I think that there's a mistaken popular view that there should be an
+9:13
+easing so if you look at the or magnitude of easing that is um the largest since I think it's like 1981 or
+9:22
+two there's a lot of uh discounting I mean I think it's U nearly 200 basis
+9:27
+points in the next two uh two years kind of discounting now let's step back and say uh what should the rate structure be
+9:36
+now I think if you uh just uh look at what the equilibrium levels are which I
+9:43
+mean uh appropriate that there is um a real interest rate that's high enough
+9:50
+for the Creditor without being too high for the debtor which by the way becomes a difficult Balancing Act the more debt
+9:57
+you create and and you look let's the inflation rate um you can pick the
+10:03
+number of what people think the inflation rate is a lot of that those numbers would be in the vicinity of uh
+10:10
+two two and a half would I would say below 3% but whatever it is two and a half and 3% and then you take the long rate it's
+10:18
+about 200 basis points so that brings you up in the vicinity the bond yield in
+10:24
+the vicinity of a a a 5% 4 and a half and 5% level given uh a normal
+10:31
+equilibrium I think there's a strong tendency to believe that the yield curve should be um positive I think that if
+10:40
+they um and eventually it'll settle out to be positive but if you're looking at
+10:45
+then the existing level of inflation it certainly um is not at Target and they
+10:51
+they will ease up on that Target they will probably accept an inflation rate
+10:57
+at two and a half to 3% uh but you as as as you bring that up and then you look
+11:03
+at uh the existing uh conditions the existing uh stress levels that exist in
+11:11
+the form of the economy the form of the markets form of credit spreads and so on
+11:18
+um and you say uh this is uh definitely too easy what's wrong with the existing
+11:25
+monetary policy the existing term structure of interest rates in terms of
+11:30
+uh growth and inflation is growth and and infl inflation such that uh growth
+11:36
+is too low and inflation is too low and that you should have a stimula monetary policy that is under the normal set of
+11:44
+circumstances if we now say then what are the risks to those scenarios um I I
+11:50
+would say the risks are of significantly higher um I issues of inflation and so
+11:57
+on for uh for issues pertaining to the political issues and that we'll probably
+12:03
+get into that but how tariffs Will Rise um how other things will take place the
+12:09
+and what's going on geopolitically creates another risk and then there's the supply demand so when I look at the
+12:16
+bond market I think the Bond Market um is at a at a around these levels um a
+12:25
+appropriately uh priced in that vicinity of and a half I think probably longer
+12:30
+term it's not going to that's too low um and then if I take the slope of the
+12:36
+yield curve and where the short rates are and where the existing rates of inflation are and so on I think that
+12:42
+that's o operating uh well so yet there's a 200 basis point easing and we
+12:48
+still have the big budget deficit um and current account deficit uh issues going
+12:55
+on let's explore inflation a bit more focusing on the fiscal policy side Ray
+13:01
+you've made the point that politically neither of the presidential candidates has an incentive to reign in spending
+13:07
+the Biden Administration doesn't want to see too much of a constraint going into the election and it really doesn't appear that Trump and his people really
+13:13
+want to spend less either so I think the picture you're painting here is a hotter inflationary environment than currently
+13:20
+priced in the interest rate markets can you walk us through how you're thinking about that well there's two issues
+13:28
+there's first the inflation rate and second there is the supply demand for
+13:33
+the bonds if I'm looking at the inflation rate um and I look at the poor levels
+13:43
+particularly income levels um spending levels and then um and and then I um I I
+13:52
+I come up with I don't know let I come up with about 3% it's two and a half I
+13:57
+don't really know the difference so I I'm happy to say that by any measure we are not at the 2% targeted so
+14:07
+we're above that and current one would say is in that vicinity that's not much
+14:14
+of a disputable question and then you could add on uh what you know what what
+14:19
+I said about rates before as we go forward in terms of the supply demand
+14:25
+issue we know that we're going to have a lot more Supply yeah I'm talking about
+14:32
+money supply and money before we get to supplying of stuff so um on the supply
+14:38
+of money um uh uh what we know is um
+14:43
+that there is not going to be any Remediation in fact there is going to
+14:49
+have to be increase in spending and if you take where the geopolitical
+14:54
+situation is not only internally but I said geopolitical in internationally and
+15:00
+you look at what for example the defense budget is okay it's a 1% increase in the
+15:07
+in the budget which is a negative real um decrease um that is a pressing issue
+15:14
+that people on both sides uh recognize and um they don't want to talk about it
+15:20
+right now in terms of that issue but that's not going to be a sustainable amount that we're um in the world and
+15:28
+then if you then take into consideration the climate issue the climate issue one
+15:33
+way or another that's estimated to be about 8 trillion dollars a year which is
+15:38
+required and we're not going to spend that we're spending about one sixth of that which means also one of the reasons
+15:45
+we're not anywhere near approaching holding temperature increases at one and a half degrees be because but anyway
+15:52
+it's um that that's 8% of world GDP there's a lot of spending and then there's the north south South issue
+15:59
+um and and then we're looking at the world and you say who's going to afford
+16:05
+these various things you look at Europe and and you know okay we say Europe
+16:11
+should take care of its defense in in terms of those things well Europe has its own issues and so on so what we have
+16:19
+is um the need or more the demands for higher am amounts of spending that are
+16:26
+even put into that budget and those budgets so the risks of those are on the
+16:31
+upside and if you just take what is projected and then you apply The Debt
+16:37
+Service payments to that the maturity of the debt and the amount of interest
+16:43
+payments that has to be on that debt that is creating a classic squeeze in
+16:48
+other words I've seen this repeatedly happen throughout countries and this this financial this is not sound strong
+16:56
+finances in which there's a good statement in a balance sheet so the value of debt assets is a function of
+17:05
+these types of things and so um as we come into a world also of greater
+17:10
+conflict the um it's has to be recognized that a debt asset is a risky
+17:18
+asset to hold because conflicts themselves create greater needs and then
+17:23
+there's also a settlement problem in terms of what is the asset that is exchangeable around the world if you
+17:30
+study markets during Wars and I've studied markets during Wars um allies
+17:36
+don't accept each other's money right because of the fact that that money that
+17:41
+debt that they'll take on they know that country is going to get into more debt and probably have to monetize the debt
+17:48
+and they don't even know what will happen at the uh end of that so the risks literally of holding money debt
+17:56
+debt assets during Wars or different types uh assets during Wars are are high and
+18:02
+lurk in the back not to mention then the issues pertaining to the uh possibility
+18:10
+possibility of unacceptable disruptions in supply lines let me explore a couple
+18:16
+a couple of things you you said so this sort of demand Supply mismatch for us
+18:22
+paper or for that matter many governments around the world so this is a threat to to to uh fiat currency this
+18:28
+is basically what you're you're raising you've been talking about this for a while you know we do see gold for
+18:34
+example making new nominal highs we do see Bitcoin U making uh highs I mean part of that is structural in terms of
+18:40
+the development of an ETF but still the demand is uh is there I would presume
+18:45
+that given what you're saying you would say that those market dynamics that we're seeing right now are not
+18:51
+surprising no I let me step back and say that the most important thing that
+18:58
+everybody should start with is a balanced portfolio the up until now
+19:04
+we've been talking about what might happen Okay but if you put aside the
+19:10
+uncertainties of the supply demand and such things and you think about what is
+19:16
+a balanced portfolio what are my risks so that I have
+19:22
+symmetrical uh risks so that I can go through any environment one would have
+19:28
+greater amounts of those assets uh inflation hedge assets that are the type
+19:34
+of money okay so let me just pause on that for let's say gold um Bitcoin is a
+19:42
+another topic but it's a related topic uh money that I can go from one place to
+19:49
+another with and it's accepted around the world it's accepted by central banks
+19:56
+today by the way gold is the third largest reserve after dollars and Euro
+20:02
+and so it's a money that's accepted and um as the say goes it's a it's a it's an
+20:08
+asset that is not somebody else's liability other ones you're depending on
+20:14
+getting paid this one you're not depending on possession you know is the
+20:20
+law in essentially and um it has uh a negative Co correlation significant
+20:27
+negative Cor coration with the top of the typical portfolios which have a lot of equity
+20:34
+beta in them but Equity or Bond beta it has if you take any of the major
+20:40
+crisises you see that that movement out of money in that sort of way cause a
+20:46
+spike in gold and that if you take a portfolio Optimizer and you were to say
+20:53
+what if I was to Overlay gold in my portfolio added
+20:59
+it would reduce the risk and increase the expected return if you add that into
+21:05
+a portfolio so the issue is at this time given all the sets of
+21:14
+circumstances why wouldn't you move to a more balanced portfolio why wouldn't you
+21:19
+do those exercises in order to consider that now let's move to the internal
+Chapter 3: The Internal Conflict Force and the US Election
+21:25
+conflict Force you know we have elections approaching all over the world
+21:30
+including probably the most consequential election right here in the United States and on the presidential level and it's shaping up to be a rerun
+21:37
+of the last one you've been very vocal on the dangers you see in the polarization in the United States and
+21:43
+elsewhere so I'm wondering if you can give us your thoughts on how you're seeing the internal conflict Force particularly as it pertains to the US
+21:50
+and what the consequences could be of either Republican or a Democratic Victory when I did the
+21:57
+study uh it was like watching them the movie over and over again uh there
+22:02
+there's this movie that happens and and what it is is when there are big wealth
+22:07
+and values gaps and um you have populism which
+22:13
+means uh that people get fed up of not having their own needs taken care of and
+22:21
+they reject this the that old political
+22:26
+system that doesn't deliver for them then you have irreconcilable differences
+22:34
+in which you have to pick aide and fight and then that calls into question
+22:41
+the system and whether the system is fair is the legal system fair is the
+22:47
+Supreme Court Fair or has it been corrupted by the politicalization is the
+22:55
+media balanced and so on the and are are we working to
+23:00
+compromise and to or are we having irreconcilable voting blocks and
+23:06
+decision blocks that means it's black and white and you have to get on one side or the other and we haven't seen
+23:14
+that in our lifetimes before and so when I wrote the book everybody thought it was crazy this was before there was
+23:21
+January 6th but I've seen this happen repeatedly there's a cycle and there's a
+23:26
+norm for that and that is what we are in so when we look at the upcoming
+23:33
+elections the first questions that we ask ourselves is is this election going
+23:39
+to progress normally and then if the election progresses normally where will
+23:44
+that lead us because of how the different sides have different views and
+23:50
+how will they work together to achieve results so in other words politics is normal so we have some reasonable ly
+23:59
+concerning issue that you may not have an acceptance of the outcome in that
+24:07
+normal way we are getting to the point that it is conceivable that they will
+24:13
+not be an acceptance and you get a civil warish type of reaction I know my words
+24:20
+are evocative I don't mean them to be evocative but it could very well be that
+24:25
+the states do not listen to the Federal government on decisions that they say no
+24:31
+make me and then you have a breakdown of that kind of a system and I know that
+24:37
+this sounds evocative to to most people but if you read history and you see
+24:42
+what's happening that has to be considered as a possibility as we look at these types of Elections um it's
+24:50
+certainly the case if you have an election and it progresses normally
+24:55
+let's say and Donald Trump is elected which by the way might mean less of a
+25:01
+risk of the fight because the Democrats might accept that I they may not accept the policies I think you're going to
+25:08
+likely have the politicalization of the government in other words we know that there's a plan
+25:15
+underway to take many civil servants and get rid of those civil servants and to
+25:21
+replace those that who are on his side and that there is a movement now like
+25:27
+you're you're with him or you're against him and and think about the consequences
+25:33
+of that and so there's that element of the dynamic which is a reality I'm not
+25:39
+making this up okay so how does government work it's more going to be do
+25:44
+you have more Congressional investigations for political reasons now
+25:51
+let's assume that that's all not a problem and everything runs smoothly then we can go on to what the policies
+25:58
+are and Donald Trump's policies are going to be more nationalistic
+26:05
+isolationist free markets more uh more capitalist um and so on and that'll have
+26:13
+consequences that'll have consequences in inflation trade and world affairs
+26:20
+because geopolitical part of the world affairs means that the United States
+26:25
+will not be the same kind of Ally but nor will it have to have the associated
+26:32
+expenses of being the same kind of Ally but it will then start to produce
+26:37
+consequences geopolitical consequences as there is a retrenching from some of the war
+26:45
+areas so now let's contemplate if Joe Biden is elected you're probably not
+26:51
+going to have Joe Biden because um he probably will not be in the condition at
+26:56
+least this is popular thinking that he probably will not be in the condition um
+27:01
+to be the president all through that that particular term and so and and
+27:07
+there's some question of course as to whether Trump would be too but more so uh Biden and and so when there's the
+27:14
+election there is the question of uh what is a democratic Pro policy what
+27:20
+what will the Democrat the Democrats are split there are moderate Democrats and
+27:26
+then there are extreme Democrats in other words extreme leftist de Democrats
+27:33
+that would um arrange big um transfers of wealth our country is not in good
+27:39
+shape in other words if you look at the financial condition the infrastructure
+27:45
+the education um and those types of things uh we're in a hole we and so by being in
+27:53
+a hole um it's not like um somebody isn't going to pay and those who will
+27:59
+pay will be uh the rich and the uh corporations so now you start to think
+28:05
+about what does that mean for cor corporate taxes and what does that mean for markets so when we think about that
+28:12
+we remember uh what it meant uh when Donald Trump got elected the number one thing is what is the you know the stock
+28:19
+is worth it it's after tax net cash prison value that's net cash flows and
+28:27
+so if taxes go up that is like interest rates going up it's a it's a negative on
+28:34
+uh the markets and so on and it also can produce conflict you might see and I
+28:40
+would say you're likely to see greater polarity in um in the decision making
+28:46
+and having unreconcilable differences there are differences these differences aren't just about people's money which
+28:53
+they care a lot about these differences are also about values so there are
+28:59
+irreconcilable differences that seems to me makes the uh political situation in
+29:05
+the United States uh an important situation and when I relate it to the other forces the the financial force or
+29:13
+I related to the geopolitical force it's more threatening because geopolitically
+29:20
+other countries are probably going to take advantage of what is happening in the United States on the extr interal
+Chapter 4: The External Conflict Force
+29:29
+Conflict for us I'm wondering where you think we stand and what the future holds
+29:34
+we've we've got a stalemate that maybe Russia is winning that stalemate in the Russia Ukraine war and there's a lack of
+29:41
+funding willingness on the part of the West particularly the United States and then we also have the conflict that
+29:47
+simmers underneath the surface it's not a hot conflict but the Taiwan issue and China Taiwan and of course the other
+29:55
+conflicts uh going on so when when you look at this are these top of mind and
+30:00
+do you think that any of them are particularly going to become more acute
+30:05
+in some way that would raise risk premiums looking out over the course of this year and into next or are they sort
+30:12
+of stable for the moment in your view and um not top of mind uh because there
+30:18
+are other factors that are that that that are affecting what's going on um I think that uh it's less
+30:25
+important to look at everything through the wars and the conflicts that are happening as much as you're looking you
+30:33
+should look at the allies and the dynamic that is behind
+30:39
+that okay so both are going on there is a local conflict between in the Middle
+30:46
+East Israel Gaza or or the Hamas Palestinians
+30:52
+and then other Regional entities and there is a uh certainly a Russia
+30:58
+Ukraine but um you have to keep in mind that there's that's a manifestation to a
+31:05
+large extent of a greater conflict that has to do with um Associated common
+31:12
+interests uh regarding the powers that be in the world such as a China Russia
+31:20
+Iran and so when we look at that in that way we we're seeing both sides play out
+31:28
+so you're seeing for example the money and support
+31:33
+test in other words Europe and the United States okay how much money will you put
+31:41
+into it and how much support will you put into it becomes um a
+31:47
+test and we know the consequences of that and that test we it also
+31:54
+means um it's a draw down of resources um in other words literally our capacity
+32:02
+to produce military equipment and the inventories of Mi military equipment are
+32:10
+depleted and even the modernization of military equipment is depleted and
+32:16
+that's a fact and that's a fact globally and it's also a relevant flat fact
+32:23
+because of um the fact very classically in the great Empire
+32:28
+at the stage in the cycle they are overextended because they have
+32:33
+militaries all around the world the United States has militaries in 80 countries and um those
+32:41
+originally um those presences in other countries were
+32:46
+profitable that's what the empire did they they made them profitable and they were profitable well they they can
+32:52
+become very unprofitable and so when we look at these issues it also becomes a political
+32:59
+issue domestically as to what is the United States's position not only an
+33:05
+economic question but will what wars will the United States fight okay what
+33:12
+will you lose people will you lose unacceptably in different locations in
+33:19
+that that may be in Europe or um in Middle East or it may be in Asia and
+33:26
+that is an issue that's a geopolitical game issue before we move on from the
+Chapter 5: Assessing What’s Happening in China
+33:32
+external conflict Force I want to zoom in on China because Ray you just wrote a new daily observations and it was titled
+33:38
+in China the hundred-year storm on the horizon and how the five big forces are playing out in that piece you describe
+33:45
+what's currently happening in China both economically and otherwise in the context of what has transpired over the
+33:51
+past Century we'll link to that piece here but I'm wondering if you could just share with our listeners how you're
+33:58
+seeing China today in terms of its trajectory its leadership and of course the power conflict with the
+34:04
+US Chinese are culturally they've had
+34:09
+you know many thousands of years of um civilization and it meaning it's like
+34:15
+watching the movies over and over again the Rises and declines of dynasties and there's a cycle and I think they kind of
+34:23
+understand where they are in that cycle and then there's the basic thing to know
+34:30
+about it is that um be strong be
+34:36
+powerful um and if you're strong and powerful that will determine your
+34:42
+position and know how to play your position and it's very much an extension
+34:49
+of confusion ISM which is an extension of the family and hierarchy so you know
+34:54
+your position your position means that if you're in a position power that you behave in a certain way
+35:01
+with those of lesser power and they call that the tribute system uh in other
+35:07
+words the one who has lesser power should respect those with has greater
+35:13
+power and those with greater power should be treat those with lesser power
+35:19
+well and you never want to occupy a country and and make it do the things it
+35:28
+doesn't want to do those policies never work you're not going to occupy and make
+35:34
+a people operate by a religion or a way that they they don't want to operate by
+35:39
+that that's a force against nature that what you want to do is is find out well
+35:44
+what do you want from them and what do they want from you and have good trading
+35:50
+relations with them and so on and to more I would suppose manipulate them or
+35:57
+um operate that way and so when we're applying it to the ex existing set of
+36:03
+circumstances it is um in their minds um natural and admirable that their power
+36:11
+increased as it it did that you know since I started going there 19 uh 84 per
+36:18
+capita incomes increased by 29 times and and life expectancy is greater than 10
+36:24
+years greater and poverty rates of like being hungry went from 88% to less than
+36:30
+1% and it's been quite a remarkable Arc and that then there are these things
+36:38
+like the big cycle that I'm talking about in terms of now we're they're at a
+36:44
+different phase in the big cycle where what happens is you're not going to have the same growth and then you have a debt
+36:51
+crisis and then you have uh the great power conflict so you no longer can hide
+36:58
+your power so now you're a threat now you have the dynamic and the question is how do you play that Dynamic I urge the
+37:06
+people to read the piece that I wrote which describes then how that's
+37:11
+operating he is now operating she is operating much more in a Le what's
+37:16
+called In traditional history of of that illegalist way which is um a very strict
+37:23
+Behavior way with a uh Marxist M Mayo um type of overcome what that means it
+37:31
+it should be understood so they view it as the United States is a declining
+37:38
+power that is trying to contain it and then uh there's the associated rivalry
+37:46
+uh with that so now of course both countries have they have um these
+37:53
+domestic issues the domestic issues I would I would say is whether they res whether they operate
+38:01
+in a way that they have an economically lost decade with a let's let's say a
+38:07
+maoist Marxist tilt or whether they do a big
+38:13
+restructuring a debt restructuring and so on is going to be in their court and it's a greater risk that they will have
+38:20
+that if they have that that I think that their basic view of that is that it's
+38:27
+the disruptive and undesirable but it's not going to bring them to where they
+38:32
+were before and that the population uh which can be spoiled and
+38:39
+corrupt in their view um has got to get in shape uh because we have to prepare
+38:47
+they would say that we have to prepare for the hundred-year storm on the horizon so I would say I would describe
+38:54
+the perspective as being uh along Ong those lines and I would say um the same
+39:01
+issues are existing in in their various ways in the United States we talked about the United States and they're I
+39:08
+think um describing it as there's a 100-year storm on the horizon which by
+39:14
+the way brings us back if you go back a hundred years that's U you know you go back 90 years you're probably that's
+39:21
+where you are um and so I think that that's the perspective and the only way
+39:27
+that you handle that well is to be uh strong so to do the right things to
+39:33
+bring the populations together and to be productive and strong um that is be what
+39:40
+will determine how these things transpire in the end and um also to be
+39:46
+able to compromise rather than to destroy the other so Ry as we hit the
+Chapter 6: AI and Climate Considerations
+39:54
+two other forces one of one of them is of course course productivity and new invention and human inventiveness and
+40:02
+this is something you've been looking at carefully so walk us through a little bit how you're thinking about uh Ai and
+40:09
+and and a and a potential productivity miracle and what it would look like through history we have seen um that the
+40:17
+human has evolved almost with their body parts different body parts from the
+40:23
+bottom up um being replaced by machines um so in the agricultural age the uh
+40:30
+human was uh like oxen and then we had tractors and and then in the industrial
+40:37
+revolution we had machines that would replace that and then increasingly we
+40:42
+had Ai and there's been a continuous process of its uh Evolution that has uh
+40:49
+been essential to my personal and Bridgewater's development um over that
+40:56
+period of time which we went through um using expert systems um to develop that
+41:04
+and um now um there is the generative Ai and lar language models which is a
+41:10
+tremendous tool that uh will accelerate that and so I could say you know without
+41:17
+a doubt that it will be a fabulous tool in all dimensions and will be in
+41:24
+investing so along those lines it is going to be a tremendously
+41:32
+transformative influence and and we're just talking about AI um when we take
+41:38
+other technologies that are also U transformative so that has to do with
+41:45
+everything from Quantum Computing to um
+41:50
+um uh genetic sequencing to um studying
+41:55
+the Imaging of the body um at a molecular level um and um so many
+42:04
+different forms new energy sources um and and so many different
+42:10
+things the technologies that are accelerating because the brain is being um
+42:18
+significantly improved when you increase your muscles the power of your muscles
+42:23
+with tractors and um other things um and that's one thing but when you increase
+42:29
+the power of the mind to invent and to deal with things automatically that's a
+42:35
+whole different level of advancement and that's what we're seeing so I think if I
+42:42
+take these five big forces that we're talking about um and I look out I count
+42:48
+out one year two years I think that in 3 to five years it's like it's going to be
+42:54
+like going through a Time Warp where going to see a radically different world
+43:01
+that these things are going to come to a head they're things that we're all talking about and then in this AI world
+43:07
+so the world is going to be a very very different world in the future and then I
+43:12
+take climate which we just touched on but we really didn't get into climate is
+43:19
+going to have a a big effect um in in lots of different ways droughts floods
+43:25
+and pandemics have throughout history as I said have this huge effect and so
+43:31
+we're going to experience that we're going to it's going to cost us a lot of money and then it has implications
+43:38
+because it has implications on world Water Supplies temperatures uh in which
+43:45
+will lead to migrations of people it'll change economic behaviors in a lot of
+43:51
+different ways these things are all happening and so um I I I I think when
+43:57
+we step back and we look at all of that we can say these big things are
+44:03
+happening there are lessons from the past that we could learn and at the same
+44:08
+time we mustn't be arrogant in thinking that we can anticipate well all the
+44:16
+convergence of those things and we have to think how do we structure a portfolio
+44:21
+well so that regardless of what happens we're going to be okay
+44:27
+Ray thank you so much for your time I love doing this with you and I look
+44:33
+forward in several months to sitting down again and doing it all over again to to hear your thoughts on the five
+44:39
+forces so thank you so much my pleasure we hope you enjoyed the discussion and
+44:45
+look forward to engaging with you more on our latest research through the Bridgewater daily observations we also
+44:51
+encourage you to rate and comment on today's episode your feedback helps us to improve and it helps us to answer
+44:58
+your most important investment questions thank you very much for additional
+45:03
+information and other important disclosures please see the full disclosures at the bottom of today's
+45:09
+observations on the Bridgewater client Observatory
+
