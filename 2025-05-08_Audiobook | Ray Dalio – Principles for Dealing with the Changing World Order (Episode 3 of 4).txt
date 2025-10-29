@@ -1,0 +1,3804 @@
+0:00
+This is principles for dealing with the changing world order written by Ray Dallio. Given the depth and length of
+0:06
+this book, the complete audio will be presented across multiple videos. In this video, you'll hear from part one,
+Contents In This Video
+0:13
+how the world works. Chapter 4, the changing value of money. Chapter 5, the
+0:19
+big cycle of internal order and disorder. Chapter six, the big cycle of
+0:24
+external order and disorder. Chapter 7, Investing in Light of the Big Cycle.
+Full Book Structure
+0:30
+You'll now see the full table of contents on screen, offering a clear overview of the book's structure. Let's
+0:37
+begin. Chapter 4, The Changing Value of
+Chapter 4: The Changing Value of Money
+0:42
+Money. This chapter examines the concepts introduced in the prior chapter in a more granular way to show you how
+0:50
+consistent they are with the actual cases they are derived from. While we will get a bit more into the mechanics
+0:57
+here than we did in chapter 3, I have written this chapter in a way that should be accessible to the general
+1:03
+reader and at the same time precise enough to satisfy the needs of skilled economists and
+1:08
+investors. As previously explained, there is a real economy and there is a financial economy and the two are
+1:15
+closely entwined but different. Each has its own supply and demand dynamics. In
+1:22
+this chapter, we will focus on the supply and demand dynamics of the financial economy to explore what
+1:27
+determines the value of money. Most people worry about whether their assets are going up or down. They rarely pay
+1:34
+much attention to the value of their currency. Think about it. How worried are you about your currency declining?
+1:41
+And how worried are you about how your stocks or your other assets are doing? If you're like most people, you are not
+1:48
+nearly as aware of your currency risk as you need to be. So, let's explore
+1:53
+currency risks. All currencies are devalued or
+2:00
+die. Of the roughly 750 currencies that have existed since 1700, only about 20%
+2:07
+remain, and all of them have been devalued. If you went back to 1850 as an example,
+2:14
+the world's major currencies wouldn't look anything like the ones today. While the dollar, pound, and Swiss Frank
+2:21
+existed in 1850, the most important currencies of that era have died. In
+2:27
+what is now Germany, you would have used the golden or the dollar. There was no yen, so in Japan, you might have used
+2:33
+the Coban or the Rio instead. In Italy, you would have used one or more of six
+2:40
+currencies. You would have used different currencies in Spain, China, and most other countries as well. Some
+2:46
+were completely wiped out. In most cases, they were in countries that had hyperinflation and/or lost wars and had
+2:53
+large war debts and replaced by entirely new currencies. Some were merged into
+2:59
+currencies that replaced them. For example, the individual European currencies were merged into the euro and
+3:06
+some remain in existence but were devalued like the British pound and the US
+3:12
+dollar. What do they devalue against? The goal of printing money is
+3:18
+to reduce debt burdens. So the most important thing for currencies to devalue against is debt. that is
+3:25
+increase the amount of money relative to the amount of debt to make it easier for debtors to repay. Debt is a promise to
+3:32
+deliver money. So giving more money to those who need it lessens their debt burden. Where this newly created money
+3:39
+and credit then flow determines what happens next. In cases in which debt
+3:45
+relief facilitates the flow of this money and credit into productivity and profits for companies, real stock
+3:52
+prices, that is the value of stocks after adjusting for inflation, rise.
+3:57
+When the creation of money sufficiently hurts the actual and prospective returns of cash and debt assets, it drives flows
+4:05
+out of those assets and into inflation hedge assets like gold, commodities,
+4:10
+inflation indexed bonds, and other currencies including digital. This leads
+4:15
+to a self-reinforcing decline in the value of money. At times when the central bank faces the choice between
+4:22
+allowing real interest rates, that is the rate of interest minus the rate of inflation to rise to the detriment of
+4:28
+the economy and the anger of most of the public or preventing real interest rates
+4:34
+from rising by printing money and buying those cash and debt assets. They will
+4:39
+choose the second path. This reinforces the bad returns of holding cash and
+4:44
+those debt assets. The later in the long-term debt cycle this happens, the greater the
+4:50
+likelihood there will be a breakdown in the currency and monetary system. This breakdown is most likely to occur when
+4:57
+the amounts of debt and money are already too large to be turned into real value for the amounts of goods and
+5:03
+services they are claims on. The level of real interest rates that is low enough to save debtors from bankruptcy
+5:09
+is below the level required for creditors to hold the debt as a viable storehold of wealth. and the normal
+5:16
+central bank levers of allocating capital via interest rate changes which I call monetary policy 1 or MP1 and/or
+5:24
+printing money and buying highquality debt monetary policy 2 or MP2 don't
+5:31
+work. This turns monetary policy into a facilitator of a political system that
+5:36
+allocates resources in an uneconomic way. There are systemically beneficial
+5:43
+devaluations, though they are always costly to holders of money and debt. And there are systemically destructive ones
+5:49
+that damage the credit capital allocation system, but are needed to wipe out debt in order to create a new
+5:56
+monetary order. It's important to be able to tell the difference. To do that, I will start by showing how
+6:03
+the values of currencies have changed in relation to both gold and consumer price
+6:08
+index weighted baskets of goods and services. These are relevant comparisons
+6:13
+because gold is the timeless and universal alternative currency while money is meant to buy goods and
+6:19
+services. So, its buying power is of paramount importance. I will also touch on how a currency's
+6:26
+value changes in relation to other currencies and debt and in relation to stocks because they too can be
+6:32
+storeholds of wealth. The picture that all these measures convey is broadly
+6:38
+similar when a devaluation is big enough. Many other things, real estate,
+6:43
+art, etc. are also alternative storeholds of wealth. But gold will make my point
+6:50
+nicely in relation to gold. The next PDF chart shows spot
+6:56
+exchange rates of the three major reserve currencies in relation to gold since
+7:02
+1600. We will examine all of this in depth later. For now, I would like to
+7:07
+focus on both the spot currency returns and the total returns of interest earning cash in all the major currencies
+7:14
+since 1850. The next two PDF charts show
+7:19
+devaluations typically occur fairly abruptly during debt crises that are separated by longer periods of
+7:26
+prosperity and stability. I noted six devaluations, but of course there were
+7:32
+many more of minor currencies. To properly compare the returns of holding cash in a currency to
+7:39
+gold, we have to take into account the interest one would earn on cash. This
+7:45
+next PDF chart shows the total return, that is price changes plus interest
+7:50
+earned, on cash in each major currency versus gold. Due to a lack of data,
+7:56
+several charts in this chapter do not show China. Here are the most notable
+8:02
+takeaways. Big devaluations are abrupt and episodic rather than
+8:08
+evolutionary. Over the last 170 years, there were six time frames when really
+8:13
+big devaluations of major currencies occurred and plenty more of minor
+8:18
+currencies. In the 1860s during its civil war, the US suspended gold
+8:24
+convertability and printed paper money known as greenbacks to help monetize war
+8:30
+debts. Around the time the US returned to its gold peg in the mid 1870s, a
+8:36
+number of other countries joined the gold standard. Most currencies remained fixed against it until World War I.
+8:43
+Major exceptions were Japan, which was on a silver linked standard until the 1890s, which led its exchange rate to
+8:50
+devalue against gold as silver prices fell during this period, and Spain,
+8:55
+which frequently suspended convertability to support large fiscal deficits. During World War I, waring
+9:02
+countries ran enormous deficits that were funded by central banks printing and lending of money. Gold served as
+9:09
+money in foreign transactions as international trust and hence credit was lacking. When the war ended, a new
+9:17
+monetary order was created with gold and the winning countries currencies which were tied to
+9:22
+gold. Still, between 1919 and 1922, several European countries, especially
+9:28
+those that lost the war, were forced to print and devalue their currencies. The
+9:33
+German mark and German mark debt sank between 1920 and 1923. Some of the winners of the war
+9:40
+also had debts that had to be devalued to create a new start. With debt, domestic, political,
+9:47
+and international geopolitical restructurings done. The 1920s boomed,
+9:52
+particularly in the US, inflating a debt bubble. The debt bubble burst in 1929,
+9:59
+requiring central banks to print money and devalue it through the 1930s. More money printing and more
+10:06
+money devaluations were required during World War II to fund military spending. In 1944 and 45, as the war
+10:14
+ended, a new monetary system that linked the dollar to gold and other currencies to the dollar was created. The
+10:22
+currencies and debts of Germany, Japan, and Italy, as well as those of China and a number of other countries, were
+10:29
+quickly and totally destroyed, while those of most winners of the war were slowly but still substantially
+10:35
+depreciated. This monetary system stayed in place until the late 1960s.
+10:41
+In 1968-73, most importantly in 1971, excessive spending and debt
+10:48
+creation, especially by the US, required breaking the dollars linked to gold
+10:53
+because the claims on gold that were being turned in were far greater than the amount of gold available to redeem
+11:00
+them. That led to a dollar-based fiat monetary system which allowed the big increase in
+11:06
+dollar denominated money and credit that fueled the inflation of the 1970s and
+11:11
+led to the debt crisis of the 1980s. Since 2000, the value of money
+11:17
+has fallen in relation to the value of gold due to money and credit creation and because interest rates have been low
+11:24
+in relation to inflation rates. Because the monetary system has been free floating, it hasn't experienced the
+11:30
+abrupt breaks it did in the past. The devaluation has been more gradual and
+11:36
+continuous. Low and in some cases negative interest rates have not provided compensation for the increasing
+11:43
+amount of money and credit and the resulting albeit low inflation. Now, let's take a closer look
+11:50
+at these events. The returns from holding currencies in short-term debt that collects interest
+11:58
+were generally profitable between 1850 and 1913 relative to the returns from
+12:03
+holding gold. Most currencies were able to remain fixed against gold or silver
+12:08
+and lending and borrowing worked well for those who did it. That prosperous
+12:13
+period is called the second industrial revolution when borrowers turned the money they borrowed into earnings that
+12:20
+allowed their debts to be paid back at high interest rates. Times were turbulent nevertheless. For example, in
+12:27
+the early 1900s in the US, a debt financed speculative boom in stocks grew
+12:33
+overextended causing a banking and brokerage crisis that led to the panic
+12:38
+of 1907. At the same time that the large wealth gap and other social issues, for
+12:43
+example, women's suffrage and trade unionization were causing political tensions. Capitalism was challenged and
+12:51
+taxes started to rise to fund the wealth redistribution process. Both the Federal
+12:56
+Reserve and the US federal income tax were instituted in 1913. Though a world away, China was
+13:03
+impacted by the same dynamic. A stock market bubble led by rubber production stocks. China's equivalent of the
+13:10
+railroad stock bubbles that contributed to panics in the US throughout the 19th century burst in 1910 causing the crash
+13:18
+that some have described as a factor in the debt money economic downswing that brought about the end of imperial China.
+13:27
+But throughout most of that period, type 2 monetary systems, that is those with notes convertible into metal money,
+13:34
+remained in place in most countries, and the holders of those notes got paid good interest rates without having their
+13:40
+currencies devalued. The big exceptions were the US devaluation to finance its civil war
+13:46
+debts in the 1860s, the frequent devaluations of Spain's currency due to
+13:51
+its weakness as a global power, and the sharp devaluations in Japan's currency due to its remaining on a silver linked
+13:59
+standard until the 1890s, while silver prices were falling relative to gold.
+14:05
+Please see the PDF chart for illustration. When World War I began in 1914,
+14:12
+countries borrowed a lot to fund it. This led to the late debt cycle breakdowns and devaluations that came
+14:18
+when war debts had to be wiped out, effectively destroying the monetary systems of the war's losers.
+14:25
+The Paris Peace Conference that ended the war in 1918 attempted to institute a
+14:31
+new international order around the League of Nations. But those efforts at cooperation could not forstall the debt
+14:37
+crises and monetary instability caused by the huge war indemnities that were
+14:42
+placed on the defeated powers as well as the large war debts that the victorious
+14:48
+Allied powers owed each other, particularly the US. Germany suffered a complete wipeout of
+14:55
+the value of money and credit which led to the most iconic hyperinflation in history during the VHimar Republic which
+15:01
+I describe in great detail in principles for navigating big debt crises. The Spanish flu pandemic also
+15:09
+occurred during the period beginning in 1918 and ending in 1920. With the
+15:14
+exception of the US, virtually every country devalued its currency because they had to monetize some of their war
+15:21
+debts. Had they not done so, they wouldn't have been able to compete in world markets with the countries that
+15:27
+did. China's silver-based currency rallied sharply relative to gold and
+15:32
+gold linked currencies near the end of the war as silver prices rose and then
+15:37
+mechanically devalued as silver prices fell sharply amid the post-war deflation in the US. That period of war and
+15:45
+devaluation that established the new world order in 1918 was followed by an
+15:51
+extended and productive period of economic prosperity particularly in the US known as the roaring 20s. Like all
+15:59
+such periods, it led to big debt and asset bubbles and large wealth gaps.
+16:05
+Please see the PDF charts for illustration. Different versions of the same thing
+16:11
+happened during the 1930s. Between 1930 and 1933, a global
+16:16
+debt crisis caused economic contractions that led to money printing and competitive devaluations in virtually
+16:23
+every country, eroding the value of money moving into World War II. Conflicts over wealth within
+16:30
+countries led to greater conflicts between them. All the waring countries built up war debts while the US gained a
+16:37
+lot of wealth in the form of gold during the war. Then after the war, the value
+16:42
+of money and debt was completely wiped out for the losers, Germany, Japan, and Italy, as well as for China and was
+16:50
+severely devalued for the UK and France, even though they were among the winners.
+16:55
+A new world order and a period of prosperity followed the war. We won't
+17:00
+examine it other than to mention that the excessive borrowing that took place set in motion the next big devaluation
+17:06
+which happened between 1968 and 1973. See the PDF chart for
+17:14
+illustration. By the mid1 1950s, the dollar and the Swiss Frank were the only currencies worth even half of their
+17:20
+1850s exchange rate. As seen in the next related PDF chart, the downward pressure
+17:27
+on currencies and upward pressure on gold started in 1968. On August 15th, 1971, President
+17:35
+Nixon ended the Bretonwoods monetary system, devaluing the dollar and leaving
+17:40
+the monetary system in which the dollar was backed by gold and instituting a fiat monetary system. I will cover this
+17:47
+episode in more detail in chapter 11. Since 2000, we have seen a more gradual
+17:54
+and orderly loss of total return in currencies when measured in gold, consistent with the broad fall in real
+18:00
+rates across countries. In summary, the average annual return of interest earning cash
+18:07
+currency between 1850 and the present was 1.2% which was a bit higher than the
+18:13
+average real return of holding gold, which was 0.9%. Though there were huge differences in
+18:19
+returns at various periods of time and in various countries, you would have received a
+18:25
+positive real return for holding bills in about half of the countries during that time period and a negative real
+18:31
+return in the other half. In the case of Germany, you would have been totally wiped out twice.
+18:38
+Most of the real returns from holding interest earning cash currency would have come in the periods of prosperity
+18:44
+when most countries were on gold standards that they adhered to. For example, during the second industrial
+18:50
+revolution when debt levels and debt service burdens were relatively low and
+18:55
+income growth was nearly equal to debt growth. The real return for bills since
+19:01
+1912, the modern fiat era, has been 0.1%.
+19:07
+The real return of gold during this era has been 1.6%. You would only have made a
+19:13
+positive real return holding interest earning cash currency in about half of the countries during this era and you
+19:19
+would have lost meaningfully in the rest over 2% a year in France, Italy and
+19:25
+Japan and over 18% a year in Germany due to the hyperinflation.
+19:30
+Please see the next PDF which shows currency and gold real returns of major
+19:35
+countries since 1850. The next PDF chart shows the real
+19:41
+returns from holding gold between 1850 and the present. From 1850 to 1971, gold
+19:48
+returned through its appreciation an amount that roughly equaled the amount of money lost to inflation on average.
+19:55
+Though there were big variations around that average both across countries, for example, Germany seeing large gold
+20:02
+outperformance while countries with only limited devaluations like the US saw gold prices not keep up with inflation.
+20:09
+And across time, for example, the 1930s currency devaluations and the World War
+20:15
+II era devaluations of money that were part of the formation of the Bretonwoods monetary system in 1944.
+20:22
+After the war, gold stayed steady in price across most countries, while money
+20:27
+and credit expanded until 1971. Then in 1971, there was a shift
+20:33
+from a type 2 monetary system, notes backed by gold, to a type three fiat
+20:39
+monetary system. That dellinking of currencies from gold gave central banks
+20:44
+the unconstrained ability to create money and credit. That led to high inflation and low real interest rates
+20:51
+which led to the big appreciation in the real gold price until 1980 and 81 when
+20:57
+interest rates were raised significantly above the inflation rate leading currencies to strengthen and gold to
+21:04
+fall until 2000. That is when central banks pushed interest rates down relative to
+21:10
+inflation rates and when they couldn't push rates any lower by normal means printed money and bought financial
+21:16
+assets which supported gold prices. Please see the next PDF
+21:23
+graphic. The value of currencies in relation to goods and services. Thus far we have looked at the
+21:31
+market values of currencies in relation to the market value of gold. That raises the question as to whether gold is an
+21:38
+appropriate gauge of value. The next PDF chart shows the value of interest earning currency in
+21:44
+terms of the consumer price index CPI baskets of goods and services in those
+21:50
+currencies reflecting their changes in buying power. As can be clearly seen,
+21:55
+the two world wars were very bad and there have been ups and downs in the years since. For about half of the
+22:02
+currencies, interest earning cash provided a return above the rate of inflation. For the other half, it
+22:07
+provided negative real returns. In all cases, there were big and roughly 10-year long swings around those
+22:15
+averages. In other words, history has shown that there are very large risks in
+22:20
+holding interesting cash currency as a storehold of wealth, especially late in
+22:25
+debt cycles. Please see the next PDF graphic. [Music]
+22:31
+The patterns of countries devaluing and losing their reserve currency
+22:37
+status. A currency devaluing and a currency losing its reserve currency status aren't necessarily the same,
+22:44
+though both are caused by debt crisis. The loss of reserve currency status is a
+22:49
+product of chronic large devaluations. As previously explained, increasing the
+22:55
+supply of money and credit reduces the value of money and credit. This is bad for holders of money and credit, but a
+23:02
+relief to debtors. When this debt relief allows money and credit to flow into
+23:07
+productivity and profits for companies, real stock prices rise. But it can also
+23:13
+damage the actual and prospective returns of cash and debt assets enough to drive people out of them and into
+23:20
+inflation hedge assets and other currencies. The central bank then prints money and buys cash and debt assets
+23:27
+which reinforces the bad returns of holding them. The later in the long-term debt cycle this happens, the greater the
+23:34
+likelihood that there will be a breakdown in the currency and monetary system. Policymakers and investors must
+23:41
+be able to tell the difference between systemically beneficial devaluations and systemically destructive
+23:48
+ones. What do these devaluations have in common? All the economies in the major
+23:54
+cases that we examine in depth in part two experienced a classic run dynamic in
+24:00
+which there were more claims on the central bank than there was hard currency available to satisfy them. That
+24:06
+hard currency was typically gold, though it was US dollars for the UK reserve currency decline because at that time
+24:13
+the pound was linked to the dollar. Net central bank reserves start
+24:18
+falling prior to the actual devaluation. In some cases years ahead also worth noting that in several
+24:25
+cases countries suspended convertability before the actual devaluation of the exchange rate. The UK did this in 1947
+24:34
+and ahead of the 1949 devaluation and the US did it in
+24:39
+1971. The run on the currency and the devaluations typically occur alongside
+24:45
+significant debt problems often related to wartime spending. For example, the fourth Anglo Dutch war for the
+24:51
+Netherlands, the world wars for the UK and the Vietnam War for the US which put
+24:57
+pressure on the central bank to print. The worst situations are when countries lose wars. That typically leads to the
+25:04
+total collapse and restructuring of their currencies and their economies. However, winners of wars that end up
+25:10
+with debts much larger than their assets and reduced competitiveness, for example, the UK after the World Wars,
+25:17
+also lose their reserve currency status, though more gradually.
+25:22
+Typically, central banks initially respond by letting short-term rates rise, but that is too economically
+25:29
+painful. So, they quickly capitulate and increase the supply of money. After the money devalues, they typically cut
+25:37
+rates. Outcomes diverge significantly across the cases with a key variable
+25:42
+being how much economic and military power the country retains at the time of the devaluation.
+25:48
+The more it has, the more willing savers are to continue holding their money there. More specifically for the major
+25:55
+reserve currencies. For the Dutch, the collapse of the gilder was massive and relatively
+26:01
+quick. It took place over less than a decade with the actual circulation of gilders falling swiftly by the end of
+26:08
+the fourth Anglo Dutch War in 1784. The collapse came as the Netherlands
+26:13
+entered a steep decline as a world power. First losing to the British and subsequently facing invasion from
+26:20
+France. For the UK, the decline was more gradual. It took two devaluations before
+26:25
+it fully lost its reserve currency status after Breton Woods. Though it experienced periodic balance of payment
+26:32
+strains over the intervening period, many who held reserves in pounds continued to do so because of political
+26:39
+pressures and their assets significantly underperformed US assets during the same
+26:44
+time. In the case of the US, there were two big abrupt devaluations in 1933 and
+26:51
+1971 and more gradual devaluations against gold since 2000. but they
+26:57
+haven't cost the US its reserve currency status. Typically, a country loses its
+27:02
+reserve currency status when there is an already established loss of economic and political primacy to a rising rival
+27:09
+which creates a vulnerability. For example, the Netherlands falling behind the UK or the UK falling behind the US
+27:17
+and there are large and growing debts monetized by the central bank printing money and buying government debt. This
+27:24
+leads to a weakening of the currency in a self-reinforcing run that can't be stopped because the fiscal and balance
+27:30
+of payments deficits are too great for any cutbacks to close. In part two, we will see the last
+27:39
+500 years of history as one continuous story of rises and declines of empires
+27:44
+and the reasons for them. And you will see the same cause effect relationships driving the rises and declines. But
+27:51
+first we need to explore the big cycles of internal and external order disorder
+27:57
+which we will do in the next two chapters. Chapter 5. The big cycle of
+Chapter 5: The Big Cycle of Internal Order and Disorder
+28:04
+internal order and disorder. How people are with each other
+28:10
+is the primary driver of the outcomes they get within countries. There are systems or orders for governing how
+28:17
+people are supposed to behave with each other. These systems and the actual behaviors of people operating within
+28:23
+them produce consequences. In this chapter, we will explore the timeless and universal cause effect relationships
+28:31
+that shape the internal orders and the behaviors that drive the shifts between periods of order and periods of
+28:37
+disorder. Through my research, I saw how changes in internal orders, that is count's
+28:44
+systems for governing internally and changes in the world order, that is the systems determining power between
+28:51
+countries, happen continuously and everywhere in similar and increasingly
+28:56
+interconnected ways that flow together as one all-encompassing story from the beginning of recorded time up to this
+29:03
+moment. Seeing many interlinking cases evolve together helped me to discover the
+29:10
+patterns that govern them and to imagine the future based on what I've learned.
+29:15
+Most importantly, I saw how the constant struggle for wealth and power produced continuously evolving internal systems
+29:22
+and orders and external systems and orders and saw how these internal and
+29:27
+external orders affect each other with the whole thing that is the world order
+29:32
+working like a perpetual motion machine that evolves while doing the same things over and over again for basically the
+29:39
+same reasons. The biggest thing affecting most people in most countries through time is how
+29:45
+people struggle to make, take, and distribute wealth and power, though they also struggle over other things, most
+29:52
+importantly, ideology and religion. I saw how these struggles happened in
+29:58
+timeless and universal ways and how these struggles had huge implications for all aspects of people's lives.
+30:05
+Starting with what happened with taxes, the economy, and how people were with each other through periods of boom and
+30:11
+bust and peace and war, and how they unfolded in cyclical ways like the tide
+30:16
+coming in and out. I saw that when these struggles took the form of healthy competition that
+30:23
+encouraged human energy to be put into productive activities, they produced productive internal orders and
+30:29
+prosperous times. And when those energies took the form of destructive internal fighting, they produced
+30:35
+internal disorder and painfully difficult times. I saw why the swings
+30:41
+between productive order and destructive disorder typically evolved in cycles
+30:46
+driven by logical cause effect relationships and how they happened in all countries for mostly the same
+30:52
+reasons. I saw that those that rose to achieve greatness did so because of a confluence of key forces coming together
+31:00
+to produce that greatness and those that declined did so because these forces
+31:06
+dissipated. At the time of this writing, there is growing disorder in a number of leading countries around the world, most
+31:13
+importantly in the United States. I wanted to put that disorder into perspective. So, I built indices of it
+31:20
+and conducted the research I am sharing in this chapter because how the US handles its disorder will have profound
+31:27
+implications for Americans, others around the world, and most economies and markets. In this chapter, I am focusing
+31:35
+more on the US than on other countries. The PDF of this simplified
+31:40
+chart shows approximately where the US and China are within the archetypical
+31:45
+big cycle as measured by the previously described determinance. The US is in the
+31:51
+stage which I call stage 5 when there are bad financial conditions and intensifying conflict. At the same time,
+31:59
+the leading empire still has other great strengths. for example, technology and military that are declining on a
+32:06
+relative basis. Classically, this stage comes after periods of great excesses
+32:12
+and spending and debt and the widening of wealth and political gaps and before
+32:17
+there are revolutions and civil wars. To be clear, I am not saying that
+32:22
+the United States or other countries are inevitably headed into a period of greater decline or more internal and
+32:28
+external conflict. However, I am saying that it is important to watch the
+32:34
+markers in order to understand both what is happening and the full range of possibilities for the period ahead. In
+32:41
+this chapter, I explore those markers by drawing on the lessons from analogous historical
+32:46
+[Music] cases. The six stages of the internal cycle.
+32:53
+Internal orders typically, though not always, change through a relatively standard sequence of stages, like the
+33:00
+progression of a disease. By looking at their symptoms, we can tell which stages
+33:05
+countries are in. For example, just as stage three cancer is different from stage 4 cancer in ways defined by
+33:12
+different conditions that exist and have come about as a result of things that happened in prior stages. The same is
+33:18
+true for the different stages of the big internal cycle. Like diseases, different
+33:23
+conditions warrant different actions to address them and they produce a different range of probabilities that
+33:29
+those actions will lead to. For example, an old unhealthy set of circumstances
+33:35
+produces a range of possibilities and warrants different actions than a young healthy set. As with cancer, it is best
+33:42
+to stop the progress before getting into the later stages. From studying history, it appears to me
+33:49
+that the stages of the archetypical cycle from internal order to internal disorder and back are as follows.
+33:58
+Stage one, when the new order begins and the new leadership consolidates power,
+34:04
+which leads to stage two, when the resource allocation systems and government bureaucracies are built and
+34:10
+refined, which if done well, leads to stage three, when there is peace and
+34:16
+prosperity, which leads to stage four, when there are great excesses in spending and debt, and the widening of
+34:23
+wealth and political gaps, which leads to stage Five, when there are very bad
+34:29
+financial conditions and intense conflict, which leads to stage six, when
+34:35
+there are civil wars, revolutions, which leads to stage one, which leads to stage
+34:41
+two, etc., with the whole cycle happening over again. Each stage presents a different
+34:48
+set of conditions that the people facing them have to deal with. Some of these circumstances are much more difficult
+34:55
+than others to resolve. For example, early in the long-term debt cycle when there's plenty of capacity for
+35:01
+governments to create debt to finance spending, it is easier to deal with the circumstances at hand than late in the
+35:08
+long-term debt cycle when there is little or no capacity to create money and credit to finance spending. For
+35:14
+these reasons, the range of possible paths forward and the challenges that leaders face depend on where in the
+35:21
+cycle a country is. These different stages present different challenges that require different qualities,
+35:27
+understandings, and skills from leaders in order to effectively deal with them.
+35:32
+To get a rich picture of what makes great leaders great in different types of circumstances, I recommend Henry
+35:39
+Kissinger's forthcoming book on leadership. How well those facing these
+35:45
+circumstances, for example, you facing your circumstances and our leaders facing our collective circumstances,
+35:52
+understand and adapt to them, affects how good or bad the outcomes will be within the range of possibilities that
+35:59
+exist given the circumstances. Different cultures have established different ways of
+36:04
+approaching these circumstances. Those leaders and cultures who understand them and can adapt to their circumstances
+36:11
+will produce much better outcomes than those who don't. That is where timeless and universal principles come in. While
+36:19
+the length of time spent in each of these stages can vary a lot, the evolution through them generally takes
+36:26
+100 years, give or take a lot, and with big undulations within the cycle. Like
+36:32
+evolution in general, the evolution of internal orders occurs in a cyclical way in which one stage typically leads to
+36:39
+the next through a progression of stages that repeat and in the process evolve to higher levels of development. For
+36:46
+example, stage one when the new internal order is created by new leaders who came
+36:52
+to power via a civil war or revolution normally comes after stage six when
+36:57
+there is a civil war or revolution which is the low point in the cycle which leads to the next stage and so on up to
+37:04
+stage three which is the high point in the cycle because there is a lot of peace and prosperity in that stage which
+37:11
+gets overdone in stages four and five and so on leading to the next new order stage one that happens over and over
+37:19
+again in an upward evolving way. Again, that archetypical cycle typically takes
+37:25
+100 years, give or take a lot. Within each cycle, there are similar smaller
+37:30
+cycles. For example, there is a short-term debt cycle that leads to bubbles and recessions that come along
+37:36
+roughly every 8 years. There are political cycles that move political control between the right and the left
+37:43
+that come along with roughly equal frequency etc. Every country is now
+37:48
+going through them and many of them are in different stages. For example, China and India are in very different stages
+37:55
+than the United States and most European countries. Which stages countries are in
+38:01
+versus other countries affects the relations between countries and is the primary determinant of the world order.
+38:08
+We will explore all of this in the last chapter of this book. The cycle's archetypical evolution transpires as
+38:15
+shown in the next PDF diagram. That is the complete internal
+38:20
+order cycle. But of course, the cycle repeats with new leaders replacing the old ones and the whole cycle beginning
+38:27
+again. How quickly a nation is able to rebuild and achieve new heights of prosperity
+38:33
+depends on one how severe the civil war or revolution that ended the prior cycle
+38:39
+was and two how competent the leaders of the new cycle are at establishing the
+38:44
+things required for success. These cycles have taken place for as long as there has been recorded
+38:50
+history and probably before. So many cycles are linked together and they are
+38:56
+upward sloping because of the evolutionary gains that are made over time. This is illustrated in the next
+39:03
+PDF diagram. To see this at the country level, let's look at China. The next PDF
+39:10
+chart shows my estimates of China's absolute powers and its figurative big
+39:15
+cycles going back to around the year 600. This is an ultraimplified chart
+39:21
+that is there were many more dynasties and complexities. I am presenting it in
+39:26
+this way so you can see how this evolution transpired from the 30,000 ft
+39:32
+level. The next PDF chart shows China's relative powers. The differences between
+39:38
+the charts are due to the fact that the first one shows the absolute level of power while the second one shows the
+39:44
+level of power relative to other empires. Since different countries are typically
+39:50
+in different stages of the cycle and since they take wealth and global political power from each other, some
+39:57
+countries are rising while others are declining. So the whole is less volatile than any one country. In other words,
+40:04
+the differences have had a diversifying effect that has made the whole world's evolution smoother than that of any
+40:11
+individual country. that is shown in the next PDF chart which is an update to the
+40:16
+global real GDP chart I showed you in chapter 1. This chart is not a
+40:22
+figurative representation. It is literally the best estimate we have of real GDP per capita. Embedded in this
+40:29
+chart are the rises and falls of major empires particularly the Dutch and the British empires and the Ming andQing
+40:36
+dynasties. numerous wars and numerous booms and busts, all of which are called
+40:42
+out. These events don't show up at the global level because they diversify each
+40:47
+other and because they are small relative to the big trends, even though they are huge from the perspective of
+40:53
+the people living through them. To reiterate, the figurative pictures of the archetypical six-stage
+41:00
+cycle I just painted are simplified versions of what really happens. I
+41:05
+wanted to show you a simplified version that conveys the essence of the stages and then descend into the details. While
+41:13
+the cycle by and large progresses as I described, it doesn't always progress exactly as I described. For example,
+41:20
+like the stages of a disease, let's say stage 3 cancer, being in one stage doesn't mean that the progression to the
+41:27
+next stage is inevitable. But it does tell us a lot that is very valuable. As with a
+41:33
+disease, certain symptoms are clearly exhibited that allow one to identify which stage in the cycle one is in. And
+41:40
+being in that stage signifies the risks and ways of treating the situation that are essential to know and are different
+41:46
+from those that exist in different stages. For example, being in stage 5 means that certain conditions exist and
+41:53
+make it more likely that the cycle will progress to stage six than if it were in stage 4 with stage 4
+41:59
+conditions. By having clear and objective markers to identify which stage each country or state or city is
+42:06
+in, and by having an understanding of the cause effect relationships that produce changes, one can better know the
+42:12
+range of possibilities and position oneself accordingly, though one can never get them exactly right.
+42:20
+As an example, we made an index of the number of economic red flags that have existed at different times in history,
+42:26
+including measures of high inequality, high debt and deficits, inflation, and bad growth to show how indicative they
+42:33
+are of subsequent civil wars and revolutions. The next PDF chart shows
+42:39
+the estimated likelihood of a civil war type conflict based on the number of red flags. Based on what we have seen in the
+42:46
+past, we estimate that when there are 60 to 80% of the red flags present, there
+42:51
+is around a 1 in6 chance of severe internal conflict. When lots of these
+42:56
+conditions are in place, greater than 80%, there is around a 1 in3 chance of a
+43:02
+civil war or revolution. So, not very probable, but still too probable for
+43:07
+comfort. The US is in the 60 to 80% bucket today.
+43:13
+This chart is based on historical analysis of nine great powers covering
+43:18
+about 2200 years of history in total. The likelihood of conflict is based on
+43:23
+major cases of civil war, rebellion, and revolution, but excludes peaceful revolutions that did not change the
+43:30
+existing system. The analysis does not count the probability of conflict arising in a period when a country is
+43:36
+already in the midst of internal conflict and the 5 years following. to avoid counting periods in which economic
+43:43
+conditions were bad because of the conflict itself. While I won't take you through
+43:49
+all of the factors in each stage and their various configurations, I will outline the forces and milestones to pay
+43:56
+most attention to in each stage with a special emphasis on the current state of disorder in the United States and how
+44:02
+things are progressing. Delving into the six stages of the
+44:09
+cycle. We will now delve into what the archetypical six stages look like in
+44:14
+greater detail so we can identify them easily when we see them and so we can better imagine what might come
+44:21
+next. Stage one, when the new order begins and the new leadership
+44:26
+consolidates power. To fight a civil war or to have a revolution, even a peaceful one, is to
+44:34
+have a great conflict in which one side wins and the other side loses and the country suffers damages. Stage one is
+44:42
+what follows the war. It is a time when the winners gain control and the losers must submit. While the winners were
+44:49
+strong enough to win at this first stage of the new order, they must also be wise enough to consolidate power and rebuild
+44:57
+the country. After winning power, the new leaders typically mop up the remaining opposition and fight among
+45:03
+themselves for power. In fact, one might say that revolutions typically come in two parts. The first part is the fight
+45:10
+to bring down the established leaders and systems and the second part is the fight to remove those who were loyal to
+45:16
+the former leaders and the fight for power among those who won. I will call the second part purges and touch on them
+45:24
+in this section. These consolidation of power purge periods range widely in form and
+45:32
+severity depending on the degrees of conflict between the new leaders and their opposition, the amount of conflict
+45:38
+between the new leaders themselves and the levels of development of the various government departments and bureaucracies
+45:45
+that they are inheriting. This is the stage when in some cases the remaining opposition is killed or imprisoned so
+45:52
+that the new leaders are assured that their enemies won't come back fighting. It is also when those revolutionaries
+45:59
+who were on the winning side of the revolution fight against each other for power. This stage has happened after
+46:05
+virtually all civil wars and revolutions. Its intensity varies usually in proportion to the intensity
+46:11
+of the civil war or revolution that preceded this stage. At its worst, this
+46:16
+postrevolution fighting to consolidate power produced some of the most brutal periods in a given country's history.
+46:23
+For example, the post 1789 French Revolution period called the reign of terror, the post 1917 Russian revolution
+46:31
+period called the red terror, the post 1949 Chinese civil war period called the
+46:37
+anti-rightest campaign, etc. In some cases, these purges happened a single
+46:42
+time right after the revolution. for example, the reign of terror. While in other cases, they came and went
+46:49
+episodically over decades. For example, China's cultural revolution happened 17
+46:54
+years after the Chinese Communist Party came to power. These purges are done to
+46:59
+consolidate power and persecute perceived ideological enemies or enemies of the state. And they are sometimes
+47:06
+more brutal than the revolution itself. at their best and if conditions allow
+47:11
+because the basic system and respect for it is maintained. They're like the period after the US Civil War or during
+47:18
+the peaceful Roosevelt Revolution of the 1930s. During this stage, the leaders
+47:24
+who do best are consolidators of power. They typically have qualities similar to
+47:29
+those who did best in the revolution in the prior stage as they are strong, smart fighters who are willing and able
+47:36
+to win at all costs. But in this stage, they have to be much more politically
+47:41
+astute because the enemies are much less apparent. Tang Emperor Taong and Rome's
+47:47
+Caesar Augustus excelled at this stage. More recently, leaders such as the US
+47:53
+founding fathers, France's Napoleon, and Germany's Ottovon Bismar also exemplify
+47:59
+how to effectively move from the war period to the rebuilding period. This
+48:05
+stage is over when the new authorities are clear and everyone is sick of the fighting and is well into the
+48:13
+rebuilding. Stage two, when resource allocation systems and government bureaucracies are built and
+48:21
+refined. I call this phase early prosperity because it is typically the beginning of a peaceful and prosperous
+48:28
+period. After the new leaders have torn down the old order and consolidated power or overlapping with that time, the
+48:36
+new leaders have to start building a new system to better allocate resources. This is the stage when system and
+48:42
+institution building are of paramount importance. What is required is designing and creating a system order
+48:50
+that leads to people rowing in the same direction in pursuit of similar goals with respect for rules and laws and
+48:57
+putting together an effective resource allocation system that leads to rapidly improving productivity that benefits
+49:04
+most people. This redesigning and rebuilding period has to be done even
+49:09
+after lost wars because rebuilding still must occur. Examples of countries being
+49:15
+in this stage include the United States in the 15 years after it declared independence in
+49:20
+1776. The early Napoleonic era immediately after Napoleon grabbed power in a coup at the end of the French
+49:27
+Revolution in 1799. The early Japanese Maji restoration period immediately after the
+49:33
+political revolution in 1868. the post-war periods in Japan,
+49:39
+Germany, and most countries in the late 1940s through most of the 1950s, the
+49:44
+post civil war period in China and Russia after the break up of the Soviet Union. A timeless and universal
+49:51
+principle to keep in mind during this stage is that to be successful, the system has to produce prosperity for
+49:58
+most people, especially the large middle class. As Aristotle conveyed in
+50:04
+politics, those states are likely to be well administered in which the middle class is large and stronger, if
+50:12
+possible, than both the other classes. Where the middle class is large, there are least likely to be factions and
+50:19
+dissensions. For when there is no middle class and the poor are excessive in number, troubles arise and the state
+50:26
+soon comes to an end. The leaders who are best during this stage are typically very different from
+50:33
+those who succeeded in stages six and one. I call them civil engineers. While
+50:39
+they need to be smart and ideally they are still strong and inspirational, above all else, they need to be able to
+50:46
+design and build the system that is productive for most people or they need to have people working for them who can
+50:52
+do that. The different qualities of leaders that are required to succeed in the revolutionary stages 6 and 1 and
+51:00
+those that are required in this rebuilding administrative stage two are exemplified by Winston Churchill and Mao
+51:07
+being great inspirational generals and lousy civil engineers.
+51:12
+Examples of great leaders at this stage include Conrad Adenau in Germany, Lie
+51:17
+Kuan Yu in Singapore, and Dong Xiaoing in China, who came to power after wars
+51:23
+and built systems that produced prosperity well beyond their lifetimes.
+51:28
+The most extraordinary leaders are those who took their countries through stages 6 1 and two. That is through the civil
+51:36
+war, revolution, through the consolidation of power and through the building of the institutions and systems
+51:42
+that worked fabulously for a long time after them and did it at scale. The best
+51:48
+ever probably were Tang Taong, one of the revolutionary founders of the Tang Dynasty in China in the 600s, which was
+51:56
+followed by about a century and a half of peace and prosperity that led China to become the world's largest and
+52:02
+strongest country. Caesar Augustus, who became the first emperor of Rome in 27
+52:08
+B.CE CE and began roughly 200 years of relative peace and prosperity in which
+52:14
+Rome became the world's largest empire and Genghask Khan who founded and led
+52:19
+the Mongol Empire starting in 1206 which was followed by over a century of
+52:24
+prosperity when it became the world's largest and strongest empire. Though failure to establish a sustainable
+52:31
+succession produced civil wars, including shortly after his death.
+52:37
+This sequence of rebuilding happens all the time in varying degrees depending on the amount of change that is warranted.
+52:44
+In some cases, it comes after brutal revolutions when there needs to be a rebuilding of nearly everything. And in
+52:51
+other cases, it comes when the institutions and systems that are there just need to be modified to suit the new
+52:58
+leader. Stage three, when there is peace and
+53:04
+prosperity. I also call this phase mid prosperity. It is the sweet spot of the
+53:10
+internal order cycle. It is when people have an abundance of opportunity to be productive, are excited about it, work
+53:17
+well together, produce a lot, get rich, and are admired for being successful. In
+53:22
+this stage, conditions are improving for almost everyone. So most of the next generation is better off than most of
+53:29
+the prior generation. So there is broad optimism and excitement about the future. History shows us that when done
+53:36
+well, there is wide and almost equal access to education and merit-based placements and jobs. This draws on the
+53:44
+widest possible range of the population to access talent and yields a system that most people believe is fair.
+53:51
+Successful entrepreneurs, inventors, and adventurers produce new ideas and take
+53:56
+their societies to new places and become the heroes who others aspire to be like because of how they come up with
+54:03
+revolutionary new ideas, make people's lives better, and are rewarded for it.
+54:09
+Debt growth fuels productivity and in turn real income growth, which makes
+54:14
+debts easy to service and provides excess profits that make equity returns excellent. Incomes exceed expenses and
+54:22
+savings exceed liabilities with the savings financing investment in the future. Stage three is an exciting
+54:29
+period that has a lot of creativity, productivity, and energy. Examples of this period include
+54:36
+most of the Victorian era in Britain, covering much of the 19th century, marked by second industrial revolution
+54:42
+inventions producing a rapid increase in prosperity. the German Empire in the
+54:47
+late 1800s with rapid industrialization, technological innovation, and a quickly
+54:53
+strengthening military and the 1960s in the United States. For example, the
+54:58
+moonshot project exemplified the shared mission. The whole country cheered and
+55:04
+was brought closer together when the lunar landing happened. This is the time for the inspirational
+55:10
+visionary who can a imagine and convey an exciting picture of a future that
+55:16
+never existed before. B actually build that future out and then c use the
+55:22
+prosperity earned to broaden the inclusiveness of it and to invest in the future.
+55:28
+They do this while d maintaining sound finances and e pursuing excellent
+55:34
+international relations so that they protect or expand their empires without any financially or socially debilitating
+55:40
+wars. Examples include in the British Empire's Victorian age in the mid to
+55:46
+late 1800s, Prime Minister William Gladstone simultaneously maintained high levels of productivity, imposed strict
+55:53
+budget controls that led to strong finances, and supported the general population so much that he was known as
+56:00
+the people's William. He also ran a peaceful and prosperous foreign policy.
+56:06
+In the German Empire in the late 1800s, Chancellor Otto von Bismar united the
+56:11
+disperate populations of 39 different states and people of different religions to build Germany as a country and an
+56:19
+economic powerhouse. Under him, Germany had an economic boom with sound finances while
+56:25
+brilliantly navigating international relations so it benefited internally and avoided debilitating major wars.
+56:33
+Prime Minister Lee Kuan Yu successfully took Singapore through these stages by running the country as Prime Minister
+56:40
+from 1959 to 1990 and mentoring until his death in
+56:45
+2015. He created the principles and shaped the culture to be successful long after him and avoided wars without
+56:53
+losing power. In the postwar US, John F. Kennedy and his 34 short months as
+56:59
+president from January 20th, 1961 to November 22nd, 1963 inspired the country to go to the
+57:07
+moon, advanced the civil rights movement, undertook the war on poverty with Vice President Lyndon Johnson, and
+57:14
+kept the United States out of major wars while simultaneously strongly containing opposition to the US Empire.
+57:22
+In China, Deng Xiaoping transitioned a weak and inefficient communist system to
+57:28
+a highly productive state capitalist system, quickly changing the nation's psychology to make these changes with
+57:34
+sayings such as, "It is glorious to be rich," and "It doesn't matter whether the cat is black or white as long as it
+57:42
+catches mice." Built China's economy and finances to be very strong. Enormously
+57:48
+improved the education and quality of life of most people. dramatically increased life expecties and reduced
+57:54
+poverty rates, successfully led China through internal political conflicts, and strictly maintained China's
+58:01
+sovereignty while avoiding major external conflicts. The longer countries stay in
+58:08
+this stage, the longer their good times last. During this stage, the developments to
+58:14
+pay attention to that reflect the big risks that naturally develop and undermine the self- sustaining good
+58:20
+results are the widenings of the opportunity, income, wealth, and value
+58:26
+gaps accompanied by bad and unfair conditions for the majority, luxurious
+58:31
+and unfairly privileged positions for the elites, declining productivity, and
+58:36
+bad finances in which excess debts are created. The great empires and great
+58:42
+dynasties that were able to sustain themselves stayed in stage three by avoiding these risks. The failure to
+58:50
+avoid these risks leads to stage four which is a period of excesses. This is
+58:55
+the stage in which the temptation to do everything and borrow money to do it can
+59:00
+lead to the brink of conflict. Stage four, a period of
+59:07
+excesses. I also call this the bubble prosperity phase. I will describe it briefly
+59:13
+because we touched on these elements before. Classically, there is the
+59:19
+rapidly increasing debt financed purchases of goods, services, and investment assets. So, debt growth
+59:25
+outpaces the capacity of future cash flows to service the debts. So, bubbles
+59:30
+are created. These debt financed purchases emerge because investors, business leaders, financial
+59:36
+intermediaries, individuals, and policy makers tend to assume that the future will be like the past. So they bet
+59:43
+heavily on the trends continuing. They mistakenly believe that investments that have gone up a lot are good rather than
+59:50
+expensive. So they borrow money to buy them, which drives up their prices, which reinforces this bubble process.
+59:57
+That is because as their assets go up in value, their net worth and spending to income level rise, which increases their
+1:00:04
+borrowing capacity, which supports the leveraging up process and so the spiral goes until the bubbles burst. Japan in
+1:00:12
+1988 to 90, the US in 1929, the US in 2006 and07, and Brazil and most other
+1:00:19
+Latin American commodity producers in 1977 to79 are classic examples.
+1:00:26
+There is a shift in the spending of money and time to more on consumption and luxury goods and less on profitable
+1:00:33
+investments. The reduced level of investments in infrastructure, capital goods and R&D slows the country's
+1:00:40
+productivity gains and leads its cities and infrastructure to become older and less
+1:00:45
+efficient. There is a lot of spending on the military at this stage to expand and protect global interests, especially if
+1:00:52
+the country is a leading global power. the country's balance of payments
+1:00:57
+positions deteriorate reflecting its increased borrowing and reduced competitiveness. If the country is a
+1:01:04
+reserve currency country, this borrowing is made easy as the result of non-reserve currency country savers
+1:01:10
+having a preference to save in or lend to the reserve currency. Wealth and opportunity gaps
+1:01:17
+are large and resentments between classes emerge. During this phase, the
+1:01:23
+archetypical best leader is the well-grounded, disciplined leader who understands and conveys sound
+1:01:28
+fundamental behaviors that yield productivity and sound finances and creates restraints when the crowd wants
+1:01:35
+to overdo things. These leaders are the ones who lead the country to continue to reinvest a significant amount of their
+1:01:41
+earnings and their time into being productive when they become richer. As mentioned, Lee Kuan Yu, the former prime
+1:01:49
+minister of Singapore, ensured that his country and fellow citizens had the culture to become well- educated,
+1:01:55
+disciplined, and of strong character even after becoming successful and rich.
+1:02:00
+However, these leaders are few and far between because fighting the abansions of the masses is very unpopular.
+1:02:08
+In almost all cases, after becoming rich, the country and its leaders become decadent, overspend, borrow to finance
+1:02:15
+excess consumption, and lose competitiveness. This period of decline is exemplified by decadent leaders such
+1:02:23
+as the notorious Emperor Nero, who used a city-wide fire in Rome to confiscate
+1:02:28
+land to build an expansive palace. Louis I 14th who expanded the palace of
+1:02:33
+Versailles while productivity fell and people endured hardships at the height of his power and the Ming dynasty's Wii
+1:02:40
+emperor who withdrew from actively governing and focused on the construction of his own immense
+1:02:47
+[Music] tomb. Stage five when there are bad financial conditions and intense
+1:02:54
+conflict. The most important influence that transpires in a big cycle is that
+1:02:59
+of debt, money, and economic activity. Because I covered that cycle comprehensively in chapters 3 and four,
+1:03:06
+I won't explain it here in detail. But to understand stage five, you need to
+1:03:11
+know that it follows stage three in which there is peace and prosperity and favorable debt and credit conditions and
+1:03:18
+stage four in which excess and decadence begin to bring about worse conditions.
+1:03:24
+This process culminates in the most difficult and painful stage, stage six,
+1:03:29
+when the entity runs out of money and there is typically terrible conflict in the form of revolution or civil war.
+1:03:36
+Stage five is the period during which the interclass tensions that go along with worsening financial conditions come
+1:03:42
+to a head. How different leaders, policymakers, and groups of people deal with conflict has a major impact on
+1:03:50
+whether the country will undergo the needed changes peacefully or violently. You can see signs of this
+1:03:57
+happening now in a number of countries. Those that have adequate financial conditions, that is, have incomes that
+1:04:03
+are greater than their expenses and assets that are greater than their liabilities, are in relatively good
+1:04:09
+shape. Those that do not are in relatively bad shape. They want money
+1:04:14
+from the others. The problem is that there are many more who are in bad shape relative to those that are in good
+1:04:21
+shape. You can also see that these different conditions are big drivers of the differences in what is now happening
+1:04:27
+to most aspects of these countries, states, cities, companies, and people. For example, their education,
+1:04:34
+healthcare, infrastructure, and well-being. You can also see big cultural differences in how countries
+1:04:40
+approach their stressful conditions with some approaching them more harmoniously than others who are more inclined to
+1:04:47
+fight. Because stage 5 is such a pivotal stage in the internal cycle and because
+1:04:52
+it's the stage that many countries, most importantly the US are now in, I will
+1:04:57
+devote some time to going through the cause effect relationships at play during it and the key indicators to
+1:05:03
+watch in examining its progression. Then I will turn more specifically to where the United States
+1:05:11
+stands. The classic toxic mix. The classic toxic mix of forces
+1:05:18
+that brings about big internal conflicts consists of one the country and the
+1:05:23
+people in the country or state or city being in bad financial shape. For example, having big debt and non-debt
+1:05:30
+obligations. two, large income, wealth, and values gaps within that entity, and three, a
+1:05:38
+severe negative economic shock. That confluence typically brings
+1:05:43
+about disorder, conflict, and sometimes civil wars. The economic shock can come
+1:05:49
+about for many reasons, including financial bubbles that burst, acts of nature, such as pandemics, droughts, and
+1:05:55
+floods, and wars. It creates a financial stress test. The financial conditions as
+1:06:02
+measured by incomes relative to expenses and assets relative to liabilities that exist at the time of the stress test are
+1:06:08
+the shock absorbers. The sizes of the gaps in incomes, wealth, and values are
+1:06:14
+the degrees of fragility of the system. When the financial problems occur, they typically first hit the private sector
+1:06:21
+and then the public sector. Because governments will never let the private sector's financial problems sink the
+1:06:27
+entire system. It is the government's financial condition that matters most. When the government runs out of buying
+1:06:34
+power, there is a collapse. But on the way to a collapse, there is a lot of fighting for money and political power.
+1:06:42
+From studying 50 plus civil wars and revolutions, it became clear that the single most reliable leading indicator
+1:06:49
+of civil war or revolution is bankrupt government finances combined with big
+1:06:54
+wealth gaps. That is because when the government lacks financial power, it can't financially save those entities in
+1:07:01
+the private sector that the government needs to save to keep the system running as most governments led by the United
+1:07:07
+States did at the end of 2008. It can't buy what it needs and it can't pay
+1:07:12
+people to do what it needs them to do. It is out of power. A classic marker of being in
+1:07:19
+stage 5 and a leading indicator of the loss of borrowing and spending power, which is one of the triggers for going
+1:07:25
+into stage six, is that the government has large deficits that are creating more debt to be sold than buyers other
+1:07:31
+than the government's own central bank are willing to buy. That leading indicator is turned on when
+1:07:37
+governments that can't print money have to raise taxes and cut spending or when those that can print money print a lot
+1:07:44
+of it and buy a lot of government debt. To be more specific, when the government runs out of money by running a big
+1:07:51
+deficit, having large debts, and not having access to adequate credit, it has limited options. It can either raise
+1:07:58
+taxes and cut spending a lot, or print a lot of money, which depreciates its value. Those governments that have the
+1:08:05
+option to print money always do so because that is the much less painful path. But it leads investors to run out
+1:08:12
+of the money and debt that is being printed. Those governments that can't print money have to raise taxes and cut
+1:08:18
+spending, which drives those with money to run out of the country or state or city because paying more taxes and
+1:08:24
+losing services is intolerable. If these entities that can't print money have large wealth gaps
+1:08:31
+among their constituents, these moves typically lead to some form of civil war or
+1:08:37
+revolution. To be clear, when a government's finances are in bad shape, that does not necessarily mean it will
+1:08:43
+run out of buying power. But it does mean that there is a much higher risk of that happening than if the government
+1:08:48
+were in a financially strong position. At the time of this writing, this late cycle debt dynamic is now
+1:08:56
+playing out in the United States at both the state and federal levels. With the main difference between them being that
+1:09:02
+state governments can't print money to pay their debts, while the federal government can. The federal government
+1:09:08
+and many state and city governments have large deficits, large debts, and large wealth gaps. And the central bank, the
+1:09:15
+federal reserve, has the power to print money. So, at the time of this writing, the central bank is printing a lot of
+1:09:22
+money and buying a lot of federal government debt, which finances the government spending that is much bigger
+1:09:28
+than the federal government's intake. That has helped the federal government and those it is trying to help. Though,
+1:09:34
+it has also cost those who are holding dollars and dollar debt a lot in real purchasing power. Those places, cities,
+1:09:43
+states, and countries that have the largest wealth gaps, the largest debts, and the worst declines in incomes are
+1:09:49
+most likely to have the greatest conflicts. Interestingly, those states and cities in the US that have the
+1:09:56
+highest per capita income and wealth levels tend to be the states and cities that are the most indebted and have the
+1:10:02
+largest wealth gaps. For example, cities like San Francisco, Chicago, and New York City. and states like Connecticut,
+1:10:09
+Illinois, Massachusetts, New York, and New Jersey. Facing these conditions,
+1:10:15
+expenditures have to be cut or more money has to be raised in some way. The
+1:10:20
+next question becomes who will pay to fix them? The halves or the have nots.
+1:10:25
+Obviously, it can't be the have-s. Expenditure cuts are most intolerable for those who are poorest.
+1:10:32
+So, there needs to be more taxation of people who can afford to pay more. and there is a heightened risk of some form
+1:10:38
+of civil war or revolution. But when the halves realize that they will be taxed
+1:10:44
+to pay for debt service and to reduce the deficits, they typically leave causing the hollowing out process. This
+1:10:51
+is currently motivating movements from some states to others in the US. If bad
+1:10:57
+economic conditions occur, that hastens the process. These circumstances largely
+1:11:02
+drive the tax cycle. History shows that raising taxes and
+1:11:07
+cutting spending when there are large wealth gaps and bad economic conditions more than anything else has been a
+1:11:14
+leading indicator of civil wars or revolutions of some type. To be clear, they don't have to be violent, though
+1:11:20
+they can be. I see these cycles transpiring in my personal interactions. For example, I
+1:11:27
+live in the state of Connecticut, which has the highest per capita income in the country, the largest wealth gap and
+1:11:33
+income gap in the country, and one of the largest per capita debt and unfunded pension obligations in the country. I
+1:11:40
+see how the halves and the haveotss are focused on their own lives and spend little time worrying about the other
+1:11:47
+because they don't have much contact. I have windows into what the lives of
+1:11:52
+both the halves and the have nots are like because I have contact with the people in our community of halves and
+1:11:58
+because the work my wife does to help disengaged and disconnected high school students and disadvantaged communities
+1:12:05
+brings her into contact with people who live in the communities of the have-s. I see how terrible the
+1:12:11
+conditions are in those have- not communities and how the halves who appear rich and decadent to the have-s
+1:12:18
+don't feel rich. I see how they are all focused on their own struggles with the
+1:12:24
+halves struggling with work life balance, making sure their kids are well educated, etc. And the have nots
+1:12:31
+struggling with finding income, food security, avoiding violence, trying to get their kids a quality education, etc.
+1:12:38
+Of course, these two kinds of struggles aren't equivalent. Still, in both cases,
+1:12:44
+I have found that people are focused on their own issues and communities and don't understand the circumstances of
+1:12:49
+those they don't have direct contact with. In many communities, people and most heartbreakingly the children are
+1:12:57
+desperately poor and neglected. There is an acute shortage of money for basics such as adequate school supplies,
+1:13:03
+nutrition, and health care, and an environment of violence and trauma that perpetuates a cycle in which children
+1:13:09
+are brought up intellectually and physically malnourished and traumatized. This leaves them disadvantaged as they
+1:13:16
+grow into adulthood, which makes it hard for them to earn a living, which perpetuates the cycle. Consider this
+1:13:23
+fact. A recent study that our foundation funded showed that 22% of the high
+1:13:28
+school students in Connecticut, the richest state in the country by income per capita, are either disengaged or
+1:13:35
+disconnected. A disengaged student is one who has an absentee rate of greater than 25% and is failing classes. A
+1:13:43
+disconnected student is one who the system can't track because they dropped out. Imagine the consequences in 10
+1:13:50
+years and the human and social costs of this cycle. Our society has not
+1:13:56
+established limits to how terrible it will allow conditions to get. I see how both groups are more
+1:14:03
+likely to have critical stereotypical impressions of each other that make them more inclined to dislike each other than
+1:14:09
+to view themselves empathetically as members of one community in which they should help each other.
+1:14:16
+I see how difficult it can be to help each other because of these stereotypes and because the halves don't feel that
+1:14:22
+they have more than enough or that the haveotss deserve their financial support and I fear what the future might hold
+1:14:29
+because of the existing circumstances and how they are likely to worsen. I've seen closeup how co inflicted health and
+1:14:37
+budget shocks have brought to the surface the terrible conditions of the have knots and are worsening the
+1:14:43
+financial gaps that could bring about the classic toxic mix dynamic averages don't matter as much as
+1:14:50
+the number of people who are suffering and their power. Those who favor policies that are good for the whole,
+1:14:58
+for example, free trade, globalization, advances in technology that replace people without thinking about what
+1:15:05
+happens if the whole is not divided in a way that benefits most people are missing the fact that the whole is at
+1:15:12
+risk. To have peace and prosperity, a society must have productivity that benefits most people. Do you think we
+1:15:19
+have this today? What does history show as the path that bankrupt governments can follow to raise
+1:15:26
+productivity that benefits most people? It shows that restructuring and/or devaluing enough of the previously
+1:15:33
+created debt and non-debt obligations helps a lot. That is classic in stages
+1:15:39
+five and six. Once the restructuring or devaluation reduces the debt burdens,
+1:15:44
+which is typically painful at the time, the reduced debt burdens allow for a rebuilding.
+1:15:51
+An essential ingredient for success is that the debt and money that are created are used to produce productivity gains
+1:15:57
+and favorable returns on investment rather than just being given away without yielding productivity and income
+1:16:04
+gains. If it is given away without yielding these gains, the money will be devalued to the point that it won't
+1:16:10
+leave the government or anyone else with much buying power. History shows that lending and spending
+1:16:17
+on items that produce broad-based productivity gains and returns on investment that exceed the borrowing
+1:16:22
+costs result in living standards rising with debts being paid off. So, these are
+1:16:28
+good policies. If the amount of money being lent to finance the debt is inadequate, it is perfectly fine for the
+1:16:35
+central bank to print the money and be the lender of last resort as long as the money is invested to have a return that
+1:16:41
+is large enough to service the debt. History shows and logic dictates that
+1:16:47
+investing well in education at all levels, including job training, infrastructure, and research that yields
+1:16:53
+productive discoveries works very well. For example, big education and infrastructure programs have paid off
+1:17:00
+nearly all the time. For example, in the Tang Dynasty and many other Chinese dynasties in the Roman Empire, in the
+1:17:07
+Umiad Caliphate, in the Mughal Empire in India, in Japan's Maji restoration, and
+1:17:12
+in China's educational development programs over the last couple of decades, though they have long lead
+1:17:19
+times. In fact, improvements in education and infrastructure, even those financed by debt, were essential
+1:17:25
+ingredients behind the rises of virtually all empires. And declines in the quality of these investments were
+1:17:31
+almost always ingredients behind empires declines. If done well, these
+1:17:37
+interventions can more than counterbalance the classic toxic mix. The classic toxic mix is usually
+1:17:44
+accompanied by other problems. The more of the following conditions that are in place, the higher the probability of
+1:17:50
+having a severe conflict like a civil war or revolution.
+1:17:56
+Decadence. While early in the cycle there is typically more spending of time and money on productive things, later in
+1:18:03
+the cycle time and money go more toward indulgent things. For example, the finer things like expensive residences, art,
+1:18:10
+jewelry, and clothes. This begins in stage four when such spending is fashionable, but by stage 5 it begins to
+1:18:18
+appear grotesque. Often that decadent spending is debt financed which worsens the
+1:18:24
+financial conditions. The change in psychology that typically goes along with these changes is understandable.
+1:18:30
+The halves feel that they have earned their money so they can spend it on luxuries if they like while the have
+1:18:37
+view such spending at the same time they are suffering as unfair and selfish.
+1:18:42
+Besides increasing resentments, decadent spending, as distinct from saving and
+1:18:47
+investing, reduces productivity. What a society spends
+1:18:52
+money on matters. When it spends on investment items that yield productivity and income gains, it makes for a better
+1:18:59
+future than when it spends on consumption items that don't raise productivity and
+1:19:05
+income. Bureaucracy. While early in the internal order cycle, bureaucracy is low, it is
+1:19:13
+high late in the cycle, which makes sensible and needed decision-making more
+1:19:18
+difficult. That is because things tend to get more complex as they develop until they reach the point where even
+1:19:24
+obviously good things can't be done, necessitating revolutionary changes. In
+1:19:30
+a legal and contract-based system which has many benefits, this can become a
+1:19:35
+problem because the law can stand in the way of doing obviously good things. I
+1:19:40
+will give you an example that I am close to because my wife and I care about it. Because the US Constitution doesn't
+1:19:48
+make education a federal government responsibility, it has predominantly been a state and local responsibility
+1:19:54
+with school funding coming from revenue raised by local taxes in cities and towns. Though it varies from state to
+1:20:01
+state, typically those children in richer towns and richer states receive a much better education than those in
+1:20:07
+poorer towns in poorer states. This is obviously unfair and unproductive even
+1:20:13
+though most people agree that children should have equal opportunities in education. But because this structure is
+1:20:19
+so ingrained in our political system, it is nearly impossible to fix without a revolutionary reinvention of how we
+1:20:26
+approach it. There are more examples of the bureaucracy standing in the way of doing sensible, productive things than I
+1:20:33
+have time and space to convey here. It is now a big problem in
+1:20:39
+America. Populism and extremism. Out of disorder and
+1:20:45
+discontent come leaders who have strong personalities, are anti- elitist and claim to fight for the common man. They
+1:20:52
+are called populists. Populism is a political and social phenomenon that appeals to ordinary
+1:20:59
+people who feel that their concerns are not being addressed by the elites. It typically develops when there are wealth
+1:21:05
+and opportunity gaps, perceived cultural threats from those with different values both inside and outside the country and
+1:21:13
+establishment elites and positions of power who are not working effectively for most people.
+1:21:19
+Populists come into power when these conditions create anger among ordinary people who want those with political
+1:21:26
+power to be fighters for them. Populists can be of the right or of the left, are
+1:21:32
+much more extreme than moderates, and tend to appeal to the emotions of ordinary people. They are typically
+1:21:38
+confrontational rather than collaborative, and exclusive rather than inclusive. This leads to a lot of
+1:21:45
+fighting between populists of the left and populists of the right over irreconcilable
+1:21:51
+differences. The extremity of the revolution that occurs under them varies. For example, in the 1930s,
+1:21:58
+populism of the left took the form of communism and that of the right took the form of fascism, while nonviolent
+1:22:05
+revolutionary changes took place in the US and the UK. More recently in the
+1:22:11
+United States, the election of Donald Trump in 2016 was a move to populism of
+1:22:16
+the right, while the popularity of Bernie Sanders, Elizabeth Warren, and Alexandria Okasiocortez reflects the
+1:22:23
+popularity of populism of the left. There are increased political movements toward populism in a number of
+1:22:29
+countries. It could be said that the election of Joe Biden reflects a desire for less extremism and more moderation,
+1:22:36
+though time will tell. Watch populism and polarization as
+1:22:41
+markers. The more that populism and polarization exist, the further along a
+1:22:47
+nation is in stage five and the closer it is to civil war and revolution. In stage five, moderates
+1:22:54
+become the minority. In stage six, they cease to
+1:23:00
+exist. Class warfare. In stage five, class warfare
+1:23:05
+intensifies. That is because, as a rule, during times of increased hardship and
+1:23:11
+conflict, there is an increased inclination to look at people in stereotypical ways as members of one or
+1:23:17
+more classes and to look at these classes as either being enemies or allies. In stage 5, this begins to
+1:23:24
+become much more apparent. In stage six, it becomes dangerous.
+1:23:30
+A classic marker in stage 5 that increases in stage six is the demonization of those in other classes
+1:23:37
+which typically produces one or more scapegoat classes who are commonly believed to be the source of the
+1:23:43
+problems. This leads to a drive to exclude, imprison or destroy them which
+1:23:48
+happens in stage six. Ethnic, racial and socioeconomic groups are often
+1:23:53
+demonized. The most classic horrific example of this comes from the Nazis treatment of Jews who were blamed and
+1:24:01
+persecuted for virtually all of Germany's problems. Chinese minorities living in non-Chinese countries have
+1:24:07
+been demonized and scapegoed during periods of economic and social stress. In the UK, Catholics were demonized and
+1:24:14
+scapegoed in numerous stressful periods such as the Glorious Revolution and the English Civil War.
+1:24:21
+Rich capitalists are commonly demonized, especially those who are viewed to be making their money at the expense of the
+1:24:27
+poor. Demonizing and scapegoating are a classic symptom and problem that we must
+1:24:32
+keep an eye on. The loss of truth in the public
+1:24:38
+domain. Not knowing what is true because of distortions in the media and
+1:24:43
+propaganda increases as people become more polarized, emotional, and politically motivated. In stage five,
+1:24:51
+those who are fighting typically work with those in the media to manipulate people's emotions to gain support and to
+1:24:57
+destroy the opposition. In other words, media folks of the left join with others of the left
+1:25:03
+and media folks of the right join with others of the right in the dirty fight. The media goes wild like vigilantes.
+1:25:11
+People are commonly attacked and essentially tried and found guilty in the media and they have their lives
+1:25:17
+ruined without a judge and jury. A common move among 1930s populists of
+1:25:22
+the left, communists, and of the right, fascists, was to take control of the
+1:25:28
+media and establish ministers of propaganda to guide them. The media they
+1:25:33
+produced was explicitly aimed at turning the population against the groups that the governments considered enemies of
+1:25:39
+the state. The government of the democraticallyrun United Kingdom created a ministry of information during World
+1:25:46
+War I and World War II to spread government propaganda. And leading newspaper publishers were elevated by
+1:25:52
+the government if they did what the government wanted them to do to win the propaganda war or were vilified and
+1:25:58
+suffered if they didn't cooperate. Viccount Northcliffe, who controlled just under half of daily newspaper
+1:26:05
+circulation in the UK around World War I, was known for anti-German coverage
+1:26:10
+and was made director of propaganda in enemy countries by the government in
+1:26:15
+1918. Revolutionaries did the same distorting of the truth in all sorts of publications. During the French
+1:26:22
+Revolution, newspapers run by revolutionaries pushed anti- monarchist and anti-religious sentiment. But when
+1:26:29
+those revolutionaries attained power, they shut down dissenting newspapers during the reign of terror. During times
+1:26:35
+of great wealth gaps and populist thinking, stories that bring down elites are popular and lucrative, especially
+1:26:42
+those that bring down left-leaning elites in right-leaning media outlets and those that bring down right-leaning
+1:26:48
+elites in left-leaning media outlets. History shows that significant increases
+1:26:53
+in these activities are a problem that is typical of stage 5 and that when combined with the ability to inflict
+1:27:00
+other punishments, the media becomes a powerful weapon. It is well recognized this is
+1:27:07
+happening at the time of this writing. The perceived truth in media, both traditional and social, is lower than at
+1:27:14
+any other time in our lifetimes. For example, a 2019 Gallup poll found
+1:27:20
+that only 13% of Americans surveyed have a great deal of trust in the media and
+1:27:26
+only 41% of those surveyed have either a fair or great deal of trust in the
+1:27:31
+media. That compares with 72% who trusted the media in
+1:27:36
+1976. This is not just a fringe media problem. It is a mainstream media
+1:27:41
+problem and a problem for our whole society. The dramatically decreased trustworthiness has even plagued former
+1:27:48
+icons of journalistic trust such as the Wall Street Journal and the New York Times, which have seen their trust
+1:27:54
+ratings plunge. In addition to being politically motivated, sensationalistic
+1:28:00
+stories have become commercially rewarding at a time when the media business is in financial trouble. Most
+1:28:06
+of the media folks I speak with share my concerns, though they typically won't share them openly. Still in reflecting
+1:28:13
+on the problem, Martin Baron, the executive editor of the Washington Post said, "If you have a society where
+1:28:19
+people can't agree on the basic facts, how do you have a functioning democracy?" This dynamic is impeding
+1:28:27
+free speech because people are afraid to speak up because of how they will be attacked in both traditional and social
+1:28:33
+media by distortions that are meant to bring them down. Even very capable and powerful people
+1:28:40
+are now too afraid of the media to speak up about important matters or run for public office. Since most high-profile
+1:28:47
+people are torn down, most everyone I speak with agrees that it is dangerous to be a high-profile vocal person who
+1:28:54
+fights for truth and justice, especially if one offends people who are inclined to use the media to fight. Though not
+1:29:01
+discussed in public because of fears of media reprisals, this issue is continuously discussed in private. For
+1:29:09
+example, during a lunch I had not long ago with a general who had held a very high political position and had just
+1:29:15
+left government service, we explored what he would do next. I asked him what
+1:29:21
+he was most passionate about. He said, "Of course, helping my country." I asked
+1:29:26
+him whether he would consider running for elected office and he explained that while he was willing to die for his
+1:29:31
+country, he couldn't bring himself to run for public office because of how enemies would use the media and social
+1:29:37
+media to make up lies to harm him and his family. This general and almost
+1:29:42
+everyone I know who we should listen to are afraid to speak openly because they fear that attacks by extremists who
+1:29:49
+oppose them will be enabled and amplified by the sensationalistic media.
+1:29:55
+Many of my friends tell me that I'm crazy to speak so openly about controversial things such as those
+1:30:01
+covered in this book because it is inevitable that some people or groups will try to take me down via the media.
+1:30:08
+I think they're probably right, but I won't let the risks dissuade me. What can be done? The news media is
+1:30:16
+unique in being the only industry that operates without quality controls or checks on its power. I and most others
+1:30:23
+believe that it would be terrible for our government to regulate it and at the same time believe that something has to
+1:30:29
+be done to fix the problem. Perhaps if people protest enough, the media could be motivated to create a self-regulatory
+1:30:36
+organization to create and regulate ratings the way the Motion Picture Association did. I don't have a clue
+1:30:42
+about what should be done because this problem isn't my area of expertise and it's not my place to offer suggestions
+1:30:49
+to try to fix the problem. However, it is my responsibility to point out that we are in an era in which
+1:30:56
+sensationalism, commercialism, and political desires to manipulate people's views have superseded accuracy and
+1:31:03
+journalistic integrity as the primary objectives of most of those in the media and that this is like a cancer that
+1:31:09
+threatens our well-being. If you believe that fake and distorted media is a problem and you are
+1:31:15
+interested in watching the media propaganda for clues about whether and how this is transpiring, here are a few
+1:31:22
+commonly recommended things to look out for. Ask yourself. One, does the story consist of
+1:31:30
+emotionally triggering unsubstantiated accusations or are the facts substantiated and the sources provided?
+1:31:37
+When the facts are put aside to create an exciting story and the sources are undisclosed, don't believe the
+1:31:44
+story. Two, does the writer welcome or not welcome replies or arguments that
+1:31:50
+refute what they are asserting? And are they willing or not willing to publish them along with what they
+1:31:56
+published? Three, are the accusations in the story consistent with what has been
+1:32:02
+identified and proven in the legal system? If people or groups are accused in the media of doing bad things, but
+1:32:08
+they haven't been accused and judged to have done bad things in the legal system, which follows a process that
+1:32:14
+tries to weigh the evidence to get at what is true, at least ask yourself why that is, and probably don't believe the
+1:32:22
+story. Four, if the writer or outlet has previously shown themselves to be biased, assume that they and their
+1:32:29
+stories are biased. rule following fades and raw fighting
+1:32:36
+begins. When the causes that people are passionately behind are more important to them than the system for making
+1:32:43
+decisions, the system is in jeopardy. Rules and laws work only when they are
+1:32:48
+crystal clear and most people value working within them enough that they are willing to compromise in order to make
+1:32:54
+them work well. If both of these are less than excellent, the legal system is
+1:33:00
+in jeopardy. If the competing parties are unwilling to try to be reasonable with each other and to make decisions
+1:33:05
+civily in pursuit of the well-being of the whole, which will require them to give up things that they want and might
+1:33:12
+win in a fight, there will be a sort of civil war that will test the relative powers of the relevant parties. In this
+1:33:19
+stage, winning at all costs is the game, and playing dirty is the
+1:33:25
+norm. Late in stage five is when reason is abandoned in favor of passion.
+1:33:31
+When winning becomes the only thing that matters, unethical fighting becomes progressively more forceful in
+1:33:37
+self-reinforcing ways. When everyone has causes that they are fighting for and no one can agree on anything, the system is
+1:33:44
+on the brink of civil war or revolution. This typically happens in a
+1:33:49
+couple of ways. Late in stage 5, it is common for the legal and police systems to be used
+1:33:56
+as political weapons by those who can control them. Also, private police systems form. For example, thugs who
+1:34:03
+beat people up and take their assets and bodyguards to protect people from these things happening to them. For instance,
+1:34:10
+the Nazi party formed a paramilitary wing before it came to power that then became an official force when the Nazis
+1:34:17
+were in power. The short-lived British Union of Fascists in the 1930s and the
+1:34:22
+Ku Klux Clan in the US were effectively paramilitary groups as well.
+1:34:27
+Such cases are quite normal. So view their development as a marker of moving to the next
+1:34:34
+stage. Late in stage 5, there are increasing numbers of protests that become increasingly violent. Because
+1:34:41
+there is not always a clear line between a healthy protest and the beginnings of a revolution. Leaders in power often
+1:34:48
+struggle over how to allow protests without giving the perceived freedom to revolt against the system. Leaders must
+1:34:55
+manage these situations well. A classic dilemma arises when demonstrations start
+1:35:00
+to cross over into revolution. Both giving the freedom to protest and suppressing protests are
+1:35:07
+risky paths for leaders, as either path could lead the revolution to get strong enough to topple the system. No system
+1:35:14
+allows people to bring down the system. In most, an attempt to do so is treason, typically punishable by death.
+1:35:22
+Nonetheless, it is the job of revolutionaries to bring down systems. So, governments and revolutionaries test
+1:35:28
+each other to see what the limits are. When broad-based discontent bubbles up
+1:35:33
+and those in power allow it to grow, it can boil over to the point that when they try to put a lid on it, it
+1:35:39
+explodes. The conflicts in the late part of stage 5 typically build up to a crescendo that
+1:35:45
+triggers the violent fighting that signifies the transition into what historians stamp as official civil war
+1:35:51
+periods, which I am identifying as stage six in the big cycle. People dying in the fighting is
+1:35:59
+the marker that almost certainly signifies the progression to the next and more violent civil war stage, which
+1:36:06
+will continue until the winners and losers are clearly determined.
+1:36:11
+That brings me to my next principle. When in doubt, get out. If you don't want to be in a civil war or a war, you
+1:36:18
+should get out while the getting is good. This is typically laid in stage 5.
+1:36:23
+History has shown that when things get bad, the doors typically close for people who want to leave. The same is
+1:36:29
+true for investments and money as countries introduced capital controls and other measures during such times.
+1:36:37
+Crossing the line from stage five when there are very bad financial conditions and intense internal and external
+1:36:44
+conflict exist to stage six when there is civil war occurs when the system for
+1:36:49
+resolving disagreements goes from working to not working. In other words,
+1:36:55
+it happens when the system is broken beyond repair. People are violent with each other and the leadership has lost
+1:37:00
+control. As you might imagine, it is a much bigger deal to break a system or order
+1:37:07
+and build a new one than it is to make revolutionary changes within an existing system or order. Though breaking a
+1:37:14
+system or order is more traumatic, it isn't necessarily a worse path than operating within a system.
+1:37:22
+Deciding whether to keep and renovate something old that is not working well or to dispose of it and replace it with
+1:37:29
+something new is never easy, especially when the something new is not clearly known and what is being replaced is as
+1:37:36
+important as the domestic order. Nonetheless, it happens though typically it is not decided on intellectually. It
+1:37:43
+is more often emotionally driven. When one is in stage five, like
+1:37:48
+the US is now, the biggest question is how much the system will bend before it
+1:37:54
+breaks. The democratic system, which allows the population to do pretty much whatever it decides to do, produces more
+1:38:02
+bending because the people can make leadership changes and only have themselves to blame. In this system,
+1:38:08
+regime changes can more easily happen in a peaceful way. However, the oneperson
+1:38:14
+one vote democratic process has the drawback of having leaders selected via popularity contests by people who are
+1:38:22
+largely not doing the sort of thoughtful review of capabilities that most organizations would do when trying to
+1:38:28
+find the right person for an important job. Democracy has also been shown to
+1:38:33
+break down in times of great conflict. Democracy requires consensus
+1:38:38
+decisionmaking and compromise which requires a lot of people who have opposing views to work well with each
+1:38:44
+other within the system. That ensures that parties that have significant constituencies can be represented. But
+1:38:51
+like all big committees of people who have widely different views and might even dislike each other, the
+1:38:57
+decision-making system does not lend itself to efficient decisionm. The biggest risk to
+1:39:04
+democracies is that they produce such fragmented and antagonistic decision-making that they can be
+1:39:09
+ineffective which leads to bad results which leads to revolutions led by populist autocrats who represent large
+1:39:16
+segments of the population who want to have a strong capable leader get control of the chaos and make the country work
+1:39:23
+well for them. Also noteworthy, history has shown that during times of great conflict,
+1:39:30
+federalist democracies like the US typically have conflicts between the states and the central government over
+1:39:36
+their relative powers. That would be a marker to look out for that hasn't yet arisen much in the US. It's happening
+1:39:43
+would signify the continued progression toward stage six. There are far too many breakdowns
+1:39:50
+of democracies to explore, let alone describe. While I looked into a number of them to see the patterns, I haven't
+1:39:57
+fully mined them and I'm not going to dive into them here. I will say that the factors described in the explanations of
+1:40:04
+stage 5 when taken to the extreme, most importantly terrible finances,
+1:40:09
+decadence, internal strife and disorder and/or major external conflict lead to a
+1:40:14
+dysfunctional set of conditions and a fight for power led by a strong leader.
+1:40:20
+Archetypical examples include Athens from the late 400s to the 300s B.C.E.,
+1:40:25
+the end of the Roman Republic in the century or so preceding 27 B.CE. Germany's VHimar Republic in the
+1:40:32
+1920s, and the weak democracies of Italy, Japan, and Spain in the 1920s and
+1:40:38
+1930s that turned into autocracies of the right, fascism, to bring order to
+1:40:43
+the chaos. The Roman Republic and Athens both had democratic elements, but not everyone
+1:40:49
+was able to participate or vote equally. Although democracies have existed for thousands of years, it is only recently
+1:40:56
+that most people were allowed to vote. For example, in the US, African-Amean men were not universally allowed to vote
+1:41:03
+until 1870 and women of all races until 1920. Different stages require different
+1:41:10
+types of leaders to get the best results. Stage five is a juncture in which one path could lead to civil war
+1:41:17
+or revolution and the other could lead to peaceful and ideally prosperous
+1:41:22
+coexistence. Obviously, the peaceful and prosperous path is the ideal path, but it is the much more difficult path to
+1:41:29
+pull off. That path requires a strong peacemaker who goes out of their way to
+1:41:34
+bring the country together, including reaching out to the other side to involve them in the decision-making and
+1:41:40
+reshaping the order in a way that most people agree is fair and works well.
+1:41:45
+That is highly productive in a way that benefits most people. There are few such
+1:41:51
+cases in history. We pray for them. The second type is a strong fighter who is
+1:41:57
+capable of taking the country through the hell of civil war or
+1:42:02
+revolution. Stage six, when there are civil wars. Civil wars inevitably happen. So
+1:42:10
+rather than assuming it won't happen here, which most people in most countries assume after an extended
+1:42:16
+period of not having them, it is better to be wary of them and look for the markers to indicate how close one is.
+1:42:23
+While in the last section we looked at nonviolent revolutions that took place within the order. In this section we
+1:42:30
+will be looking at the markers and the patterns of civil wars and revolutions that were almost always violent and
+1:42:36
+toppled the old order and replaced it with a new one. Though there are innumerable examples that I could have
+1:42:42
+examined to understand how they work, I chose what I believe are the 29 most significant ones which are shown in the
+1:42:49
+attached PDF table. I categorized this group into those that
+1:42:54
+produced big changes to the system or regime and those that did not. For
+1:42:59
+example, the US Civil War was a really bloody civil war that failed to overturn
+1:43:04
+the system or order. So, it is in the second group at the bottom of the table, while those that toppled the system or
+1:43:11
+order are at the top. These categories are of course imprecise, but once again,
+1:43:16
+we won't let imprecision stand in the way of seeing what we couldn't see if we insisted on being precise. Most of these
+1:43:24
+conflicts, though not all of them, transpired in the archetypical way described in this
+1:43:29
+section. A classic example of a civil war breaking the system and having to build a new system is the Russian
+1:43:36
+Revolution or Civil War of 1917. This put into place the communist
+1:43:41
+internal order that eventually entered stage 5 in the late 1980s which led it
+1:43:46
+to attempt to make revolutionary changes within the system called paristroka that is restructuring which failed and were
+1:43:54
+followed by the collapse of the Soviet Union's order in 1991. The communist domestic order
+1:44:00
+lasted 74 years from 1917 until 1991.
+1:44:05
+That order was replaced by the new system or order that is now governing Russia which after the collapse of the
+1:44:12
+old order was built in the classic ways described earlier in this chapter in my explanations of stages 1 and
+1:44:19
+two. Another is Japan's Maji restoration which came about as a result of a
+1:44:24
+three-year revolution 1866 to69 that happened because the Japanese were
+1:44:30
+closed off to the outside world and failed to advance. The Americans forced
+1:44:35
+the Japanese to open, which prompted a revolutionary group to fight and defeat the rulers led by the military shogun in
+1:44:43
+battle, which led to overturning the internal order then run by the four classes, the military, farmers,
+1:44:49
+artisans, and merchants that had ruled Japan. This old Japanese order run by
+1:44:55
+traditional people was ultra-conservative. For example, social mobility was outlawed and was replaced
+1:45:02
+by revolutionaries who were relatively progressive and changed everything by reinstating the powers of a modernizing
+1:45:09
+emperor. Early in this period, there were lots of labor disputes, strikes, and riots that resulted from the classic
+1:45:15
+triggers of wealth gaps and bad economic conditions. In the reform process, the
+1:45:21
+leadership provided universal elementary education for both boys and girls, adopted capitalism, and opened the
+1:45:28
+country up to the outside world. They did this with new technologies, which led them to become very competitive and
+1:45:34
+gain wealth. There are many such cases of countries that did the right things to produce
+1:45:40
+revolutionarily beneficial improvements, just as there are many cases of revolutionaries doing the wrong things
+1:45:46
+that inflicted terrible pain on their people for decades. By the way, as a result of its
+1:45:52
+reformations, Japan went on to move through the classic stages of the big cycle. It became extremely successful
+1:46:00
+and rich, but over time it became decadent, overextended, and fragmented. had an economic depression and fought
+1:46:06
+expensive wars, all of which led to a classic demise. Its maji order and its
+1:46:12
+classic big cycle lasted for 76 years from 1869 to
+1:46:19
+1945. Civil wars and revolutions inevitably take place to radically change the internal order. They include
+1:46:26
+total restructurings of wealth and political power that include complete restructurings of debt and financial
+1:46:33
+ownership and political decision-making. These changes are the natural consequence of needing to make
+1:46:39
+big changes that can't be made within the existing system. Almost all systems
+1:46:44
+encounter them. That is because almost all systems benefit some classes of people at the expense of other classes
+1:46:51
+which eventually becomes intolerable to the point that there is a fight to determine the path forward. When the
+1:46:57
+gaps in wealth and values become very wide and bad economic conditions ensue so that the system is not working for a
+1:47:04
+large percentage of the people, the people will fight to change the system. Those who are suffering the most
+1:47:10
+economically will fight to get more wealth and power from those who have wealth and power and who benefit from
+1:47:16
+the existing system. Naturally, the revolutionaries want to radically change the system. So naturally, they are
+1:47:23
+willing to break the laws that those in power demand they adhere to. These revolutionary changes typically happen
+1:47:29
+violently through civil wars. Though, as previously described, they can come about peacefully without toppling the
+1:47:36
+system. The periods of civil war are typically very brutal. Typically, early on, these
+1:47:43
+wars are forceful and orderly struggles for power. And as the fighting and emotions intensify and the sides do
+1:47:50
+anything to win, the levels of brutality accelerate unexpectedly such that the
+1:47:55
+actual levels of brutality that occur in the stage six civil wars and revolutions would have been considered implausible.
+1:48:02
+In stage five, the elites and moderates generally flee, are imprisoned, or are
+1:48:07
+killed. Reading the stories of civil wars and revolutions such as the Spanish Civil War, the Chinese Civil War, the
+1:48:14
+Russian Revolution, and the French Revolution made my hair curl. How do they
+1:48:20
+transpire? Earlier, I described the dynamics of stage 5 that led to crossing the line into stage six. During this
+1:48:27
+stage, all of those intensify greatly. I will
+1:48:33
+explain how civil wars and revolutions transpire. As previously described, the
+1:48:41
+cycle of building wealth and wealth gaps that leads to a very small percentage of the population controlling an
+1:48:47
+exceptionally large percentage of the wealth eventually results in the poor majority overthrowing the rich minority
+1:48:54
+via civil wars and revolutions. This has happened more times than one can imagine.
+1:49:00
+While most of the archetypical civil wars and revolutions shifted power from the right to the left, many shifted
+1:49:07
+wealth and power to the right and away from those on the left. However, there were fewer of them and they were
+1:49:13
+different. They typically happened when the existing orders slipped into dysfunctional anarchies and a large
+1:49:20
+percentage of the population yearned for strong leadership, discipline, and productivity. Examples of revolutions
+1:49:27
+from the left to the right include Germany, Spain, Japan, and Italy in the
+1:49:32
+1930s, the fall of the Soviet Union in the 1980s to the early 1990s, the 1976
+1:49:39
+coup in Argentina replacing Isabel Peron with a military huta, and the coup
+1:49:44
+leading to the second French Empire in 1851. All those that I examined worked
+1:49:50
+or didn't work for the same reason. Like those of the left, these new internal orders succeeded when they produced
+1:49:57
+broad-based economic successes and failed when they did not. Because broad
+1:50:02
+economic prosperity is the biggest reason a new regime succeeds or fails, the long-term trends have been to both
+1:50:09
+greater total wealth and broader distribution of the wealth, that is better economic and health outcomes for
+1:50:16
+the average person. That big picture can be easily lost when one is in and experiencing one part of
+1:50:22
+the big cycle. Typically, the people who led the civil war or revolution were and still
+1:50:29
+are well-educated people from middle class backgrounds. For example, three of the key
+1:50:34
+revolutionary leaders of the French Revolution were George Jacqu Danton, a lawyer raised in a bourgeoa family, Jean
+1:50:42
+Paul Marat, a physician, scientist and journalist raised in a bajgeois family,
+1:50:47
+and Maxmillian Robes Pierre, a lawyer and statesman also from a bourgeoa family. This revolution was initially
+1:50:54
+supported by many liberal aristocrats like the Marque de Lafayette who were raised in moderately well-off families.
+1:51:02
+Similarly, the leaders of the Russian Revolution were Vladimir Lenon, who studied law, and Leon Trosky, who was
+1:51:08
+raised in a bourgeoa family of intellectuals. The Chinese civil war was led by Mao, who was from a moderately
+1:51:16
+well-off family and studied a variety of subjects such as law, economics, and political theory, and Joe Enli, who was
+1:51:23
+from a scholarly middle-class family of civil servants. These leaders also typically were and
+1:51:29
+still are charismatic and able to lead and work well with others to build big well-run organizations that have the
+1:51:36
+power to bring about the revolutions. If you want to look for the revolutionaries of the future, you might keep an eye on
+1:51:43
+those who have these qualities. Over time, they typically evolve from being idealistic
+1:51:48
+intellectuals wanting to change the system to be fairer to brutal revolutionaries bent on winning at all
+1:51:54
+costs. While having large wealth gaps during economically difficult times was
+1:52:00
+typically the biggest source of conflict, there were always other reasons for conflict that added up to a
+1:52:06
+lot of opposition to the leadership in the system. Typically in revolutions, the revolutionaries with these different
+1:52:13
+grievances joined together to make revolutionary changes. While they looked united during the revolution, after
+1:52:19
+winning the revolution, they typically fought with each other over issues and for power.
+1:52:25
+As previously mentioned, during the civil war or revolution stage of the cycle, the governments in power almost
+1:52:32
+always had an acute shortage of money, credit, and buying power. That shortage
+1:52:37
+created the desire to grab money from those who had it, which led those who had wealth to move it into places and
+1:52:43
+assets that were safe, which led the governments to stop these movements by imposing capital controls. That is,
+1:52:50
+controls on movements to other jurisdictions, for example, other countries, to other currencies, or to
+1:52:56
+assets that are more difficult to tax and/or are less productive, for example,
+1:53:01
+gold. To make matters even worse, when there was internal disorder, foreign enemies
+1:53:08
+were more likely to challenge the country. This happens because domestic conflict causes vulnerabilities that
+1:53:15
+make external wars more likely. Internal conflict splits the people within a
+1:53:20
+country, is financially taxing on them, and demands attention that leaves less time for the leaders to tend to other
+1:53:27
+issues. All things that create vulnerabilities for foreign powers to take advantage of.
+1:53:33
+That is the main reason why internal wars and external wars tend to come close together. Other reasons include
+1:53:40
+emotions and tempers are heightened. Strong populist leaders who tend to come to power at such times are fighters by
+1:53:47
+nature. When there are internal conflicts, leaders find that a perceived threat from an external enemy can bring
+1:53:54
+the country together in support of the leader. So they tend to encourage the conflict. And being deprived leads
+1:54:01
+people and countries to be more willing to fight for what they need, including resources that other countries
+1:54:08
+have. Almost all civil wars have had some foreign powers participating in attempt to influence the outcome to
+1:54:14
+their benefit. The beginnings of civil wars and revolutions aren't clear when they
+1:54:20
+are happening, though they are obvious when one is deeply in the middle of them. While historians assign dates to the
+1:54:26
+beginnings and ends of civil wars, they are arbitrary. The truth is that almost
+1:54:32
+no one at the time knows that a civil war has begun or that it has ended, but they know when they are in them. For
+1:54:39
+example, many historians have designated July 14th, 1789 as the day the French
+1:54:44
+Revolution began because a mob stormed an armory in prison called the Bastile.
+1:54:50
+But nobody at the time thought it was the beginning of the French Revolution or had any idea how terribly brutal that
+1:54:56
+civil war and revolution would become. While one might not know what's to come, one can have imprecise markers that help
+1:55:03
+one place where one is to see the direction that one is moving in and to know something about what the next stage
+1:55:09
+will be like. Civil wars are incredibly brutal because they are fights to the death.
+1:55:17
+Everyone is an extremist because everyone is forced to pick a side and fight. Also, moderates lose out in knife
+1:55:26
+fights. As for what types of leaders are best for civil wars and revolutions, they are the inspirational generals.
+1:55:33
+People who are strong enough to marshall, support, and win the various types of battles they have to win.
+1:55:39
+Because the fight is brutal, they have to be brutal enough to do whatever is necessary to
+1:55:44
+win. The time that historians stamp as the Civil War period typically lasts a
+1:55:50
+few years and determines the official winners and losers, which is conveyed by who gets to occupy the government
+1:55:56
+buildings in the capital. But like the beginnings, the ends of civil wars and revolutions are not as clearly defined
+1:56:02
+as historians convey. The fighting to consolidate power can go on for a long
+1:56:08
+time after the official civil war is ended. While civil wars and revolutions are
+1:56:14
+typically extremely painful, they often lead to restructurings that if done well can establish the foundation for
+1:56:20
+improved future results. What the future after the Civil War or Revolution looks
+1:56:26
+like depends on how the next steps are handled.
+1:56:33
+Conclusion. My study of history has taught me that nothing is forever other than evolution. And within evolution,
+1:56:40
+there are cycles that are like tides that come in and go out and that are hard to change or fight against. To
+1:56:47
+handle these changes well, it is essential to know which stage of the cycle one is in and to know timeless and
+1:56:53
+universal principles for dealing with it. As conditions change, the best approaches change. That is, what is best
+1:57:00
+depends on the circumstances and the circumstances are always changing in the ways we just looked at. For that reason,
+1:57:07
+it is a mistake to rigidly believe that any economic or political system is always best because there will certainly
+1:57:14
+be times when that system is not best for the circumstances at hand. And if a society doesn't adapt, it will die. That
+1:57:22
+is why constantly reforming systems to adapt well is best. The test of any
+1:57:28
+system is simply how well it works in delivering what most of the people want. And this can be objectively measured
+1:57:34
+which we can do and will continue to do. Having said that, the lesson from
+1:57:40
+history that comes through most loudly and most clearly is that skilled collaborations to produce productive
+1:57:46
+win-win relationships to both grow and divide the pie well so that most people
+1:57:52
+are happy are much more rewarding and much less painful than fighting civil wars over wealth and power that lead to
+1:57:59
+one side subjugating the other side. Chapter 6. The big cycle of external
+Chapter 6: The Big Cycle of External Order and Disorder
+1:58:06
+order and disorder. Relationships between people and the orders that govern them work in
+1:58:14
+basically the same ways whether they are internal or external and they blend together. In fact, it wasn't long ago
+1:58:21
+that there were no distinctions between internal and external orders because there were no clearly defined and
+1:58:27
+mutually recognized boundaries between countries. For that reason, the six-stage cycle of
+1:58:33
+going between order and disorder that I described in the last chapter about what happens within countries works the same
+1:58:39
+way between countries with one big exception. International relations are
+1:58:45
+driven much more by raw power dynamics. That is because all governance systems
+1:58:50
+require effective and agreed upon one laws and law-making abilities, two law
+1:58:56
+enforcement capabilities, for example, police. Three, ways of adjudicating, for
+1:59:02
+example, judges, and four, clear and specified consequences that both suit
+1:59:07
+crimes and are enforced, for example, fines and incarcerations. and those things either don't exist or are not as
+1:59:14
+effective in guiding relations between countries as they are in guiding relations within
+1:59:20
+them. While attempts have been made to make the external order more rule- abiding, for example, via the League of
+1:59:26
+Nations and the United Nations, by and large, they have failed because these organizations have not had more wealth
+1:59:33
+and power than the most powerful countries. When individual countries have more power than the collectives of
+1:59:40
+countries, the more powerful individual countries rule. For example, if the US,
+1:59:45
+China or other countries have more power than the United Nations, then the US, China or other countries will determine
+1:59:52
+how things go rather than the United Nations. That is because power prevails
+1:59:58
+and wealth and power among equals is rarely given up without a fight.
+2:00:04
+When powerful countries have disputes, they don't get their lawyers to plead their cases to judges. Instead, they
+2:00:11
+threaten each other and either reach agreements or fight. The international order follows the law of the jungle much
+2:00:18
+more than it follows international law. There are five major kinds of
+2:00:23
+fights between countries. Trade and economic wars, technology wars, capital
+2:00:29
+wars, geopolitical wars, and military wars. Let's begin by briefly defining
+2:00:36
+them. One, trade and economic wars. Conflicts over tariffs, import export
+2:00:42
+restrictions, and other ways of damaging arrival economically. Two, technology wars.
+2:00:50
+Conflicts over which technologies are shared and which are held as protected aspects of national
+2:00:56
+security. Three, geopolitical wars. conflicts over territory and alliances
+2:01:02
+that are resolved through negotiations and explicit or implicit commitments, not
+2:01:08
+fighting. Four, capital wars, conflicts imposed through financial tools such as
+2:01:14
+sanctions, for example, cutting off money and credit by punishing institutions and governments that offer
+2:01:20
+it, and limiting foreign access to capital markets.
+2:01:25
+Five, military wars. Conflicts that involve actual shooting and the
+2:01:30
+deployment of military forces. Most fights between nations fall
+2:01:35
+under one or more of those categories. Cyber warfare, for example, has a role in all of them. They are over wealth and
+2:01:43
+power and the ideologies pertaining to them. While most of these types of wars don't involve shooting and killing, they
+2:01:51
+are all power struggles. In most cases, the first four kinds of war will evolve over time as intense
+2:01:58
+competitions between rival nations until a military war begins. These struggles
+2:02:03
+and wars, whether or not they involve shooting and killing, are exertions of power of one side over the other. They
+2:02:10
+can be all out or contained depending on how important the issue is and what the
+2:02:15
+relative powers of the opponents are. But once a military war begins, all four
+2:02:20
+of the other dimensions will be weaponized to the greatest extent possible. As discussed in the last
+2:02:27
+several chapters, all of the factors that drive internal and external cycles tend to improve and worsen together.
+2:02:35
+When things get bad, there are more things to argue over, which leads to greater inclinations to fight. That's
+2:02:41
+human nature and it is why we have the big cycle which oscillates between good times and bad
+2:02:48
+ones. Allout wars typically occur when existential issues, ones that are so
+2:02:54
+essential to the country's existence that people are willing to fight and die for them are at stake and they cannot be
+2:03:00
+resolved by peaceful means. The wars that result from them make it clear which side gets its way and has
+2:03:07
+supremacy in subsequent matters. That clarity over who sets the rules then
+2:03:13
+becomes the basis of a new international order. The next PDF chart shows the
+2:03:19
+cycles of internal and external peace and conflict in Europe going back to 1500 as reflected in the deaths they
+2:03:26
+caused. As you can see, there were three big cycles of rising and declining conflict averaging about 150 years each.
+2:03:34
+Though big civil and external wars last only a short time, they are typically the culmination of the long-standing
+2:03:40
+conflicts that led up to them. While World Wars 1 and two were separately driven by the classic cycle, they were
+2:03:48
+also interrelated. As you can see in the PDF chart, each cycle consisted of a
+2:03:54
+relatively long period of peace and prosperity. For example, the Renaissance, the Enlightenment, and the
+2:04:00
+Industrial Revolution that swed the seeds for terrible and violent external wars, for example, the 30 Years War, the
+2:04:07
+Napoleonic Wars, and the two world wars. Both the upswings, the periods of peace
+2:04:13
+and prosperity, and the downswings, the periods of depression and war affected the whole world. Not all countries
+2:04:21
+prosper when the leading powers do because countries gain at the expense of others. For example, the decline of
+2:04:28
+China from around 1840 to 1949, known as the century of humiliation, came about
+2:04:35
+because the Western powers and Japan exploited China. As you listen, keep in mind that
+2:04:42
+the two things about war that one can be most confident in are one that it won't
+2:04:47
+go as planned and two that it will be far worse than imagined. It is for those
+2:04:53
+reasons that so many of the principles that follow are about ways to avoid shooting wars. Still, whether they are fought for
+2:05:01
+good reasons or bad, shooting wars happen. To be clear, while I believe most are tragic and fought for
+2:05:07
+nonsensical reasons, some are worth fighting because the consequences of not fighting them, for example, the loss of
+2:05:14
+freedom would be intolerable. the timeless and universal forces that
+2:05:21
+produce changes to the external order. As I explained in chapter 2,
+2:05:27
+after self-interest and self-s survival, the quest for wealth and power is what most motivates individuals, families,
+2:05:34
+companies, states, and countries. Because wealth equals power in terms of the ability to build military strength,
+2:05:41
+control trade, and influence other nations. Domestic and military strength go hand in hand. It takes money to buy
+2:05:49
+guns, military power. And it takes money to buy butter, domestic social spending
+2:05:54
+needs. When a country fails to provide adequate amounts of either, it becomes vulnerable to domestic and foreign
+2:06:01
+opposition. From my study of Chinese dynasties and European empires, I've
+2:06:06
+learned that the financial strength to outspend one's rivals is one of the most important strengths a country can have.
+2:06:14
+That is how the United States beat the Soviet Union in the Cold War. Spend enough money in the right ways and you
+2:06:20
+don't have to have a shooting war. Long-term success depends on sustaining both the guns and the butter without
+2:06:28
+producing the excesses that lead to their declines. In other words, a country must be strong
+2:06:33
+enough financially to give its people both a good living standard and protection from outside enemies. The
+2:06:40
+really successful countries have been able to do that for 200 to 300 years. None has been able to do it
+2:06:47
+forever. Conflict arises when the dominant power begins to weaken or an emerging power begins to approach it in
+2:06:54
+strength or both. The greatest risk of military war is when both parties have
+2:07:00
+one military powers that are roughly comparable and two irreconcilable and
+2:07:06
+existential differences. As of this writing, the most potentially explosive conflict is that between the United
+2:07:12
+States and China over Taiwan. The choice that opposing
+2:07:17
+countries face, either fighting or backing down, is very hard to make. Both
+2:07:23
+are costly. fighting in terms of lives and money and backing down in terms of the loss of status since it shows
+2:07:29
+weakness which leads to reduced support. When two competing entities each have the power to destroy the
+2:07:36
+other, both must have extremely high trust that they won't be unacceptably harmed or killed by the other. Managing
+2:07:44
+the prisoner's dilemma well, however, is extremely rare.
+2:07:49
+While there are no rules in international relations other than those the most powerful impose on themselves,
+2:07:55
+some approaches produce better outcomes than others. Specifically, those that are more likely to lead to win-win
+2:08:01
+outcomes are better than those that lead to lose-lose outcomes. Hence, this allimportant principle. To get more
+2:08:09
+win-win outcomes, one needs to negotiate with consideration given to what is most
+2:08:14
+important to the other party and to oneself and know how to trade them. To
+2:08:20
+give an oversimplified example of a win-win approach, if each country picks the top 10 things that they want to get
+2:08:27
+or want to be protected against and allocates 100 points in total to these to express how much they want these
+2:08:33
+things, they could determine what the best trades would be. For example, I
+2:08:38
+expect that high on China's list would be the reunification with Taiwan. So high, in fact, that they would go to war
+2:08:45
+for it. I can't imagine that preventing that from happening peacefully would be nearly as high on the US's list, whereas
+2:08:52
+something on the US's list would be very high so that they should be willing to trade it to make both sides happy.
+2:08:59
+Though it might sound naive, I wish the power of thoughtful disagreement could be tapped to deal with the US China
+2:09:06
+wars. For example, I visualize how wonderful it would be if leaders or representatives of each country were to
+2:09:13
+have a series of publicly aired thoughtful disagreements like presidential debates that the
+2:09:18
+populations of both countries could listen to in order to gain both sides perspectives.
+2:09:23
+I'm sure it would make us much more knowledgeable and empathetic and improve the chances of peaceful
+2:09:30
+resolutions. Skilled collaborations to produce win-win relationships that both increase and divide up wealth and power
+2:09:38
+well are much more rewarding and much less painful than wars that lead to one side subjugating the other. Seeing
+2:09:46
+things through your adversar's eyes and clearly identifying and communicating your red lines to them. That is what
+2:09:53
+cannot be compromised are the keys to doing this well. Winning means getting
+2:09:58
+the things that are most important without losing the things that are most important. So wars that cost much more
+2:10:05
+in lives and money than they provide in benefits are stupid. But stupid wars
+2:10:11
+still happen all the time for reasons that I will explain. It is far too easy to slip into stupid
+2:10:18
+wars because of a the prisoners dilemma, b a tit fortat escalation process, c the
+2:10:25
+perceived costs of backing down for the declining power, and d misunderstandings
+2:10:31
+existing when decision-making has to be fast. Rival great powers typically find
+2:10:37
+themselves in the prisoner's dilemma. They need to have ways of assuring the other that they won't try to kill them,
+2:10:43
+lest the other tries to kill them first. Tit fortat escalations are dangerous in
+2:10:48
+that they require each side to escalate or lose what the enemy captured in the last move. It is like a game of chicken.
+2:10:56
+Push it too far and there is a head-on crash. Until emotional appeals that rile
+2:11:03
+people up increase the dangers of stupid wars. So it is better for leaders to be
+2:11:08
+truthful and thoughtful in explaining the situation and how they are dealing with it. This is especially essential in
+2:11:15
+a democracy in which the opinions of the population matter. The worst thing is when leaders
+2:11:21
+are untruthful and emotional in dealing with their populations and it is worse still when they take over the
+2:11:28
+media. By and large, the tendency to move between win-win relationships and lose-lose relationships happens in a
+2:11:36
+cyclical way. People and empires are more likely to have cooperative relationships during good times and to
+2:11:42
+fight during bad times. When the existing great power is declining in
+2:11:48
+relation to a rising power, it has a natural tendency to want to maintain the status quo or the existing rules while
+2:11:55
+the rising power wants to change them to be in line with the changing facts on the ground. While I don't know about the
+2:12:02
+love part of the saying all is fair and love and war, I know the war part is
+2:12:08
+right. As an example, in the American Revolutionary War, when the British lined up in rows for the fight and the
+2:12:15
+American Revolutionaries shot at them from behind trees, the British thought that was unfair and complained. The
+2:12:21
+revolutionaries won, believing the British were foolish and that the cause of independence and freedom justified
+2:12:28
+changing the rules of war. That's just how it is. This leads me to one final
+2:12:35
+principle. Have power, respect power, and use power wisely. Having power is good because
+2:12:43
+power will win out over agreements, rules, and laws all the time. When push
+2:12:48
+comes to shove, those who have the power to either enforce their interpretation of the rules and laws or to overturn
+2:12:54
+them will get what they want. It is important to respect power because it's
+2:12:59
+not smart to fight a war that one is going to lose. It is preferable to negotiate the best settlement possible.
+2:13:06
+That is, unless one wants to be a martyr, which is usually for stupid ego reasons rather than for sensible
+2:13:12
+strategic reasons. It is also important to use power wisely. Using power wisely
+2:13:18
+doesn't necessarily mean forcing others to give you what you want, that is bullying them. It includes the
+2:13:24
+recognition that generosity and trust are powerful forces for producing win-win relationships which are
+2:13:31
+fabulously more rewarding than lose-lose relationships. In other words, it is
+2:13:36
+often the case that using one's hard powers is not the best path and that using one's soft powers is
+2:13:43
+preferable. For example, though I always had the ownership power to make decisions at Bridgewater autocratically,
+2:13:50
+I chose not to use that power. Instead, I created and operated an idea
+2:13:56
+meritocratic system which I described in principles life and work. I also chose
+2:14:01
+to be far more generous with the people I worked with than I had to be while maintaining extremely high standards
+2:14:07
+because I knew that operating that way would produce the amazing relationships and outcomes that we experienced far
+2:14:14
+better than if I had used my hard powers more forcefully. So, it's important to
+2:14:19
+remember that great relationships give one great powers and that they are wonderful rewards in and of
+2:14:25
+themselves. There is nothing more powerful and rewarding for the individual and the collective than the
+2:14:31
+cooperation of capable people who care for each other and who will give each other all they
+2:14:36
+can. When thinking about how to use power wisely, it's also important to
+2:14:42
+decide when to reach an agreement and when to fight. To do that, a party must
+2:14:47
+imagine how its power will change over time. It is desirable to use one's power
+2:14:52
+to negotiate an agreement, enforce an agreement, or fight a war when one's power is greatest. That means that it
+2:14:59
+pays to fight early if one's relative power is declining, and fight later if it's rising. If one is in a lose-lose
+2:15:08
+relationship, one has to get out of it one way or another, preferably through separation, though possibly through war.
+2:15:15
+To handle one's power wisely, it's usually best not to show it because it will usually lead others to feel
+2:15:21
+threatened and build their own threatening powers, which will lead to a mutual escalation that threatens
+2:15:27
+both. Power is usually best handled like a hidden knife that can be brought out in the event of a fight. But there are
+2:15:35
+times when showing one's power and threatening to use it are most effective for improving one's negotiating position
+2:15:41
+and preventing a fight. Knowing what matters most and least to the other party, especially what they will and
+2:15:47
+won't fight for, allows you to work your way toward an equilibrium that both parties consider a fair resolution of a
+2:15:55
+dispute. Though it is generally desirable to have power, it is also desirable to not have power that one
+2:16:02
+doesn't need. That is because maintaining power consumes resources, most importantly, your time and your
+2:16:09
+money. Also, with power comes the burden of responsibilities. I've often been
+2:16:14
+struck by how much happier less powerful people can be relative to more powerful
+2:16:22
+people. Case study World War II. Now that we have covered the dynamics
+2:16:28
+and principles that drive the external order and disorder cycle, which were derived by looking at many cases, I'd
+2:16:35
+like to briefly look at the World War II case because it provides the most recent example of the iconic dynamic of going
+2:16:42
+from peace to war. Though it is only one case, it clearly shows how the
+2:16:47
+confluence of the three big cycles that is the overlapping and interrelated forces of the money and credit cycle,
+2:16:53
+the internal order disorder cycle and the external order disorder cycle
+2:16:59
+created the conditions for a catastrophic war and laid the groundwork for a new world order. While the stories
+2:17:06
+from this period are very interesting in and of themselves, they are especially important because they provide lessons
+2:17:12
+that help us think about what is happening now and what might be ahead. Most importantly, the United States and
+2:17:18
+China are in an economic war that could conceivably evolve into a military war. And comparisons between the 1930s and
+2:17:26
+today provide valuable insights into what might happen and how to avoid a terrible war.
+2:17:34
+the path to war. To help convey the picture of the 1930s, I will run through the
+2:17:40
+geopolitical highlights leading up to the official start of the war in Europe in 1939 and the bombing of Pearl Harbor
+2:17:47
+in 1941. Then I will quickly move through the war and the start of the new world
+2:17:52
+order in 1945 with the US at the peak of its power.
+2:17:57
+The global depression that followed the great crash of 1929 led to almost all
+2:18:02
+countries having big internal conflicts over wealth. This caused them to turn to
+2:18:08
+more populist, autocratic, nationalistic, and militaristic leaders and policies. These moves were either to
+2:18:15
+the right or to the left and occurred in varying degrees according to the country's circumstances and the
+2:18:21
+strengths of their democratic or autocratic traditions. In Germany, Japan, Italy, and Spain,
+2:18:28
+extremely bad economic circumstances and less wellestablished democratic traditions led to extreme internal
+2:18:35
+conflicts and a turn to populist autocratic leaders of the right, that is, fascists, just as at different
+2:18:41
+points in time, the Soviet Union and China, which also endured extreme circumstances and had no experience with
+2:18:48
+democracy, turned to populist autocratic leaders of the left, that is communists.
+2:18:54
+The US and the UK had much stronger democratic traditions and less severe economic conditions. So they became more
+2:19:01
+populist and autocratic than they had been, but not nearly as much as other
+2:19:08
+nations. Germany and Japan. While Germany had previously been
+2:19:14
+saddled with tremendous reparation debts following World War I, by 1929, it was
+2:19:20
+beginning to emerge from under their yoke via the Young Plan, which provided for considerable debt relief and the
+2:19:26
+departure of foreign troops from Germany by 1930. Specific developments and detail
+2:19:32
+on this period are explained in my book, Principles for Navigating Big Debt Crisis. But the global depression hit
+2:19:40
+Germany hard, leading to nearly 25% unemployment, massive bankruptcies, and
+2:19:45
+extensive poverty. As is typical, there was a struggle between populists of the
+2:19:51
+left, communists, and populists of the right, fascists. Adolf Hitler, the leading populist
+2:19:57
+fascist, tapped into the mood of national humiliation to build a nationalistic furer, casting the Treaty
+2:20:04
+of Versailles and the countries that imposed it as the enemy. He created a
+2:20:10
+25point nationalistic program and rallied support around it. In response
+2:20:15
+to internal fighting and the desire to restore order, Hitler was appointed chancellor in January 1933, drawing
+2:20:22
+large support for his Nazi party from industrialists who feared the communists. Two months later, the Nazi
+2:20:29
+party won the most support and the most seats in the German Parliament, the Reichdog.
+2:20:36
+Hitler refused to pay any further reparation debts, left the League of Nations, and took autocratic control of
+2:20:42
+Germany in 1934. Holding the dual roles of Chancellor and President, he became the
+2:20:48
+country's supreme leader. In democracies, there are always some laws that allow leaders to grab special
+2:20:55
+powers. Hitler seized them all. He invoked article 48 of the VHimar
+2:21:01
+constitution to put an end to many civil rights and suppress political opposition from the communists and forced the
+2:21:08
+passage of the enabling act which allowed him to pass laws without approval of the Reichto and the
+2:21:14
+president. He was ruthless against any opposition. He censored or took control
+2:21:20
+of newspapers and broadcasting companies. Created a secret police force, the Gestapo, to root out and
+2:21:26
+crush opposition. deprived Jews of their rights of citizenship, seized the Protestant church's finances, and
+2:21:33
+arrested church officials who opposed him. Declaring the Aryan race superior,
+2:21:39
+he prohibited non-arans from serving in government. Hitler took that same
+2:21:44
+autocratic fascist approach to rebuilding Germany's economy, coupled with big fiscal and monetary stimulation
+2:21:51
+programs. He privatized state-owned businesses and encouraged corporate investment, acting aggressively to raise
+2:21:58
+Aryan Germans living standards. For example, he set up Volkswagen to make
+2:22:03
+cars affordable and accessible, and he directed the building of the Ottabon. He
+2:22:08
+financed this substantially increased government spending by forcing banks to buy government bonds.
+2:22:15
+The debts that were produced were paid back by the earnings of companies and the central bank, the Reichkes Bank,
+2:22:20
+monetizing debt. These fiscal policies by and large worked well in achieving
+2:22:26
+Hitler's goals. This is another example of how borrowing in one's own currency
+2:22:31
+and increasing one's own debt and deficits can be highly productive if the money borrowed is put into investments
+2:22:37
+that raise productivity and produce more than enough cash flow to service the debt. Even if it doesn't cover 100% of
+2:22:45
+the debt service, it can be very cost-effective in achieving the economic goals of the
+2:22:50
+country. As for the economic effects of these policies, when Hitler came to
+2:22:55
+power in 1933, the unemployment rate was 25%. By 1938, it was nil. Per capita
+2:23:03
+income increased by 22% in the 5 years after Hitler took power and real growth
+2:23:08
+averaged over 8% per year between 1934 and 1938. As shown in the next PDF charts,
+2:23:16
+German equities rallied nearly 70% in a steady trend between 1933 and 1938 until
+2:23:24
+the onset of the hot war. In 1935, Hitler began to build the
+2:23:30
+military, making military service compulsory for Aryans. Germany's military spending
+2:23:36
+increased much faster than any other country because the German economy needed more resources to fuel itself and
+2:23:43
+it intended to use its military power to seize them. Like Germany, Japan was also hit
+2:23:50
+exceptionally hard by the depression and became more autocratic in response.
+2:23:55
+Japan was especially vulnerable to the depression because as an island nation without adequate natural resources, it
+2:24:02
+relied on exports for income to import necessities. When its exports fell by
+2:24:08
+around 50% between 1929 and 1931, Japan was economically
+2:24:14
+devastated. In 1931, Japan went broke. That is, it was forced to draw down its
+2:24:20
+gold reserves, abandon the gold standard, and float its currency, which depreciated it so greatly that Japan ran
+2:24:27
+out of buying power. These terrible conditions and large wealth gaps led to
+2:24:32
+fighting between the left and the right. By 1932, there was a massive upsurge in
+2:24:38
+right-wing nationalism and militarism in the hope that order and economic stability could be forcibly restored.
+2:24:45
+Japan set out to get the natural resources, for example, oil, iron, coal, and rubber, and human resources, that is
+2:24:52
+slave labor, it needed by seizing them from other countries, invading Manuria
+2:24:58
+in 1931 and spreading out through China and Asia. As with Germany, it could be
+2:25:04
+argued that Japan's path of military aggression to get needed resources was more cost effective than relying on
+2:25:10
+classic trading and economic practices. In 1934, there was severe famine in
+2:25:17
+parts of Japan, causing even more political turbulence and reinforcing the right-wing militaristic, nationalistic,
+2:25:24
+and expansionistic movement. In the years that followed, Japan's top-down fascist command economy
+2:25:31
+grew stronger, building a military-industrial complex to protect its existing bases in East Asia and
+2:25:38
+northern China and support its excursions into other countries. As was also the case in Germany, while most
+2:25:44
+Japanese companies remained privately held, their production was controlled by the
+2:25:51
+government. What is fascism? Consider the following three big choices that a
+2:25:56
+country has to make when selecting its approach to governance. One, bottomup
+2:26:02
+democratic or top-down autocratic decision-making. Two, capitalist or communist with
+2:26:10
+socialist in the middle ownership of production. And three, individualistic,
+2:26:15
+which treats the well-being of the individual with paramount importance, or collectivist, which treats the
+2:26:21
+well-being of the whole with paramount importance. Pick the one from each category that you believe is optimal for
+2:26:28
+your nation's values and ambitions, and you have your preferred approach.
+2:26:34
+Fascism is autocratic, capitalist, and collectivist. Fascists believe that
+2:26:39
+top-down autocratic leadership in which the government directs the production of privately held companies such that
+2:26:46
+individual gratification is subordinated to national success is the best way to
+2:26:51
+make the country and its people wealthier and more powerful. The US and the
+2:26:59
+allies. In the US, debt problems became ruinous for American banks after 1929,
+2:27:05
+which curtailed their lending around the world, hurting international borrowers.
+2:27:10
+At the same time, the depression created weak demand, which led to a collapse of US imports and other countries sales to
+2:27:17
+the US. As incomes weakened, demand fell and more credit problems occurred in a
+2:27:23
+self-reinforcing downward economic spiral. The US responded by turning
+2:27:29
+protectionist to safeguard jobs, raising tariffs via the passage of the Smoot Holly Tariff Act in 1930, which further
+2:27:37
+depressed economic conditions in other countries. Raising tariffs to protect
+2:27:42
+domestic businesses and jobs during bad economic times is common, but it leads
+2:27:48
+to reduced efficiency because production does not occur where it can be done most efficiently.
+2:27:54
+Ultimately, tariffs contribute to greater global economic weakness as tariff wars cause the countries that
+2:28:00
+impose them to lose exports. Tariffs do, however, benefit the entities that are
+2:28:06
+protected by them and they can create political support for the leaders who impose them.
+2:28:12
+The Soviet Union had yet to recover from its devastating 1917-22 revolution and civil war, a lost
+2:28:20
+war to Germany, a costly war with Poland, and a famine in 1921. And it was racked by political
+2:28:27
+purges and economic hardships throughout the 1930s. China also suffered from civil
+2:28:33
+war, poverty, and a famine in 1928 to30. So when things worsened in 1930 and
+2:28:40
+tariffs began, bad conditions became desperate conditions in those countries. To make matters worse, there
+2:28:48
+were droughts in the US and in the Soviet Union in the 1930s. Harmful acts of nature, for
+2:28:54
+example, droughts, floods, and plagues often cause periods of great economic hardship that when combined with other
+2:29:01
+adverse conditions lead to periods of great conflict. In combination with extreme government
+2:29:08
+policies, millions died in the USSR. At the same time, internal
+2:29:13
+political fighting and fears of Nazi Germany led to purges of hundreds of thousands of people who were accused of
+2:29:20
+spying and shot without trials. Deflationary depressions are
+2:29:26
+debt crises caused by there not being enough money in the hands of debtors to service their debts. They inevitably
+2:29:33
+lead to the printing of money. debt restructurings and government spending programs that increase the supply of and
+2:29:39
+reduce the value of money and credit. The only question is how long it takes
+2:29:45
+for government officials to make this move. In the case of the US, it took 3
+2:29:50
+and 1/2 years from the crash in October 1929 until President Franklin D.
+2:29:55
+Roosevelt's March 1933 actions. In Roosevelt's first 100 days in office, he
+2:30:02
+created several massive government spending programs that were paid for by big tax increases and big budget
+2:30:08
+deficits financed by debt that the Federal Reserve monetized. He instituted jobs programs,
+2:30:15
+unemployment insurance, social security, and labor and unionfriendly programs.
+2:30:21
+After his 1935 tax bill, then popularly called the Soak the rich tax, the top
+2:30:27
+marginal income tax rate for individuals rose to 75% versus as low as 25% in 1930. By
+2:30:37
+1941, the top personal tax rate was 81% and the top corporate tax rate was 31%
+2:30:44
+having started at 12% in 1930. Roosevelt also imposed a number of other
+2:30:50
+taxes. Despite all of these taxes and the pickup in the economy that helped raise tax revenue, budget deficits
+2:30:58
+increased from around 1% of GDP to about 4% of GDP because the spending increases
+2:31:04
+were so large. Specific developments through the Great Depression are explained in great detail in my book,
+2:31:11
+Principles for Navigating Big Debt Crisis. From 1933 until the end of 1936,
+2:31:18
+the stock market returned over 200%. And the economy grew at a blistering average
+2:31:23
+real rate of about 9%. In 1936, the Federal Reserve
+2:31:28
+tightened money and credit to fight inflation and slow an overheating economy, which caused the fragile US
+2:31:35
+economy to fall back into recession and the other major economies to weaken with it, further raising tensions within and
+2:31:42
+between countries. Meanwhile, in Europe, the conflict in Spain between the populists of the left,
+2:31:49
+the communists, and the populists of the right, the fascists, flared into the brutal Spanish civil war. Right-wing
+2:31:57
+Franco, with the support of Hitler, succeeded in purging left-wing opposition in
+2:32:03
+Spain. During periods of severe economic distress and large wealth gaps, there
+2:32:08
+are typically revolutionarily large redistributions of wealth. When done peacefully, these are achieved through
+2:32:15
+large tax increases on the rich and big increases in the supply of money that devalue debtors claims. And when done
+2:32:22
+violently, they are achieved by forced asset confiscations. In the US and the UK,
+2:32:29
+while there were redistributions of wealth and political power, capitalism and democracy were maintained. In
+2:32:36
+Germany, Japan, Italy, and Spain, they were not. Before there is a shooting war,
+2:32:42
+there is usually an economic war. As is also typical before allout wars are
+2:32:48
+declared, there is about a decade of economic, technological, geopolitical, and capital wars during which the
+2:32:54
+conflicting powers intimidate each other, testing the limits of each other's power. While 1939 and 1941 are
+2:33:03
+known as the official starts of the wars in Europe and the Pacific, the conflicts
+2:33:08
+really began about 10 years before that. In addition to the economically motivated conflicts within countries and
+2:33:15
+the political shifts that arose from them, all of these countries faced increased external economic conflicts as
+2:33:22
+they fought for greater shares of a shrinking economic pie. Because power and not law rules international
+2:33:29
+relations, Germany and Japan became more expansionist and increasingly began to test the UK, the US and France in the
+2:33:37
+competition over resources and influence over territories. Before going on to describe
+2:33:44
+the hot war, I want to elaborate on the common tactics used when economic and
+2:33:49
+capital tools are weaponized. They have been and still are.
+2:33:55
+One, asset freezes and seizures. Preventing an enemy or rival
+2:34:00
+from using or selling foreign assets they rely on. These measures can range from asset freezes for targeted groups
+2:34:07
+in a country, for example, the current US sanctions of the Iranian Revolutionary Guard or the initial US
+2:34:14
+asset freeze against Japan in World War II to more severe measures like unilateral debt repudiation or outright
+2:34:22
+seizures of a country's assets. For example, some top US policy makers have
+2:34:27
+been talking about not paying our debts to China. Two, blocking capital markets
+2:34:34
+access. Preventing a country from accessing their own or another country's capital markets. For example, in 1887,
+2:34:42
+Germany banned the purchase of Russian securities and debt to impede Russia's military buildup. The US is now
+2:34:49
+threatening to do this to China. Three, embargos and
+2:34:55
+blockades. Blockading trade in goods and/or services in one's own country and
+2:35:00
+in some cases with neutral third parties for the purpose of weakening the targeted country or preventing it from
+2:35:07
+getting essential items. for example, the US's oil embargo on Japan and
+2:35:12
+cutting off its ship's access to the Panama Canal in World War II, or blocking exports from the targeted
+2:35:19
+country to other countries, thus cutting off their income. For example, France's
+2:35:24
+blockade of the UK in the Napoleonic Wars. If you're interested in seeing how
+2:35:29
+these tactics have been applied from 1600 until now, they are available at
+2:35:35
+economicprinciples.org. The hot war
+2:35:42
+begins. In November 1937, Hitler secretly met with his top
+2:35:47
+officials to announce his plans for German expansion to gain resources and bring together the Aryan race. Then he
+2:35:55
+put them into action. First annexing Austria and then seizing a part of what was then Czechoslovakia that contained
+2:36:02
+oil resources. Europe and the US watched wearily. not wanting to get drawn into
+2:36:08
+another war so soon after the devastation of World War I. As with all wars, the unknowns were
+2:36:16
+far greater than the known because a rival powers go into wars only when
+2:36:21
+their powers are roughly comparable. Otherwise, it would be stupidly suicidal for the obviously weaker power. And B,
+2:36:29
+there are way too many possible actions and reactions to anticipate.
+2:36:34
+The only thing that is known at the outset of a hot war is that it will probably be extremely painful and
+2:36:40
+possibly ruinous. As a result, smart leaders typically go into them only if the other
+2:36:46
+side has pushed them into a position of either fighting or losing by backing down. For the Allies, that moment came
+2:36:54
+on September 1st, 1939 when Germany invaded Poland. Germany looked
+2:37:00
+unstoppable. In short order, it captured Denmark, Norway, the Netherlands,
+2:37:05
+Belgium, Luxembourg, and France, and strengthened its alliances with Japan and Italy, which had common enemies and
+2:37:12
+were ideologically aligned. By seizing territory rapidly, for example, oil rich
+2:37:18
+Romania, Hitler's army was able to conserve its existing oil resources and gain new ones quickly. The thirst for
+2:37:26
+and acquisition of natural resources remained a major driver of the Nazi war
+2:37:31
+machine as it pushed its campaigns into Russia and the Middle East. War with the
+2:37:36
+Soviets was inevitable. The only question was when. Although Germany and
+2:37:42
+the USSR had signed a non-aggression pact, Germany invaded Russia in June
+2:37:48
+1941, which put Germany in an extremely costly war on two fronts.
+2:37:54
+In the Pacific, in 1937, Japan expanded its occupation of China, brutally taking
+2:38:00
+control of Shanghai and Nangqing, killing an estimated 200,000 Chinese
+2:38:06
+civilians and disarmed combatants in the capture of Nank King alone. While the US
+2:38:12
+remained isolationist, it did provide Chiang Kai-sheks government with fighter planes and pilots to counter the
+2:38:18
+Japanese, putting a toe in the war. Conflicts between the US and Japan began
+2:38:23
+to flare. A Japanese soldier struck the US consul John Moore Allison in the face
+2:38:29
+in Nank King and Japanese fighter planes sank a US gunship. In November 1940, Roosevelt won
+2:38:38
+reelection after campaigning on the promise to keep the US out of the war. Even though the US was already taking
+2:38:45
+economic actions to protect its interests, especially in the Pacific, using economic supports to help
+2:38:51
+countries it sympathized with and economic sanctions against those it did not. Earlier in 1940, Secretary of War
+2:38:59
+Henry Stimson had initiated aggressive economic sanctions against Japan,
+2:39:04
+culminating in the Export Control Act of 1940. In mid 1940, the US moved the US
+2:39:11
+Pacific fleet to Hawaii. In October, the US ramped up the embargo, restricting
+2:39:17
+all iron and steel to destinations other than Britain and nations of the Western
+2:39:23
+Hemisphere. The plan was to cut Japan off from resources in order to force them to retreat from most of the areas
+2:39:30
+they had taken over. In March 1941, Congress passed the Lend
+2:39:36
+Lease Act, which allowed the US to lend or lease war supplies to the nations it
+2:39:41
+deemed to be acting in ways that were vital to the defense of the United States, which included Great Britain,
+2:39:47
+the Soviet Union, and China. Helping the Allies was good for the US both
+2:39:53
+geopolitically and economically because it made a lot of money selling weapons, food, and other items to these
+2:39:59
+soon-to-be Allied countries who were struggling to maintain production while waging war. But its motivations weren't
+2:40:06
+entirely mercenary. Great Britain was running out of money, that is gold. So
+2:40:12
+the US allowed them to postpone payment until after the war. In some cases
+2:40:17
+waving payment entirely, although not an outright declaration of war, lend lease
+2:40:23
+effectively ended the United States neutrality. When countries are weak,
+2:40:28
+opposing countries take advantage of their weaknesses to obtain gains. France, the Netherlands, and
+2:40:35
+Great Britain all had colonies in Asia. overstretched by the fighting in Europe,
+2:40:40
+they were unable to defend them against the Japanese. Starting in September 1940,
+2:40:46
+Japan invaded several colonies in Southeast Asia, beginning with French Indochina, adding what it called the
+2:40:53
+Southern Resource Zone to its greater East Asia co-rossperity sphere. In 1941,
+2:41:00
+Japan seized oil reserves in the Dutch East Indies. This Japanese territorial expansion was
+2:41:07
+a threat to the US's own Pacific ambitions. In July and August 1941,
+2:41:13
+Roosevelt responded by freezing all Japanese assets in the United States, closing the Panama Canal to Japanese
+2:41:20
+ships and embargoing oil and gas exports to Japan. This cut off 3/4s of Japan's
+2:41:26
+trade and 80% of its oil. Japan calculated that it would run out of oil
+2:41:32
+in 2 years. This put Japan in the position of having to choose between backing down or attacking the US. On
+2:41:40
+December 7th and 8th, 1941, Japan launched coordinated attacks on US
+2:41:45
+military forces at Pearl Harbor and in the Philippines. This marked the beginning of the declared war in the
+2:41:52
+Pacific, which brought the US into the war in Europe, too. While Japan didn't
+2:41:57
+have a widely recognized plan to win the war, the most optimistic Japanese
+2:42:02
+leaders believed that the US would lose because it was fighting a war on two fronts and because its individualistic
+2:42:09
+capitalist political system was inferior to Japan's and Germany's authoritarian
+2:42:15
+fascist systems with their command militaryindustrial complexes.
+2:42:20
+They also believed that they had the greater willingness to endure pain and die for their country, which is a big
+2:42:26
+driver of which side wins. In war, one's ability to withstand
+2:42:32
+pain is even more important than one's ability to inflict
+2:42:38
+pain. Wartime economic policies. Just as it is worth noting
+2:42:44
+what classic economic war tactics are, it is also worth noting what classic wartime economic policies are within
+2:42:51
+countries. These include government controls on just about everything as the country shifts its resources from
+2:42:58
+profitm to war making. For example, the government determines A, what items are
+2:43:03
+allowed to be produced. B what items can be bought and sold in what amounts rationing.
+2:43:10
+C. What items can be imported and exported? D. Prices, wages, and profits.
+2:43:17
+E, access to one's own financial assets. And F, the ability to move one's own
+2:43:23
+money out of the country. Because wars are expensive, classically, the
+2:43:28
+government G issues lots of debt that is monetized. H relies on nonredit money
+2:43:35
+such as gold for international transactions because its credit is not accepted. I governs more
+2:43:42
+autocratically. J imposes various types of economic sanctions on enemies
+2:43:47
+including cutting off their access to capital and K experiences enemies imposing these sanctions on
+2:43:54
+them. When the US entered the European and Pacific Wars after the attack on Pearl Harbor, classic wartime economic
+2:44:02
+policies were put in place in most countries by leaders whose more autocratic approaches were broadly
+2:44:08
+supported by their populations. The attached PDF table, wartime economic controls, shows
+2:44:16
+economic controls in each of the major countries. The market movements during the hot war
+2:44:22
+years were heavily affected by both government controls and how countries did in battles as the odds of winning
+2:44:29
+and losing changed. The next PDF table shows the controls over markets and
+2:44:34
+capital flows that were put in place by the major countries during the war years. Stock market closures were common
+2:44:42
+in a number of countries, leaving investors in stocks stuck without access to their capital. I should also note
+2:44:49
+that money and credit were not commonly accepted between non-allied countries during the war because of a justifiable
+2:44:56
+weariness about whether the currency would have any value. As noted earlier, gold or in some cases silver or barter
+2:45:05
+is the coin of the realm during wars. At such times, prices and capital flows are
+2:45:10
+typically controlled. So it is difficult to say what the real prices of many things
+2:45:16
+are because losing wars typically leads to a total wipeout of wealth and power.
+2:45:22
+Movements of those stock markets that remained open in the war years were largely driven by how countries did in
+2:45:28
+key battles as these results shifted the probability of victory or defeat for each side.
+2:45:35
+For example, German equities outperformed at the beginning of World War II as Germany captured territory and
+2:45:41
+established military dominance, while they underperformed after Allied powers like the US and the UK turned the tide
+2:45:49
+of the war. After the 1942 Battle of Midway, Allied equities rallied almost
+2:45:55
+continuously until the end of the war, while Axis equities were flat or down.
+2:46:01
+As shown in the next PDF chart, equity return index. Both the German and
+2:46:07
+Japanese stock markets were closed at the end of the war, didn't reopen for around 5 years, and were virtually wiped
+2:46:14
+out when they did, while US stocks were extremely strong.
+2:46:19
+Protecting one's wealth in times of war is difficult as normal economic activities are curtailed. Traditionally,
+2:46:26
+safe investments are not safe, capital mobility is limited, and high taxes are
+2:46:31
+imposed when people and countries are fighting for their survival. Protecting the wealth of those who have it is not a
+2:46:38
+priority relative to the need to redistribute wealth to get it to where it is needed most. As for investing,
+2:46:45
+sell out of all debt and buy gold because wars are financed by borrowing and printing money which devalues debt
+2:46:52
+and money and because there is a justifiable reluctance to accept
+2:46:59
+credit. Conclusion. Every world power has its
+2:47:04
+time in the sun thanks to the uniqueness of their circumstances and the nature of their character and culture. For
+2:47:11
+example, they have the essential elements of a strong work ethic, smarts, discipline, education, etc., but they
+2:47:18
+all eventually decline. Some do so more gracefully than others with less trauma, but they
+2:47:24
+nevertheless decline. Traumatic declines can lead to some of the worst periods in
+2:47:30
+history when big fights over wealth and power prove extremely costly both economically and in human
+2:47:37
+lives. Still, the cycle needn't transpire this way. If countries in their rich and powerful stages stay
+2:47:44
+productive, earn more than they spend, make the system work well for most of their populations, and figure out ways
+2:47:51
+of creating and sustaining win-win relationships with their most significant rivals. A number of empires
+2:47:58
+and dynasties have sustained themselves for hundreds of years, and the United States at 245 years old has proven
+2:48:05
+itself to be one of the longest lasting. In part two, I will turn to the
+2:48:10
+US, to the two reserve currency empires that preceded it, and the one that may
+2:48:15
+someday follow it. As we continue, I hope this explanation of the archetypical big cycle and the three
+2:48:22
+cycles that make it up will help you see the patterns of history and what they
+2:48:27
+pretend. But before we delve more deeply into the history, I'd first like to share how these big three cycles figure
+2:48:34
+into my approach as an investor. Chapter 7. Investing in light of the big
+Chapter 7: Investing in Light of the Big Cycle
+2:48:42
+cycle. The game I play for handling both my life and my career is to try to
+2:48:48
+figure out how the world works, develop principles for dealing with it well, and then place my bets. The research that
+2:48:55
+I'm sharing with you in this book was done for that purpose. Naturally, when I look at all that we've covered up to
+2:49:01
+this point, I think about how it applies to my investing. For me to be comfortable that I am doing that well, I
+2:49:08
+need to know how my approach would have worked through time. If I can't confidently explain what happened in the
+2:49:14
+past, or at least have a strategy for dealing with it in light of what I don't know, I consider myself dangerously
+2:49:22
+negligent. As you saw from my study of the last 500 years up to now, there were
+2:49:27
+big cycles of great accumulations and great losses of wealth and power. And of these, the greatest contributing factor
+2:49:35
+was the debt and capital markets cycle. From an investor's perspective, this
+2:49:40
+could be called the big investing cycle. I felt that I needed to understand these cycles well enough to tactically move or
+2:49:47
+diversify my portfolio to be protected against them and/or to profit from them.
+2:49:53
+By understanding them and ideally realizing where countries are in their cycles, I can do that. Over my roughly
+2:50:01
+50 years as a global macro investor, I discovered many timeless and universal
+2:50:07
+truths that form my principles for investing. While I won't get deeply into all of them here, but will discuss most
+2:50:14
+of them in my next book, principles, economics, and investing, I will convey one important
+2:50:20
+principle. All markets are primarily driven by just four determinants.
+2:50:25
+Growth, inflation, risk premiums, and discount rates.
+2:50:31
+That is because all investments are exchanges of lumpsum payments today for future payments. What these future cash
+2:50:38
+payments will be is determined by growth in inflation. What risk investors are willing to take in investing in them as
+2:50:45
+compared to having cash in hand is the risk premium and what they are worth today which is called their present
+2:50:52
+value is determined by the discount rate. The discount rate is the interest rate
+2:50:57
+that one uses to assess what an amount of money in the future is worth today.
+2:51:02
+To calculate it, one compares what amount of money today invested at that interest rate, that is the discount
+2:51:09
+rate, would be worth a certain amount at a specific time in the future. How these four determinants
+2:51:16
+change drives how investment returns change. Tell me what each of these determinants is going to do and I can
+2:51:22
+tell you what the investments are going to do. Knowing this tells me how to connect what is happening in the world
+2:51:28
+to what is happening in the markets and vice versa. It also shows me how to balance my investments so that my
+2:51:35
+portfolio doesn't have any bias to any environment which is what produces good
+2:51:40
+diversification. Governments influence these factors through their fiscal and monetary policies. As a result,
+2:51:47
+interactions between what governments want to happen and what is actually happening are what drive the cycles. If
+2:51:54
+governments and their systems break down, non-government directed forces take over, which is a whole other story
+2:52:00
+that I won't get into now. For example, when growth and inflation are too low, central banks create more
+2:52:07
+money and credit growth, which creates buying power, which causes economic growth to pick up at first, and then
+2:52:14
+with a lag, inflation to pick up as well. When central banks constrain money
+2:52:19
+and credit growth, the opposite happens. Economic growth and inflation both slow down. There is a difference between what
+2:52:27
+central governments and central banks do in order to drive market returns and economic conditions. Central governments
+2:52:34
+determine where the money they use comes from and goes to because they can tax and spend, but they can't create money
+2:52:41
+and credit. Central banks, on the other hand, can create money and credit, but can't determine what the money and
+2:52:48
+credit go into in the real economy. These actions from central governments and central banks influence the
+2:52:54
+purchases and sales of goods, services, and investment assets, driving their prices up or
+2:53:01
+down. To me, each investment asset reflects these drivers in its own way
+2:53:06
+that is logical in light of the effects on its future cash flows. Each investment asset is a building block for
+2:53:13
+a portfolio. And the challenge is to put together a portfolio well in light of these things. For example, when growth
+2:53:20
+is stronger than expected, all else being equal, stock prices will likely rise. And when growth and inflation are
+2:53:27
+higher than expected, bond prices will likely fall. My goal is to put these
+2:53:32
+building blocks together in a portfolio that is well diversified and tactically tilted based on what is happening or is
+2:53:39
+going to happen in the world that is affecting these four drivers. These building blocks can be broken out
+2:53:46
+by country, by environmental bias, and all the way down to the level of individual sectors and companies. When
+2:53:52
+this concept is put into a well-balanced portfolio, it looks like the next PDF graphic titled the building blocks of a
+2:53:59
+well- diversified portfolio. It is through this lens that I look at the history of events, the
+2:54:06
+history of the markets, and the behavior of portfolios. I understand that my approach is
+2:54:12
+different from that of most investors for two reasons. First, most investors don't look for historically analogous
+2:54:19
+periods because they think history and old investment returns are largely irrelevant to them. Second, they don't
+2:54:26
+look at investment returns through the lens I just described. I believe that these perspectives give me and
+2:54:32
+Bridgewwater a competitive advantage, but it's up to you to take or leave them as you like.
+2:54:38
+Most investors base their expectations on what they have experienced in their lifetimes and a few more diligent ones
+2:54:45
+look back in history to see how their decision-making rules would have worked back to the 1950s or
+2:54:51
+1960s. There are no investors I know and no senior economic policy makers I know
+2:54:57
+and I know many and I know the best who have any excellent understandings of what happened in the past and why. Most
+2:55:05
+investors who look at longerterm returns, look at those in the US and the UK, the countries that won World War I
+2:55:12
+and World War II, as being representative. That is because there are not many stock and bond markets that
+2:55:18
+survived World War II. But these countries and time periods are not representative because of their
+2:55:24
+survivorship bias. In looking at the returns of the US and the UK, one is
+2:55:30
+looking at uniquely blessed countries in the uniquely peaceful and productive time that is the best part of the big
+2:55:36
+cycle. Not looking at what happened in other countries and in times before yields a distorted
+2:55:43
+perspective. Reasoning logically from what we know about big cycles. When we extend our perspective just a few
+2:55:50
+decades further back and look at what happened in different places, we get a shockingly different perspective. I'm
+2:55:57
+going to show you this because I think you should have it. In the 35 years before
+2:56:03
+1945, virtually all wealth was destroyed or confiscated in most countries. And in
+2:56:09
+some countries, many capitalists were killed or imprisoned because of anger at them when the capital markets and
+2:56:15
+capitalism failed along with other aspects of the old order. If we look at
+2:56:20
+what happened over the past few centuries, we see that such extreme boom bust cycles happened regularly. There
+2:56:27
+were regular cycles of capital and capitalist boom periods such as the second industrial revolution and the
+2:56:33
+guilded age that happened in the late 19th and early 20th centuries that were followed by transition periods like the
+2:56:40
+1900 to 1910 period of rising internal conflict and rising international
+2:56:46
+conflict over wealth and power that led to great conflict and economic bust
+2:56:51
+periods similar to those that happened between 1910 and 1945.
+2:56:57
+We can also see that the cause effect relationships that were behind the movements of those boom and bust periods
+2:57:03
+are now more aligned with the late cycle bust and restructuring periods than the
+2:57:08
+early cycle boom and building periods. My goal was simply to see and
+2:57:14
+try to understand what happened in the past and do a good job of showing it to you. That is what I will now try to do.
+2:57:22
+I will start in 1350, though the story begins long
+2:57:28
+before. The big cycle of capitalism and markets. Up until around 1350, lending
+2:57:36
+with an interest rate was prohibited by both Christianity and Islam. And in Judaism, it was banned within the Jewish
+2:57:43
+community because of the terrible problems it caused with human nature leading people to borrow more than they
+2:57:49
+could pay back, which created tensions and often violence between borrowers and lenders. As a result of this lack of
+2:57:57
+lending, currency was hard, gold and silver. A century or so later, in the
+2:58:03
+age of exploration, explorers went around the world collecting gold and silver and other hard assets to make
+2:58:09
+more money. That's how the greatest fortunes were built at the time. The explorers and those who backed them
+2:58:16
+split the profits. It was an effective incentive-based system for getting rich.
+2:58:22
+The alchemy of lending as we know it today was first created in Italy around 1350.
+2:58:28
+Rules for lending changed and new types of money were made. Cash deposits, bonds, and stocks that looked pretty
+2:58:35
+much like we know them today. Wealth became promises to deliver money. What I
+2:58:40
+call financial wealth. Think about what a huge impact the inventions and developments of bond
+2:58:47
+and stock markets had. Before then, all wealth was tangible. Think about how
+2:58:53
+much more financial wealth was created by creating these markets. To imagine
+2:58:58
+the difference, consider how much wealth you would now have if your cash deposits and stock and bond promises to pay you
+2:59:05
+in the future didn't exist. You wouldn't have much at all. You'd feel broke and
+2:59:10
+you'd behave differently. For example, you'd build up more savings and tangible wealth. That is pretty much what it was
+2:59:17
+like before cash deposits, bonds, and stocks were created. With the invention and growth
+2:59:24
+of financial wealth, money was not constrained by a link to gold and silver. Because money and credit and
+2:59:31
+with them spending power were less constrained, it was common practice for entrepreneurs who came up with good
+2:59:37
+ideas to create companies and borrow money and/or sell a piece of those companies by selling stock to get money
+2:59:44
+to buy what they needed. They could do this because promises to pay became
+2:59:49
+money that took the form of journal entries. Around 1350, those who could do
+2:59:54
+this, most famously the Meduche family in Florence, could create money. If you
+3:00:00
+can create credit, let's say five times as much as there is actual money, which
+3:00:05
+banks can do, you can produce a lot of buying power, so you don't need as much of the other type of money, gold and
+3:00:11
+silver, anymore. The creation of new forms of money was and still is a kind
+3:00:17
+of alchemy. Those who could create it and use it, bankers, entrepreneurs and capitalists, became very rich and
+3:00:25
+powerful. You can see this kind of alchemy at work today in the form of digital
+3:00:30
+currency. This process of expanding financial wealth has continued up to today with financial wealth becoming so
+3:00:38
+large that the hard money, gold and silver and other tangible wealth, for example, property have become relatively
+3:00:44
+unimportant. But of course, the more promises there are in the form of financial wealth, the greater the risk
+3:00:51
+there is that these promises can't be kept. That's what makes the classic big debt money economic cycle. Think about
+3:00:58
+how much financial wealth there is now relative to real wealth. And imagine if you and others who were holding it
+3:01:05
+actually tried to convert it into real wealth, that is sell it and buy stuff.
+3:01:10
+It would be like a run on a bank. It couldn't happen. The bonds and stocks are too sizable in value relative to
+3:01:17
+what they could buy. But remember that with fiat money, the central banks can print and provide the money needed to
+3:01:24
+meet the demand. That is a timeless and universal truth. Also remember that paper money
+3:01:31
+and financial assets, for example, stocks and bonds that are essentially promises to pay aren't of much use. It
+3:01:38
+is only what they buy that is of use. As discussed in detail in chapter
+3:01:44
+3, when credit is created, buying power is created in exchange for a promise to
+3:01:49
+pay back. So, it is near-term stimulating and longerterm depressing.
+3:01:55
+That creates cycles. Throughout history, the desire to obtain money by borrowing
+3:02:00
+or selling stock and the desire to save it by investing through lending or buying stock have been in a symbiotic
+3:02:08
+relationship. This has led to growth in the form of buying power and eventually to many more
+3:02:14
+promises to pay than can be delivered and broken promises crisis in the form of debt default depressions and stock
+3:02:21
+market crashes. That is when the bankers and capitalists are hanged both figuratively
+3:02:27
+and literally. Vast amounts of wealth and lives are wiped out. And vast amounts of fiat money, money that can be
+3:02:35
+printed and has no intrinsic value, are printed to try to relieve the [Music]
+3:02:41
+crisis. The more complete picture of the big cycle from an investor's perspective.
+3:02:48
+While it would be too burdensome for me and you to go through all the relevant history between 1350 and now, I will
+3:02:56
+show you what the picture would have looked like if you had started investing in 1900. But before I do so, I want to
+3:03:03
+explain how I think about risk because I'm going to highlight these risks in what I show you. As I see it, investment
+3:03:10
+risk is failing to earn enough money to meet your needs. It's not volatility
+3:03:15
+measured by standard deviation, which is the almost exclusively used measure of risk. To me, the three biggest risks
+3:03:23
+most investors face are that their portfolios won't provide the returns needed to meet their spending needs,
+3:03:30
+that their portfolios will face ruin, and that a large share of their wealth will be taken away, for example, through
+3:03:37
+high taxes. While the first two risks sound analogous, they are in fact
+3:03:42
+different because it is possible to have average returns that are higher than required but also experience one or more
+3:03:49
+periods of devastatingly high losses. To gain perspective, I imagined
+3:03:54
+that I was dropped into 1900 to see how my investments would have done in every decade since. I chose to look at the 10
+3:04:02
+greatest powers as of 1900 and skip less established countries which were more
+3:04:07
+prone to bad outcomes. Virtually any one of these countries was or could have
+3:04:13
+become a great wealthy empire and they were all reasonable places for one to invest, especially if one wanted to have
+3:04:20
+a diversified portfolio. Seven of these 10 countries saw wealth virtually wiped out at least
+3:04:27
+once. And even the countries that didn't see wealth wiped out had a handful of terrible decades for asset returns that
+3:04:34
+virtually destroyed them financially. Two of the great developed countries, Germany and Japan, which at
+3:04:40
+times one easily could have bet on as being winners, had virtually all their wealth and many lives destroyed in the
+3:04:48
+world wars. I saw that many other countries had similar results. the US
+3:04:53
+and the UK and a few others were the uniquely successful cases, but even they experienced periods of great wealth
+3:05:01
+destruction. If I hadn't looked at these returns in the period before the new world order began in
+3:05:07
+1945, I wouldn't have seen these periods of destruction. And had I not looked
+3:05:12
+back 500 years around the world, I wouldn't have seen that this has happened repeatedly almost everywhere.
+3:05:19
+The numbers shown in the next PDF table, a look at asset returns across the great
+3:05:24
+powers, are annualized real returns for each decade, which means that for the decade as a whole, the losses are about
+3:05:32
+8 times greater than shown and the gains are about 15 times greater. When
+3:05:38
+compounded over a decade, gains are greater than losses because you keep building off of gains. Whereas as you
+3:05:44
+experience losses and approach zero, future percent losses matter less in dollar terms. The comparison of
+3:05:52
+annualizing gains versus losses represents compounding from 10% annualized gains and -5% annualized
+3:06:00
+losses on average. At more extreme changes, the multipliers change from there.
+3:06:06
+Perhaps this next PDF chart paints a clearer picture as it shows what percentage of countries saw losses of a
+3:06:13
+6040 stock bond portfolio over 5-year periods. The next PDF table shows the
+3:06:21
+worst cases of investing in major countries in detail. You will note that the US doesn't appear on this table
+3:06:28
+because it wasn't among the worst cases. The US, Canada, and Australia were the
+3:06:33
+only countries that didn't experience sustained periods of losses. Naturally, I think about how I
+3:06:40
+would have approached these periods if I had been living through them. I'm certain that even if I had seen the
+3:06:46
+signs of things coming that I'm passing along in this book, I never would have confidently predicted such bad outcomes.
+3:06:53
+As noted earlier, seven of 10 countries saw their wealth wiped out in the early
+3:06:59
+1900s. Even those looking back over the past few decades would never have seen it coming because there were plenty of
+3:07:05
+reasons to be optimistic based on what had happened during the second half of the 19th century. People today often assume that
+3:07:13
+World War I must have been easy to foresee in the years leading up to it, but that wasn't the case. Before the
+3:07:20
+war, there had been about 50 years of almost no conflict between the world's major powers. During those 50 years, the
+3:07:27
+world experienced the greatest innovation and productivity growth rates it had ever seen, which led to enormous
+3:07:33
+wealth and prosperity. Globalization was at new highs with global exports up several
+3:07:39
+multiples in the 50 years prior to World War I. Countries were more interconnected than ever. The US,
+3:07:46
+France, Germany, Japan, and AustriaHungary were rapidly rising empires experiencing dizzying
+3:07:53
+technological advancement. The UK was still the dominant global power. Russia
+3:07:58
+was rapidly industrializing. Of those countries shown in the table of worst investor experiences, only China was
+3:08:06
+obviously in decline. Strong alliances among European powers were seen at the
+3:08:11
+time as a means of keeping the peace and maintaining the balance of power. Going into 1900, things looked great, except
+3:08:19
+for the fact that wealth gaps and resentments were increasing and debts had become
+3:08:25
+large. Between 1900 and 1914, these conditions worsened and international
+3:08:31
+tensions increased. Then came the periods of terrible returns I just
+3:08:36
+described. But it was worse than just terrible returns. In addition, the impacts on wealth of
+3:08:43
+wealth confiscations, confiscatory taxes, capital controls, and markets
+3:08:48
+being closed were enormous. Most investors today don't know of such things and consider them implausible
+3:08:55
+because they wouldn't have seen them by looking back on the past few decades. The next PDF table, periods of
+3:09:02
+wealth confiscation, shows in which decades these events occurred. Naturally, the most severe cases of
+3:09:08
+wealth confiscation came during periods in which there were large wealth gaps and internal conflict over wealth when
+3:09:15
+economic conditions got bad and/or there was a war. The next PDF chart shows the share
+3:09:22
+of major countries that shut their stock markets through time. Wartime stock
+3:09:27
+market closures were common and of course communist countries shut their stock markets over a generation.
+3:09:35
+The bad parts of all the cycles that took place prior to 1900 were similarly
+3:09:40
+bad. To make matters even worse, these periods of internal and external
+3:09:45
+fighting over wealth and power led to many deaths as shown in the next PDF table.
+3:09:52
+Even for the lucky investors who were in countries that won the wars, such as the US, which was twice the biggest winner,
+3:09:59
+there were two further headwinds, market timing and taxes. Most investors sell
+3:10:06
+near the lows when things are bad because they need money and because they tend to panic. They tend to buy near the
+3:10:12
+highs because they have plenty of money and they are drawn into the euphoria. This means that their actual returns are
+3:10:19
+worse than the market returns I showed. A recent study showed that US investors
+3:10:25
+underperformed US stocks by around 1.5% a year between 2000 and 2020.
+3:10:32
+As for taxes, the next PDF table estimates the average impact of taxes
+3:10:37
+for investors in the S&P 500 over all 20-year periods using average tax rates
+3:10:43
+for the top quintile today throughout the analysis period. The different columns represent
+3:10:50
+different ways of investing in the US stock market, including a tax deferred retirement account where tax is paid
+3:10:56
+only at the end of the investment and holding physical equities and reinvesting dividends annually like if
+3:11:03
+stocks were held in a brokerage account. While these different implementations have different tax implications with
+3:11:10
+retirement accounts least impacted, all of them show a significant impact, especially in real returns where taxes
+3:11:17
+can erode a significant portion of returns. US investors lost about a
+3:11:23
+quarter of their real equity returns on average to taxes in any given 20-year
+3:11:28
+period. [Music] Reviewing the big capital market
+3:11:35
+cycle. Earlier I explained how the classic big debt and capital market cycle works. To reiterate in the upwave
+3:11:43
+debt is increased and financial wealth and obligations rise relative to tangible wealth to the point that these
+3:11:50
+promises to pay in the future that is the values of cash, bonds and stocks can't be met. This causes run-on the
+3:11:58
+bank type debt problems to emerge which leads to the printing of money to try to relieve the problems of debt defaults
+3:12:05
+and falling stock market prices which leads to the devaluation of money and in
+3:12:10
+turn to financial wealth going down relative to real wealth until the real
+3:12:15
+inflationadjusted value of financial assets returns to being low relative to
+3:12:21
+tangible wealth. Then the cycle begins again. That is a very simplified
+3:12:27
+description, but you get the idea. During the downwave in this cycle, there are negative real returns of financial
+3:12:33
+assets relative to real assets and there are bad times. It is the anti- capital
+3:12:40
+anti- capitalist part of the cycle that continues until the opposite extreme is
+3:12:45
+reached. This cycle is reflected in the next two PDF charts. The first shows the
+3:12:52
+value of total financial assets relative to the total value of real assets. The
+3:12:58
+second shows the real return of money that is cash. I use US numbers rather
+3:13:04
+than global numbers because they are the ones that are most continuous since 1900. As you can see, when there is a
+3:13:10
+lot of financial wealth relative to real wealth, it reverses and real returns of financial wealth, especially cash and
+3:13:18
+debt assets like bonds are bad. That is because interest rates and returns for
+3:13:23
+debt holders have to be low and bad in order to provide the relief to the debtors who have too much debt and in
+3:13:30
+order to try to stimulate more debt growth as a way of stimulating the economy. This is the classic late cycle
+3:13:37
+part of the long-term debt cycle. It occurs when printing more money is used to reduce debt burdens and new debts are
+3:13:45
+created to increase purchasing power. This devalues the currency relative to
+3:13:50
+other storeholds of wealth and relative to goods and services. Eventually, as the value of financial
+3:13:57
+assets declines until they become cheap relative to real assets, the opposite
+3:14:02
+extreme is reached and reverses, which is when peace and prosperity return, the
+3:14:07
+cycle goes into its up phase, and financial assets have excellent real
+3:14:13
+returns. As explained earlier, during periods of the devaluation of money,
+3:14:18
+hard money and hard assets rise in value relative to cash. For example, the next
+3:14:24
+PDF chart shows that periods when the value of the classic 60/40 stock bond
+3:14:30
+portfolio declined were periods when gold prices rose. I'm not saying
+3:14:35
+anything about gold being a good or bad investment. I'm simply describing economic and market mechanics and how
+3:14:42
+they have been manifest in past market movements and investment returns for the purpose of sharing my perspective on
+3:14:49
+what happened and what could happen and why. One of the most important questions
+3:14:55
+investors need to regularly ask themselves is whether the amount of interest that is being paid more than
+3:15:01
+makes up for the devaluation risk they face. The classic big debt money capital
+3:15:07
+market cycle which has repeated through time and in all places and is reflected
+3:15:12
+in the charts I just showed you is seen in the relative values of one real
+3:15:18
+tangible money and real tangible wealth and two financial money and financial
+3:15:24
+wealth. Financial money and financial wealth are valuable only to the extent
+3:15:29
+that they get you the real money and real wealth that have real that is intrinsic value. The ways these cycles
+3:15:37
+have always worked is that in their rising phases the amounts of financial money and financial wealth that is
+3:15:43
+created debt and equity assets are increased relative to the amounts of real money and real wealth that they are
+3:15:50
+claims on. They are increased because A it is profitable for those capitalists
+3:15:56
+who are in the business of creating and selling financial assets to produce and sell them. B increasing money, credit
+3:16:03
+and other capital market assets is an effective way for policymakers to create prosperity because it funds demand. And
+3:16:11
+C, it creates the illusion that people are wealthier because the stated values of financial investments go up when the
+3:16:18
+value of the money and debt assets goes down. In this way, central governments
+3:16:24
+and central bankers have always created many more claims on real money and real
+3:16:29
+wealth than could ever be turned in for real wealth and real money. In the
+3:16:34
+rising parts of the cycle, stocks, bonds, and other investment assets go up as interest rates go down because
+3:16:41
+falling interest rates make asset prices rise, all else being equal. Also,
+3:16:47
+putting more money in the system raises the demand for financial assets, which lowers risk premiums. When these
+3:16:54
+investments go up because of lower interest rates and more money in the system, that makes them seem more
+3:16:59
+attractive at the same time as interest rates and the future expected returns of financial assets are going down. The
+3:17:07
+more outstanding claims there are relative to what there are claims on, the more risk there is. This should be
+3:17:14
+compensated for by a higher interest rate, but it typically isn't because at that moment conditions seem good and
+3:17:21
+memories of debt and capital market crises have faded. The charts that I showed you
+3:17:27
+before to convey the cycles would not be complete and painting the picture without some interest rate charts.
+3:17:34
+Interest rates are shown in the next four PDF charts that go back to 1900.
+3:17:40
+They show real that is inflationadjusted bond yields. Nominal that is
+3:17:45
+non-inflation adjusted bond yields and nominal and real cash rates for the US,
+3:17:51
+Europe and Japan at the time of my writing. As you can see, they were much higher and now they are very low. Real
+3:17:59
+yields of reserve currency sovereign bonds at the time of my writing this are near the lowest ever and nominal bond
+3:18:06
+yields are around 0% also near the lowest ever as shown real yields of cash
+3:18:13
+are even lower though not as negative as they were in the 1930 to45 and 1915 to20
+3:18:20
+great monetization periods. Nominal cash yields are near the lowest ever.
+3:18:27
+What does this mean for investing? The purpose of investing is to have money in a storehold of wealth that one can
+3:18:33
+convert into buying power at a later date. When one invests, one gives a
+3:18:39
+lumpsum payment for payments in the future. Let's look at what that deal as
+3:18:44
+of this writing looks like. If you give $100 today, how many years do you have
+3:18:50
+to wait to get your $100 back and then start collecting the reward on top of
+3:18:55
+what you gave? In US, Japanese, Chinese, and European
+3:19:00
+bonds, you could have to wait roughly 45 years, 150 years, and 30 years,
+3:19:06
+respectively, based on August 2021 levels of 30-year nominal bond yields
+3:19:11
+treated as perpetuity, to get your money back, likely getting low or nil nominal
+3:19:17
+returns. And in Europe, at the time of this writing, you would likely never get your money back given negative nominal
+3:19:24
+interest rates. However, because you are trying to store buying power, you have to take into
+3:19:30
+consideration inflation. At the time of this writing, in the US and Europe, you
+3:19:35
+may never get your buying power back. And in Japan, it will take over 250
+3:19:41
+years. In fact, in these countries with negative real interest rates, you are almost guaranteed to have a lot less
+3:19:48
+buying power in the future. Rather than get paid less than inflation, why not
+3:19:54
+instead buy stuff, any stuff that will equal inflation or better? I see a lot
+3:20:00
+of investments that I expect to do significantly better than inflation. The next PDF charts show
+3:20:06
+these payback periods for holding cash and bonds in the US in both nominal and real terms. As shown, it is the longest
+3:20:14
+ever and obviously a ridiculous amount of time. [Music]
+3:20:22
+Conclusion. What I showed you here was the big cycle from an investor's perspective since 1900. In looking
+3:20:30
+around the world going back 500 years and in China going back 1,400 years, I
+3:20:35
+saw basically the same cycles occur repeatedly for basically the same reasons. As discussed earlier in the
+3:20:42
+book, the terrible periods in the years prior to the 1945 establishment of the new world order are typical of the late
+3:20:50
+big cycle transition stage when revolutionary changes and restructurings occur. While they were terrible, they
+3:20:57
+were more than matched by terrific upswings that came after the painful transition from the old order to the new
+3:21:04
+order. Because these things have happened many times before and because I
+3:21:09
+can't say for sure what will happen in the future, I can't invest without having protections against these sorts
+3:21:15
+of things happening and my being wrong. That brings us to the end of the chapters covered in this video. To
+3:21:22
+continue listening, simply head to the next video in the series. Thanks for joining and see you in the next
