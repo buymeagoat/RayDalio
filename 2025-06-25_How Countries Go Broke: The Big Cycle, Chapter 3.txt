@@ -1,0 +1,886 @@
+0:00
+how countries go broke chapter 3 the following is an excerpt from an
+0:06
+early draft from Ray Doo's new book how countries go broke which is available for pre-order on the link in the
+0:13
+description this summary is brought to you by Mr Mentor preneur please like And
+0:18
+subscribe how countries go broke chapter 3 chapter 3 the mechanics in numbers and
+0:25
+equations warning this chapter gets into debt mechanics including some simple equations that are helpful in
+0:31
+calculating what is likely to happen related to the limitations of debt I believe this material will be valuable
+0:38
+for professionals and aspiring professionals and probably beyond the interests of others I suggest that you
+0:45
+give it a scan to grab the important Concepts and then decide if you want to delve deeper into this material while in
+0:51
+Chapter 2 I described in words how Central governments and central banks typically get into financial trouble in
+0:58
+this chapter I will show numbers and equations that can be used to anticipate these financial troubles including a few
+1:04
+formulaic examples to illustrate how high debt burdens compound and create problems I will start by showing you the
+1:12
+key drivers of debt sustainability and how they interact before I do I will lay
+1:17
+out what an unsustainable debt burden is ultimately it's simple an unsustainable
+1:23
+debt burden exists when the amount of money that comes in is less than the money that goes out either because a the
+1:30
+amount in storage I.E savings goes down and or B the amount borrowed goes up
+1:36
+until one runs out of savings and or One can't borrow anymore at which time a debt failure occurs think of this money
+1:44
+flow as being like a blood flow and think of income statements and balance sheets as the reports that show it a
+1:51
+healthy condition is when the amount that comes in from earning is equal to or greater than the amount that goes out
+1:57
+from spending and debts don't build up faster than incomes this isn't to say
+2:02
+that debt growth is necessarily bad if debts build up but the money borrowed leads to incomes Rising faster than the
+2:09
+rate of Debt Service Rises that will lead to more money coming in than going out which will be healthy when debts
+2:16
+grow faster than incomes think of it like plaque building up in the arteries because it reduces the amount of income
+2:23
+flow that can be used for spending or savings that is because it leads to increased Debt Service payments that red
+2:29
+reduce the amount of income that can go towards spending if the money flow is constrained too much there is a default
+2:36
+which is the economic equivalent to a heart attack interest rates matter a lot because they influence the amounts that
+2:42
+have to be paid a lot they also influence the willingness of lender creditors to hold and buy the debt
+2:48
+assets and liabilities as Debt Service becomes large relative to the amount of income
+2:54
+and savings a squeeze develops which is when a debt problem occurs we can
+2:59
+measure debt burdens in the following ways and we know that as they become high and or rise quickly the risks of
+3:05
+defaults and or devaluations also become High while there are about 35 indicators
+3:11
+that I look at to assess debt risks the four most important indicators are one
+3:17
+debts relative to income as debts get larger relative to incomes all else being equal the debtor will have higher
+3:24
+interest and rollover payments each year which will increasingly squeeze down the money that is left for other ending
+3:30
+there are two problems with high debts relative to income one there is a greater risk that the large amount of
+3:37
+existing debt won't be rolled over by creditors and two it creates higher debt service payments as a percent of income
+3:44
+which reduces the amount of money that can go to spending all else being equal that brings me to the next measure two
+3:52
+Debt Service relative to income Debt Service is the amount a deor must pay in interest and principal payments to not
+3:59
+default on its debts each year as total debt service gets higher and higher
+4:04
+relative to income it will either squeeze out spending or require more borrowing which will further increase
+4:10
+Debt Service expenditures as this happens it leads investors to expect credit problems ahead and choose not to
+4:16
+lend more and or to sell the debt assets they already own which causes credit problems to come about to help estimate
+4:24
+how debts and Debt Service will build up I look at the rate of interest relative to the rate of income growth three
+4:31
+nominal interest rates relative to a inflation rates and B nominal income
+4:37
+growth rates on I.E inflation plus real growth I look at these for two reasons
+4:42
+they show me how debt and Debt Service are likely to grow relative to incomes for example if someone has debts of 100%
+4:50
+of income the nominal interest rate is 5% and the nominal income growth rate is
+4:55
+3% they will owe about 102% of income next year assuming their spending is
+5:01
+equal to their income they show me how attractive credit conditions are for lenders relative to borrowers if nominal
+5:08
+interest rates are high relative to nominal growth rates and inflation rates that is an indicator that conditions are
+5:14
+relatively favorable for lenders and unfavorable for borrowers which will encourage lending and discourage
+5:20
+borrowing spending I.E it reflects greater risk of debt problems among more
+5:26
+indebted debtors that can't print money to pay debt if the reverse is true
+5:31
+conditions are relatively unfavorable for lender creditors and favorable for borrower debtors which will encourage
+5:37
+borrowing and discourage lending four debts and Debt Service relative to
+5:43
+savings EG reserves if all of the above are not financially healthy but one has
+5:49
+large savings to draw on and draw down one won't have a high risk of default
+5:54
+because one can draw on the savings EG reserves to make debt and spending payments
+6:00
+inevitably equilibrium levels of one debts relative to incomes two Debt
+6:05
+Service relative to incomes three nominal interest rates relative to inflation rates I.E real interest rates
+6:13
+and nominal growth rates and four debts and Debt Service relative to savings will be approached if you watch these
+6:20
+ratios over time you will see them go to extreme levels and return to more normal levels one way or another if you
+6:27
+understand the cause effect relationships that drive these changes you can understand how to navigate them
+6:32
+and how they can be best managed most importantly if you understand the painful deleveraging part you will
+6:39
+understand that it can be handled well to be less painful or handled poorly and be very painful these four indicators
+6:46
+are not the only ones that matter in chapter 4 I'll show you how a broader set of indicators evolve through the end
+6:53
+of the big debt cycle and in chapter 15 I'll show you what my indicators suggest for the us today
+7:00
+however the previously mentioned four are the most important ones to watch they give us valuable information about
+7:06
+How likely a debt squeeze is and how severe it will be when it happens however they cannot tell us exactly when
+7:12
+the debt problem will occur because different conditions and different people's reactions to them lead to
+7:18
+different lead times for the selling of debt assets and other actions that precipitate a crisis still we can
+7:24
+measure the level of risk because countries with very high debt levels very large deficit low savings and very
+7:31
+high and very fast rising interest rates have a very high risk of a debt default or debt devaluation crisis the rest of
+7:39
+this section goes through a few formulaic examples to illustrate how high debt burdens compound and create
+7:45
+problems measuring debt burdens in numbers what follows are the mathematical relationships for measuring
+7:52
+these indicators these are just the common sense constraints on the amount of debt an entity can have expressed in
+7:59
+in equations which are the same constraints that you can have expressed in words to help you understand them you
+8:05
+might relate to them the same way you relate to your own debt constraints I will explain the rules and include a few
+8:11
+helpful rules of thumb the pages that follow will explain each of these with examples not only can these
+8:18
+relationships help one to identify debt problems but they can be used to help policy makers see how to fix them and
+8:24
+help Market participants position themselves well feel free to skip the this and come back if it's more helpful
+8:31
+to see examples first and then the math one future debts relative to future
+8:37
+income the formula to estimate this is in words future debt relative to revenue
+8:43
+is a function of one spending more or less than one makes in Revenue two the
+8:48
+compounding of one's existing debts and three Revenue growth as one's expenses
+8:53
+grow relative to one's Revenue one is forced to borrow more to finance the spending which increases new new
+8:59
+borrowing first numerator term as interest rates rise existing debts grow
+9:05
+faster second numerator term as revenues grow incomes grow relative to debts so
+9:11
+the ratio of debt to revenue Falls denominator term debt income is a good
+9:16
+indicator of risk because the larger it is the riskier and the more burdensome the debt is all else being equal for
+9:24
+example the more debt there is the more risk there is that the debt won't be rolled over and the more difficult it is for the
+9:31
+central bank to keep interest rates low enough to satisfy the borrower debtors without having them too high for the
+9:37
+lender creditor you can probably already see that in addition to the level of debt income mattering the interest rate
+9:44
+income growth rate and primary deficit expenses excluding interest versus Revenue matter a lot to how debt burdens
+9:52
+evolve we can also reconfigure this formula to solve for ways to keep the debt to income ratio the same we will
+9:59
+show a few different examples of this at the end of this chapter two future Debt
+10:04
+Service relative to future income the formula to estimate this is in words
+10:10
+future Debt Service relative to revenue is a function of future interest costs and principle payments relative to how
+10:17
+much revenue grows if Revenue grows a lot Debt Service will fall relative to
+10:22
+incomes all else equal future interest costs are a function of the debt level
+10:27
+and the average interest rate on debt if interest rates shoot up it generally will not immediately make the interest
+10:34
+costs for a debtor go up because on their longer term bonds the interest rate will be locked at the interest rate
+10:40
+at the time of issuance as the bonds roll I.E come due and are reissued at
+10:45
+the new interest rate the bonds will gradually get to have higher interest rates on them and interest costs will
+10:51
+rise principal payments are the amount of debt that is coming due each year that must be paid back typically via
+10:58
+issuing new debt to pay back the old debt that comes due a rough way to estimate principal payments is by
+11:05
+calculating the average maturity or time until debts must be paid back on
+11:10
+existing debts when debt is are stressed creditors typically will not want to lend to them for as long so we often see
+11:17
+the maturity of debts falling as creditors become more stressed which means principal payments go up for the
+11:23
+same level of debts three nominal interest rates relative to a inflation
+11:29
+rates and B nominal income growth rates I.E inflation plus real growth the
+11:36
+expected level of nominal interest rates relative to nominal growth rates tells us how debt and Debt Service is likely
+11:42
+to grow or Shrink below we show the formula for the interest rate that would keep debt levels and interest Debt
+11:48
+Service flat relative to revenue note that this is based on the first Formula
+11:53
+just reconfiguring that formula to give us the required interest rate to keep debts flat relative to Revenue to walk
+12:00
+through this in words if the primary deficit is zero I.E current expenses
+12:06
+before interest cause current Revenue debts will stay flat if the interest
+12:11
+rate is equal to the revenue growth rate if the primary deficit is 5% of the
+12:16
+current debt level interest rates would need to be 5% below the revenue growth rate the intuition here is that if the
+12:24
+interest rates are equal to revenue growth debts will compound at the same rate that income is growing
+12:30
+if the government is also borrowing debts need to compound slower than income so interest rates need to be
+12:35
+below Revenue growth rates as interest rates rise relative to revenue growth rates debts will grow relative to
+12:42
+incomes because existing debts will compound faster than revenue is growing and interest debt service costs will
+12:48
+grow even faster because both the debt level will grow and the interest rate will be rising and interest costs are
+12:54
+the product of these two inputs similarly as interest rates fall debt levels will grow less quickly and
+13:01
+interest debt service costs will grow even less or Shrink this is for instance
+13:06
+what has happened in Japan over the last 20 years I will show this in more detail in chapter 14 you can probably see that
+13:14
+just as you can solve for the interest rate required to keep debts flat you can also solve for the deficit or Surplus
+13:20
+required Revenue growth required and so on if you flip to the end of this chapter I show you what these numbers
+13:27
+look like for the US and Japan today for debts and Debt Service relative to
+13:32
+savings EG reserves just as we can estimate debt burdens relative to income
+13:38
+we can estimate them relative to savings simply by looking at the level and change in savings rather than the level
+13:45
+and change in incomes the formula to estimate this is as follows these
+13:50
+formulas are very similar to 1 and two so I will not fully walk through them in words the difference is that we are
+13:57
+looking at debts and Debt Service relative to savings if one has large debts but very large savings it is less
+14:04
+likely that the debt burdens are concerning because one can pay the debt service and pay back part of the debts
+14:10
+using the savings it creates a buffer if one is consistently running deficits and
+14:15
+the expected Surplus is negative you can see that debts and Debt Service will quickly grow relative to savings
+14:21
+creating a more concerning setup a few rules of thumb that help to convey how these equations play out if nominal
+14:29
+interest rates are at the same level as nominal income growth and a government is running no primary deficit IE Revenue
+14:37
+our spending excluding interest the debts will stay the same relative to the
+14:42
+incomes but if interest rates are higher than income growth then the debt burdens of existing debts will increase this is
+14:50
+probably the single most important variable in our calculation for example a bad but plausible period of nominal
+14:57
+interest rates to nominal growth would be interest rates being higher than income growth by 2% this would cause the
+15:04
+debt to income ratio to increase by around 50% over 20 years even without
+15:09
+primary deficits leading to more borrowing and debt this means that if you start with debts of 50% of income
+15:16
+they'll go to 75% but if you start with debts of 400% they'll go to
+15:22
+600% Debt Service expenses accumulating is like plaque in the arteries accumulating in that it squeezes out the
+15:29
+desired flow of nutrients to the economy the main effect of high debt levels is making the DEA vulnerable to not being
+15:36
+able to roll it forward these mathematical relationships can provide us with good estimates of the magnitudes
+15:42
+of Debt Service squeezes that will occur if the existing levels of debt are rolled over however they don't show the
+15:49
+dynamic that happens when holders of debt assets want to sell the debt they are holding in this next section I will
+15:55
+explain all these things now I will go through a few examples to illustrate how
+16:00
+these drivers work and interact with one another example one debts relative to
+16:06
+incomes levels and changes as starting debt levels grow and as deficits I.E
+16:12
+borrowings grow future debt levels Debt Service and interest costs all grow the
+16:18
+table below shows a range of outcomes the debt to GDP ratio which is more commonly quoted is not as relevant to
+16:25
+the government's Debt Service picture as its own debt to income ratio that is because for any deta including
+16:32
+Central governments what matters most is the amount of money that goes out in this case in debt service relative to
+16:39
+the amount of money that comes in because that is what creates the debt squeeze the size of GDP is only
+16:45
+partially related both are only rough indicators of the capacity of the economy to Bear the debt burden for
+16:52
+reference the US government's debt to money coming in mostly tax income is as
+16:57
+of this writing about 580 expenditures excluding interest are
+17:03
+projected to average shika 115% of income over the next decade so the
+17:08
+primary deficit the difference between these is 15% of income the US is also
+17:14
+borrowing 20% of its income each year to cover interest expenses on the existing
+17:20
+debt if we assume that interest rates equal income growth but use the actual projected primary deficit for the US I.E
+17:27
+the actual Gap between non-interest expenses and income the US government's debt to income is projected to rise by
+17:34
+about 150% from 580 to 730% over the next 10
+17:41
+years this would also lead to a proportional increase in the interest expense and Debt Service burden the
+17:47
+table below shows debt levels 10 years forward for various starting debt levels and deficits the second table shows the
+17:55
+change relative to the starting debt level you can see that as as the starting debt level rises and as
+18:01
+deficits become larger the expected debt level at the end gets higher when going through these numbers you might keep in
+18:07
+mind that at the time of this writing the US Japanese Chinese French German
+18:12
+and UK numbers are approximately as follows example two the effects of
+18:18
+nominal interest rates minus nominal income growth rates on debt to income ratios when interest rates are higher
+18:25
+than income growth rates the existing debt grows relative to incomes because the debt compounds faster than incomes
+18:32
+grow the tables below illustrate how this works previously we showed how debt
+18:37
+grows for different starting debt levels and deficits this time we are assuming a starting deficit of 35% of income using
+18:45
+the cbo's projected primary deficit over the next decade the rows below are still
+18:50
+different starting debt levels The Columns now show the nominal interest rate minus the nominal income growth
+18:57
+rate the CBO projects that over the next decade effective interest rates will
+19:02
+average 3.4% and the us will have 3.8% nominal growth the difference is
+19:09
+0.4% so this would leave the us around the red boxed area below the first table
+19:15
+below shows the levels of debt to income 10 years from now based on these assumptions and the second table shows
+19:21
+the change in debt to income over the 10 years as interest rates get higher than
+19:26
+growth debt levels grow faster also as debts get higher the impact of high
+19:31
+interest rates gets worse much faster previously we forecast that with current debts and deficits US debt levels will
+19:38
+rise from 580 to 730% of income if we also incorporate projected interest
+19:45
+rates relative to nominal growth we'd expect us debt levels to rise to 679 of
+19:51
+income assuming taxes stay a constant share of GDP you get the idea since
+19:57
+interest rates are projected to be slightly below nominal growth this adjustment doesn't change our debt
+20:03
+Outlook much for the us today but you can see that if the Central Bank wanted to help the central government keep its
+20:09
+debt burdens more manageable it could push interest rates to further below nominal growth by buying the government
+20:15
+bonds which would cause debt burdens to grow much slower all else equal of
+20:21
+course that wouldn't be good for the lender creditors holding the debt assets because they would get a lower nominal
+20:26
+interest rate and a lower real interest rate than they would have gotten I suspect that you are beginning to get
+20:31
+the picture of how this Dynamic works and has worked in the past EG why
+20:37
+central banks created such low nominal rates near 0% and such negative real
+20:42
+interest rates by printing money and buying government debt and what is most likely to take place in the future if
+20:48
+the current path isn't altered more specifically if debt growth remains as projected central banks will have to
+20:55
+push real interest rates lower which will make debt assets less attractive for lender
+21:00
+creditors in an economy there are many interrelated drivers that change interdependently it's like a Rubik's
+21:07
+Cube in which changing one part of the cube One driver in the grids shown previously causes changes to the other
+21:14
+parts it gets complicated to understand how these drivers interrelate and to project scenarios to help illustrate
+21:21
+this we created a simple model to walk through one scenario for the next decade let's start by considering examples
+21:28
+three below with a government that has numbers similar to the US government now let's say nominal income is growing at
+21:35
+3.8% a year interest rates are 3.4% and debt levels start at 580 of government
+21:43
+income in this example we'll assume that the government spends 35% more than it
+21:48
+collects in income including interest payments example three interest rates
+21:54
+spiral upward to keep buyers in the debt assets since this government is running
+21:59
+a 15% primary deficit I.E excluding interest payments it collects 5.2
+22:05
+trillion in revenue and spend $6 trillion in year one it must pay $1.1
+22:11
+trillion in interest because it started with debts at 580 of government income
+22:16
+and interest rates are about 4% let's assume that about 35% of the existing
+22:22
+debt is coming due this year which is about how much US Government debt matures every year and will need to be
+22:29
+rolled over so 10.3 trillion Do's existing debt will come due this year
+22:34
+and will need to be paid back in total this government needs to sell $12.2 trillion of debt in year One what
+22:41
+happens if the public is no longer willing to buy this debt or is a seller at current interest rates markets must
+22:48
+clear so this means that interest rates will go up until someone is willing to buy these bonds but as the interest
+22:55
+rates go up that makes the government's borrowing even more expensive meaning the problems get even worse creating a
+23:01
+greater desire to sell the bonds which creates even more upward pressure on interest rates a spiral of rising
+23:08
+interest rates leading to worsening credit risk leading to less demand for the debt leading to higher interest
+23:14
+rates is a classic debt death spiral in the table below you can see how this works in this example I show interest
+23:22
+rates going up by 0.5% a year while nominal growth stays flat if interest
+23:27
+rates stayed flat that the government would have ended year 10 with debts at 679 of income and interest at 22% of
+23:35
+income here relative to income we end with debts at 8.98% interest at 68% and
+23:42
+total debt service including principal payments of 353 c. of course if interest
+23:48
+rates are going up because the debts are unsustainable they'll only go up more as debts rise and become even more
+23:54
+unsustainable and at the same time the high interest rates are likely constricting income growth increasing
+24:00
+the challenge of debt sustainability of course the worst case scenario is one where a significant
+24:06
+additional amount of debt assets is sold I.E to fund a war or social benefits in
+24:11
+a recession which would drive interest rates up a lot more a toy model interest
+24:17
+rates spiral higher a government can prevent this spiral of rising rates by reducing its debt burdens I laid this
+24:24
+out in more detail in my book principles for navigating big debt Crim es but to reiterate there are four ways to reduce
+24:31
+debt burdens for a government austerity I.E spending less which doesn't work
+24:37
+because one person's spending is another's person's earnings so austerity causes a self-reinforcing deflationary
+24:44
+contraction debt defaults restructurings which reduce debt burdens and are
+24:49
+deflationary because one person's debts are another's assets the Central Bank printing money and making purchases of
+24:56
+debt which reduces debt burdens because it provides the money to pay the debts and is inflationary transfers of money
+25:03
+and credit from private Market players who have money to the government via taxes which is then transferred to other
+25:09
+private Market players when I looked at historical cases of private debt problems I typically saw a mix of these
+25:15
+levers being pulled with a strong bias to print money and buy debt I.E monetize
+25:21
+debt when the debt squeeze is big I also saw the fight over increased taxes as
+25:26
+well as big conflicts between those of the left and those of the right that all occurs for logical reasons when Central
+25:33
+governments are squeezed it's a big deal because Central governments are typically the largest part of the
+25:38
+economy and the only part of the economy to pay for large amounts of non-economic social expenses which are critically
+25:45
+important at such times when economic conditions are bad if governments are slow in providing spending and financial
+25:52
+support it's likely that that will create a larger economic downturn which counterintuitively worsen debt burdens
+25:59
+by reducing income growth and net worths and could lead to social turmoil as a result for overly indebted
+26:06
+governments to cut their spending to deal with their debt problems at such times is self- damagingly painful then
+26:12
+the question is where does the government get its money from the easiest path though not the best path
+26:18
+for the long-term health of the system is for governments to resolve their debt problems and spend as they would like to
+26:24
+spend by having the Central Bank print money and purchase the bonds thereby holding interest rates down at
+26:30
+tolerable levels and putting money into the system as a result that is what they will unfailingly do when the debts are
+26:38
+denominated in their own currencies let's look at an example of how this works example four Central Bank steps in
+26:46
+because private players are unwilling to hold the desired amount of government bonds to keep interest rates at the
+26:51
+desired level for acceptable economic growth thus far we looked at how the starting debt to income ratio the income
+26:58
+growth rate the spending growth rate the interest rate and the maturity of the government debt affects future debt
+27:06
+burdens also as mentioned the demand for the debt matters a lot and the central
+27:11
+bank can and typically does print money and buy I.E monetized debt let's now
+27:17
+look at how this last piece works there are many factors that determine the private markets demand for government
+27:23
+debt as previously explained these include the expected real return of bonds relative to the projected real
+27:30
+returns of other assets the total amount of money and Credit in the system the sense of impending risk of a debt
+27:36
+currency crisis Etc while these factors are measurable they are much harder to project than the previously described
+27:44
+determinants however they are observable most importantly in the form of either a interest rates going up while the
+27:51
+economy and the currency are weak due to the supply demand imbalance worsening or
+27:56
+B central banks spending reserves and or printing money and creating debt to buy government debt to try to lower real and
+28:03
+nominal interest rates by increasing the demand to eliminate the imbalance in the next chapter you will see how this
+28:10
+typically happens and signals for the transition to the debt currency crisis
+28:15
+before we move on I wanted to show you how it works for the central bank to step in and absorb excess debt Supply in
+28:21
+order to maintain interest rates and liquidity at a desired level let's start with our previous example and model
+28:28
+modify it slightly let's assume that in year 1 the government has $10.3 trillion
+28:33
+of debt expiring and is issuing $ 122 trillion of new debt to replace the expiring bonds pay interest and cover
+28:41
+spending rather than allowing interest rates to spiral upward to generate sufficient demand for these debt assets
+28:47
+let's assume the Central Bank steps in and buys all the excess issuance so that the private sector continues to hold no
+28:54
+more than 600% of government income in debt and interest rates stay flat at
+29:00
+3.4% in this example in year two the central bank will have to buy 0.3
+29:06
+trillion of those debt Assets in subsequent years these purchases get larger and larger mechanically to
+29:13
+purchase these debt assets I.E monetize the government debt the Central Bank
+29:18
+prints money by creating new reserves cash and gives private players that money in exchange for the bonds this
+29:26
+increases the money supply m Z in this example let's assume that the money supply starts at $5.6 trillion so 110%
+29:35
+of the starting government income roughly where it is today in the United States in our example as the Central
+29:42
+Bank prints more and more to cover government shortfalls the money supply balloons the Central Bank steps in this
+29:50
+is a rough example but you can see the general Contours of how this works for real economies as an economy needs lower
+29:57
+and lower interest rates Ates to keep debt burdens manageable there is less and less private demand for the debt at
+30:03
+those lower interest rates which requires the central bank to step in the more the Central Bank steps in the more
+30:09
+it is forced to increase the money supply which devalues money and makes holding debt less desirable that is
+30:15
+because all else being equal central bank money and credit creation lowers the value of money which increases
+30:22
+inflation and currency weakness the relationship is not precise and depends on how exactly the printed money is
+30:29
+transmitted through the economy lowering interest rates and increasing the supply of money lowers the attractiveness of
+30:35
+the currency which makes holding the debt denominated in that currency unattractive in the tables below I
+30:42
+wanted to give you a sense of how much money gets printed and how it affects the currency in the first table the rows
+30:49
+represent different starting debt to income levels for a government and the columns represent how many bonds private
+30:55
+players are willing to purchase at current interest rates as a government has more of a debt problem and as
+31:01
+private players are willing to hold less of the debt the money stock increases more the Red Box reflects the scenario
+31:08
+laid out above where the Central Bank buys $7.7 trillion of bonds increasing
+31:14
+the money stock from $5.6 trillion to 13.5 trillion buying up bonds and increasing
+31:22
+the money supply is stimulative and puts downward pressure on the currency in two ways mechanically pushing down interest
+31:29
+rates usually causes the currency to sell off why to spell out the mechanics
+31:35
+usually all else equal lowering an interest rate won't change investors long-term expectations of the value of a
+31:42
+currency the 10-year forward currency doesn't move as much if you are getting less interest in the meantime because
+31:48
+interest rates fell the New Deal is strictly worse the way to make the New Deal Fair again is for the spot currency
+31:55
+to fall that way you'll earn more more through currency appreciation as it reaches the same expected 10-year
+32:02
+forward point to make up for Less in interest my next point will be too technical for some and helpfully
+32:08
+Technical for others so if you want to skip the technical stuff skip it mechanically pushing down interest rates
+32:15
+pushes up the currency forward eg a rise in one country's 10year Sovereign
+32:20
+risk-free bond yield relative to another country's 10-year risk-free bond yield will raise the 10year forward currency
+32:27
+so if the value to investors of the currency in the 10-year future were to stay the same the spot currency would
+32:33
+have to sell off by the present value of the 10-year interest rate differences to keep the 10-year currency forward flat
+32:40
+said more precisely and more simply as explained in chapter one the difference in Sovereign interest rates in two
+32:46
+countries will be offset by the forward currency premium EG if the interest rate
+32:51
+in country a is 2% above the interest rate in country B then the forward currency of country a will be at a 2%
+32:59
+per year annual discount to Country B so if interest rates in country a were lowered by 1% from that level and the
+33:06
+forward currency stays the same the currency would weaken by a corresponding amount also the printed money can
+33:12
+directly flow out of the currency creating a selling pressure in the currency that is as a central bank buys
+33:18
+bonds and gives other players cash there is a chance that they use that cash to buy other currencies rather than holding
+33:25
+it or buying assets just spending in the same economy in the next table we show a
+33:30
+range of outcomes for how this might work the columns again reflect different willingness to lend by private players
+33:37
+as you go to the right private players are less willing to lend to the government the rows reflect how
+33:42
+sensitive the currency is to the money supply as the market sees a currency as a worse and worse store of value we'd
+33:50
+expect the currency to become more sensitive to the money supply because other players will be less willing to
+33:55
+hold it for example let's assume that printing 1% of GDP in money led to V 1%
+34:01
+currency weakness then in the example above we'd expect a humon 15% currency
+34:07
+depreciation as the currency becomes more sensitive to the amount of money I.E m0 and as the private sector becomes
+34:14
+less willing to lend we'd expect to see more and more currency weakness what level of interest rates can make debt
+34:21
+burdens affordable for a country in these examples we looked at how debts can compound to become unsain
+34:27
+sustainable I also wanted to show you the numbers around how debts can be managed sustainably in countries that
+34:34
+have a lot of debt and high deficits debts and debt service costs will be a big issue and how much they will
+34:40
+increase over time will be determined by the interest rate relative to income growth and inflation as shown in our
+34:47
+calculations a central bank can prevent debt service costs from rising or cause them to decrease relative to inflation
+34:54
+and incomes by pushing down nominal interest rates below nominal growth rates what I am referring to are the
+35:00
+impacts these things will have on the central governments and the central bank's Financial conditions of course
+35:07
+they will also have a ripple effect on all parts of the economy but let's skip that for now given that we can look at a
+35:13
+government's debt level and projected deficit and calculate what interest rate will be needed to produce any specified
+35:19
+level of debt and Debt Service relative to incomes EG to keep the debt burden
+35:25
+the same to have it decline Etc given estimates of future revenue and expenses
+35:31
+if I were setting policy for the FED I would want to look at what the deficit and debt levels are and likely will be
+35:37
+and set an interest rate so that debt burdens won't become too great over time for example I would probably want to
+35:44
+look at what interest rate would keep Debt Service payments the same that would affect my interest rate policy I
+35:51
+would also want to calculate what level of interest rate would be needed for my Central Bank not to have big losses on
+35:57
+my my balance sheet let's look at these things and also look at how they would have worked in the past formula for
+36:04
+determining future debt burdens as a reminder the equation below shows the drivers of future levels of
+36:10
+debt and Debt Service relative to incomes this is more fully explained at the start of this chapter in the table
+36:18
+below I use this formula to estimate what interest rates would stabilize debt burdens relative to incomes for the us
+36:24
+today we also show how each of the other available levers would have to change in order to stabilize debt burdens you can
+36:32
+see that to stabilize government debt burdens the US would either need to see nominal interest fall to about 1% see
+36:39
+nominal economic growth average about 6% 2.5% additional inflation above the 3.8%
+36:47
+nominal growth projected by the CBO or raise government revenue I.E raising
+36:53
+taxes by 11% of course each one of these part s would be intolerably too large so it
+37:00
+will take the right combination of lesser amounts of these to successfully achieve the goal in chapter 16 my 3%
+37:07
+solution how the us could stabilize its debt burden I show what I believe the
+37:13
+best combinations would be to achieve the goal of limiting debt burdens and risks in a very tolerable way the views
+37:20
+expressed in this article are mine and not necessarily Bridgewaters the information provided herein is not not
+37:27
+intended to provide a sufficient basis on which to make an investment decision and investment decisions should not be
+37:33
+based on simulated hypothetical or illustrative information that have inherent limitations unlike an actual
+37:40
+performance record simulated or hypothetical results do not represent actual trading or the actual costs of
+37:47
+management and may have under or overcompensated for the impact of certain Market risk factors Bridgewater
+37:54
+makes no representation that any account will or is likely to achieve returns similar to those shown the price and
+38:01
+value of the Investments referred to In This research and the income there from May fluctuate every investment involves
+38:09
+risk and in volatile or uncertain market conditions significant variations in the
+38:14
+value or return on that investment may occur investments in hedge funds are
+38:19
+complex speculative and carry a high degree of risk including the risk of a complete loss of an Investor's entire
+38:26
+investment past performance is not a guide to Future performance future returns are
+38:32
+not guaranteed and a complete loss of original capital may occur certain transactions including those involving
+38:39
+leverage Futures options and other derivatives give rise to substantial risk and are not suitable for all
+38:46
+investors fluctuations in exchange rates could have material adverse effects on the value or price of or income derived
+38:53
+from certain Investments Bridgewater research utilizes data and information
+38:59
+from public private and internal sources including data from actual Bridgewater trades sources include BCA Bloomberg
+39:07
+Finance LP Bond radar candal CBRE in cic
+39:13
+data company leled China bull research Claris Financial technology CLS
+39:18
+processing Solutions conference Board of Canada consensus economics Inc data yes
+39:24
+Inc dialogic dtcc data Repository Echo analytica Empirical research Partners
+39:30
+enes axioma Contigo Sim Corp epfr Global Eurasia group evor isi factset research
+39:38
+systems fast markets Global limited the financial times limited finra gcal
+39:45
+research ledd Global Financial data Global Source Partners Harvard Business
+39:50
+Review ha analytics incur institutional shareholder Services ISS the investment
+39:58
+funds Institute of Canada ice derived data UK Investment Company Institute
+40:05
+International Institute of Finance JP Morgan jsta advisors M science LLC
+40:11
+Market access medley Global advisors energy aspects Corp Metals Focus LTD
+40:17
+Moody's ESG Solutions msci iny National Bureau of economic research new data
+40:24
+Organization for economic cooperation and develop development pensions and Investments Research Center reative
+40:31
+rodium group RP data rubinson research rad energy S&P Global Market
+40:38
+intelligence scientific infra edac centic gmbh Shanghai Metals Market
+40:44
+Shanghai wind information smart Insider LTD sustainalytics swaps monitor trade
+40:51
+web United Nations US Department of Commerce verisk Maple Croft visible
+40:56
+Alpha Wells Bay wind financial information LLC wood McKenzie limited
+41:02
+World Bureau of metal statistics World economic forum and yield book while we
+41:08
+consider information from external sources to be reliable we do not assume responsibility for its accuracy this
+41:15
+information is not directed at or intended for distribution to or used by
+41:20
+any person or entity located in any jurisdiction where such distribution
+41:25
+publication availability or use would be contrary to applicable law or regulation
+41:31
+or which would subject Bridgewater to any registration or licensing requirements within such jurisdiction no
+41:37
+part of this material may be I copied photocopied or duplicated in any form by
+41:43
+any means or I redistributed without the prior written consent of Bridgewater R
+41:50
+Associates LP for example in my book principles for dealing with the changing
+41:55
+World Order I'm measured and looked at the most important cause chock effect relationships that changed the world
+42:02
+over the last 500 years and simplified my description of how I see them to consist of the five big forces typically
+42:09
+35 55% of all spending if you include state and local governments in developed
+42:15
+countries comes from government spending Bitcoin is an example of an attempt to create a private version of money using
+42:22
+blockchain a distributed Ledger technology while it's by and large true
+42:27
+that all Investments compete on just a total return basis it's not totally true
+42:32
+because different investors have different objectives and considerations so that at sometimes these different
+42:37
+objectives and the differences in the supplies of Investments to meet the demands can lead to some Investments
+42:43
+having more attractive returns than others however because there is a profit to be made by shorting the asset that
+42:50
+has the lower risk adjusted return to fund the one that has the higher risk adjusted return there is a strong
+42:57
+tendency for these differences to shrink to be rather small I can make money by buying an
+43:03
+investment that has a higher total return while selling an investment that has a lower total return for example for
+43:10
+items that can be stored the price premium of the forward or Futures price over the spot price won't be more than
+43:16
+the cost of storing it including the interest expense on the money tied up with it in inventory for items that will
+43:23
+be stored EG gold the spot price will be detered determined by the expected future price minus the storage cost
+43:31
+rather than the future price being determined by the spot price plus the storage cost here's the math if a
+43:37
+currency is expected to depreciate by 2% per year that means the forward price is
+43:43
+82% of the current price 2% depreciation compounded for 10 years the spot needs
+43:49
+to be priced to appreciate by 3% each year until it reaches the current 10-year forward price of 82% a spot
+43:56
+price of 0.61 X 1.03 Ola 10
+44:02
+0.82 so the spot Must Fall from 1 to 0.61 which is a 40% move here's the
+44:09
+somewhat simpler math the price impact of an interest rate move on bonds is the change in yield X the duration the
+44:17
+duration of 10-year government bonds is 7 to 8 years depending on the country 8X
+44:23
+5% 40% entity from a Central Bankers perspective the currency weakness and
+44:29
+inflation can be good because they reduce the debt burden which happens when the nominal interest rate is below
+44:35
+the nominal growth rate and especially when the nominal interest rate is below the inflation rate I.E when real
+44:42
+interest rates are negative 10 keep in mind that the different inflation rates in the different countries are typically
+44:48
+more due to the differences in the rates of changes in the values of their money currencies which are more due to the
+44:55
+changing supplies of money and credit credit then they are due to the changing values of the items being bought and
+45:01
+sold when measured in a common currency for Simplicity I am using the
+45:06
+word Banks to describe all Financial intermediaries that take on financial liabilities to get higher returns in
+45:13
+financial assets if the amount earned is greater than the amount spent excluding
+45:18
+the interest payments that is called a primary Surplus and if it is less that is called a primary deficit this
+45:26
+equation is inexact act because a government could use a surplus to either accumulate reserves savings or to pay
+45:32
+down existing debts which would show up via expenses being lower than Revenue
+45:38
+depending on what choice a government made the Surplus could show up as future debt falling or as future savings
+45:44
+increasing either way the ratio would improve but the effect would be slightly different based on the choices of the
+45:50
+government 14 GDP can be an indicator of the size of the economy that can be taxed by governments to make debt
+45:57
+payments so throughout this study I am using the cbo's projections where
+46:02
+possible as a baseline estimate these projections are based on settled law so they assume that expiring fiscal
+46:08
+measures I.E the Trump tax cuts roll off as implemented in current law if these
+46:14
+tax cuts are extended the CBO estimates it would represent additional annual spending of 1.3% of GDP or 10.6% of
+46:23
+government revenue which would substantially worsen the fiscal trajectory versus the cbo's Baseline
+46:30
+projection 16 as noted previously the CBO projections use settled law so they
+46:35
+assume that expiring fiscal measures I.E the Trump tax cuts roll off as
+46:41
+implemented in current law if these tax cuts are extended the CBO estimates it
+46:46
+would represent additional annual spending of 1.3% of GDP or 10.6% of
+46:52
+government revenue the views expressed in this article are those of the author Ray Dario
